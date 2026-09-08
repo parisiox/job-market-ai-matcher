@@ -1,0 +1,236 @@
+[
+    {
+        "output": [
+            {
+                "rank": 1,
+                "title": "Praktikum IT-Projektportfolio- & Demandmanagement",
+                "link": "https://www.adzuna.at/details/5849144828?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This internship (Praktikum) is ideal for Anna as a current Computer Science student. It involves IT project analysis, workshops, and working with IT and business teams using tools like Microsoft and Jira. The role requires no specialized experience beyond university coursework, matches her academic background perfectly, and offers learning opportunities in modern work methods. Her collaboration skills from group projects and basic technical knowledge align well with supporting IT portfolio management."
+            },
+            {
+                "rank": 2,
+                "title": "Pflichtpraktikant:innen im IT Bereich",
+                "link": "https://www.adzuna.at/details/5814611615?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This mandatory internship at Rail Cargo Austria specifically targets students in IT/Computer Science for 2026, matching Anna's graduation timeline. The position focuses on Data Management and Data Engineering & BI, which aligns with her database coursework (SQL, SQLite) and her completed Database Fundamentals course. The role offers hands-on experience in a professional team environment, suitable for her current student status and skill level."
+            },
+            {
+                "rank": 3,
+                "title": "Praktikum Marketing & Grafik (w/m/div.)",
+                "link": "https://www.adzuna.at/details/5847683605?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This internship involves supporting web content, creating graphics for websites, and SEO work. Anna's web development experience (HTML5, CSS3, JavaScript, personal portfolio project) and her static website deployment skills make her suitable for the digital aspects of this role. While the focus is marketing/graphics, the technical web component matches her demonstrated abilities and provides a practical application of her web technologies coursework."
+            },
+            {
+                "rank": 4,
+                "title": "Pflichtpraktikant:innen im Bereich HR IT Governance",
+                "link": "https://www.adzuna.at/details/5841907658?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This mandatory internship at ÖBB focuses on HR IT Governance, offering work in internal processes within an IT context. While not purely technical, Anna's Computer Science background combined with her customer service experience at MediaMarkt (handling complaints, organization) provides relevant soft skills. The role requires working with competent teams on internal IT processes, which suits a student looking to understand IT within organizational structures."
+            },
+            {
+                "rank": 5,
+                "title": "Student IT Infrastructure (m/w/d)",
+                "link": "https://www.adzuna.at/details/5784543016?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This 20-hour/week student position in IT infrastructure at a hosting company offers hands-on technical work including migration projects. Anna's basic technical skills (Git, various programming languages, database knowledge) provide a foundation, and the student-friendly structure (20h/week) allows her to continue her studies. While infrastructure might not be her primary coursework focus, the role offers practical IT experience at a leading hosting provider with flat hierarchies suitable for students."
+            }
+        ],
+        "test_CV": "# CURRICULUM VITAE\n\n**ANNA MÜLLER**\nLinz, Upper Austria\nEmail: anna.mueller@email.at | Phone: +43 660 123 4567\n\n---\n\n## EDUCATION\n\n**Bachelor of Science in Computer Science** (ongoing)\nJohannes Kepler University Linz, Austria\nExpected Graduation: June 2026\nRelevant Coursework: Object-Oriented Programming, Database Fundamentals, Web Technologies, Software Engineering Basics\n\n**High School Diploma (Matura)**\nBundesgymnasium Linz, Austria (2021)\n\n---\n\n## WORK EXPERIENCE\n\n**Sales Assistant** (Part-time, March 2022 – Present)\nMediaMarkt Linz, Austria\n- Assist customers with product inquiries and inventory management\n- Process transactions and handle customer service complaints\n- Maintain store displays and stock organization\n\n---\n\n## PROJECTS\n\n**Student Course Project: Simple Book Management System** (December 2023)\nJohannes Kepler University Linz\n- Developed a basic CRUD application using Python and SQLite for managing a personal book library\n- Implemented core functionality including add, read, update, and delete operations\n- Collaborated with two team members; project submitted as coursework assignment\n\n**Personal Learning Project: Static Portfolio Website** (Summer 2024)\n- Built a simple personal portfolio using HTML5, CSS3, and vanilla JavaScript\n- Deployed on free hosting platform to practice deployment fundamentals\n- Focuses on responsive design principles for mobile and desktop viewing\n\n---\n\n## SKILLS\n\n**Programming Languages:** Python, Java, SQL\n**Web Technologies:** HTML5, CSS3, JavaScript (basics)\n**Tools & Platforms:** Git, Visual Studio Code, SQLite\n**Languages:** German (native), English (fluent), French (basic)\n\n---\n\n## INTERNATIONAL EXPERIENCE\n\n**ERASMUS+ Exchange Semester**\nUniversitat Autònoma de Barcelona, Spain (Spring 2024)\n- Completed one semester abroad studying advanced web development topics\n- Developed adaptability and cross-cultural communication skills\n\n---\n\n## ADDITIONAL INFORMATION\n\n- Member of university Computer Science student association\n- Completed online tutorial courses in JavaScript and database design (self-directed learning)",
+        "prompt_version": "v1",
+        "score": 6,
+        "reasoning": "The solution correctly identified appropriate student-level positions and avoided overqualified roles, showing good understanding of entry-level requirements. The top 2 selections are excellent matches. However, ranks 3-5 show decreasing alignment with Anna's core CS/software development profile, with two positions (Marketing and HR IT Governance) having only peripheral technical requirements. Several missed opportunities exist for more technical student roles that would better utilize her programming, database, and web development skills. The reasoning quality is high but the actual selection weakens significantly after rank 2."
+    },
+    {
+        "output": [
+            {
+                "rank": 1,
+                "title": "Praktikum IT-Projektportfolio- & Demandmanagement",
+                "link": "https://www.adzuna.at/details/5849144828?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This internship is an excellent match for Thomas as a Business Informatics student. It involves analyzing requirements from business areas, supporting workshops and meetings with IT and business teams, portfolio analysis and planning, and visualization tasks. These activities align perfectly with his coursework in Business Process Management and Systems Analysis. The role uses tools like Microsoft and Jira, building on his Microsoft Office skills. As an internship (Praktikum), it's ideal for his student status and expected May 2026 graduation."
+            },
+            {
+                "rank": 2,
+                "title": "Pflichtpraktikant:innen im IT Bereich",
+                "link": "https://www.adzuna.at/details/5814611615?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This mandatory internship (Pflichtpraktikant) at Rail Cargo Austria in Data Management and Data Engineering & BI is highly suitable for Thomas. The role focuses on working in a competent team on internal processes and tasks in the IT area. Given his Business Informatics background with coursework in data structures and MIS, this provides direct industry experience. The position is specifically designed for students completing their mandatory practical training, which aligns with typical Austrian university requirements for his program."
+            },
+            {
+                "rank": 3,
+                "title": "Pflichtpraktikant:innen im Bereich HR IT Governance",
+                "link": "https://www.adzuna.at/details/5841907658?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This mandatory internship at ÖBB-BCC GmbH focuses on HR IT Governance and internal processes. While slightly less technical than pure IT roles, it combines business processes with IT governance, which aligns well with Thomas's Business Informatics studies. His coursework in Business Process Management and Systems Analysis provides relevant foundation. The role involves working with internal processes and governance structures, building on his process optimization project experience and systems thinking skills."
+            },
+            {
+                "rank": 4,
+                "title": "Praktikum Marketing & Grafik (w/m/div.)",
+                "link": "https://www.adzuna.at/details/5847683605?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This marketing and graphics internship includes SEO and website work, which touches on digital systems. Thomas has basic Visio skills and strong documentation abilities from his requirements specification project. While this role is less IT-focused than his core studies, it involves website optimization, digital content, and working with digital tools. His interest in digital transformation and strong communication skills (German native, English fluent) make this a possible fit, though it's more peripheral to his Business Informatics focus."
+            },
+            {
+                "rank": 5,
+                "title": "Intern, Business IT",
+                "link": "https://www.adzuna.at/details/5834726604?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This Business IT internship at Bitpanda combines business and IT elements, fitting Thomas's Business Informatics profile. The role likely involves working at the intersection of business requirements and IT systems, which matches his academic projects in process optimization and requirements specification. His coursework in Management Information Systems and Business Process Management provides foundational knowledge. As an internship position at a fintech company, it offers exposure to modern digital business environments aligned with his interest in digital transformation."
+            }
+        ],
+        "test_CV": "# LEBENSLAUF\n\n**THOMAS WEBER**\nVienna, Austria\nEmail: thomas.weber@email.at | Phone: +43 664 456 7890\n\n---\n\n## EDUCATION\n\n**Bachelor of Science in Business Informatics** (ongoing)\nVienna University of Technology (TU Wien), Austria\nExpected Graduation: May 2026\nRelevant Coursework: Business Process Management, Systems Analysis, Introduction to Management Information Systems, Data Structures and Algorithms\n\n**Secondary Education Certificate (Matura)**\nGymnasium Wien-Süd, Austria (2022)\n\n---\n\n## WORK EXPERIENCE\n\n**Barista & Cashier** (Part-time, September 2023 – Present)\nCafé Prater Vienna, Austria\n- Operate point-of-sale systems and manage customer transactions\n- Provide customer service in a fast-paced café environment\n- Handle cash handling and basic inventory tracking\n\n---\n\n## PROJECTS\n\n**University Group Project: Process Optimization Analysis** (June 2024)\nVienna University of Technology\n- Analyzed and documented business processes for a fictional retail company as part of Business Process Management course\n- Created flowcharts and process models using standard notation\n- Presented findings to class; served as technical lead for documentation\n\n**Academic Assignment: Requirements Specification Document** (November 2023)\nSystems Analysis Course\n- Developed a comprehensive requirements specification for a hypothetical enterprise resource planning scenario\n- Practiced stakeholder communication and documentation standards\n- Submitted as individual coursework assignment\n\n---\n\n## SKILLS\n\n**Programming Languages:** C++, Python\n**Business Tools:** Microsoft Excel, Microsoft Word, Visio (basic)\n**Methodologies:** Business Process Management fundamentals, Systems thinking\n**Languages:** German (native), English (fluent), Spanish (conversational)\n\n---\n\n## CERTIFICATIONS & TRAINING\n\n- Online course completion: \"Introduction to Business Analysis\" (Coursera, 2024)\n\n---\n\n## ADDITIONAL INFORMATION\n\n- Active member of TU Wien Business Informatics student club\n- Volunteer experience: Assisted with organizing university career fair (Spring 2024)\n- Strong interest in digital transformation and enterprise systems",
+        "prompt_version": "v1",
+        "score": 7,
+        "reasoning": "The solution demonstrates strong understanding of the candidate's profile for the top 3 selections, correctly identifying relevant internships that match his student status and Business Informatics studies. However, positions 4 and 5 show weaker alignment - the marketing internship strays too far from IT core competencies, and the Bitpanda position lacks substantive reasoning. The analysis missed several more suitable alternatives like the IT Business Analyst role (which directly involves requirements documentation, workshops, and process analysis - core activities from Thomas's academic projects) and the Student IT Infrastructure position (explicitly designed for students). The overall approach is sound but execution weakens in the lower rankings."
+    },
+    {
+        "output": [
+            {
+                "rank": 1,
+                "title": "Junior Managers Program - Software & KI (w/m/div.)",
+                "link": "https://www.adzuna.at/details/5855705860?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "Perfect match for a junior developer with 2+ years experience. The role focuses on software development, implementing new technologies, and requires technical knowledge sharing. Markus has C#/.NET experience, completed Azure fundamentals certification, and participates in developer communities. The program structure suits someone early in their career looking to grow into broader responsibilities."
+            },
+            {
+                "rank": 2,
+                "title": "Projekt-Ingenieur / IT-Solutions Engineer (w/m/d)",
+                "link": "https://www.adzuna.at/details/5852126646?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "Strong fit combining technical implementation with customer-facing work. The role involves software configuration, testing, and maintenance - aligning with Markus's backend development experience in C#/.NET. His bug fixing skills, documentation experience, and professional English from study abroad would support customer interaction aspects. Entry-level position with mentorship mentioned."
+            },
+            {
+                "rank": 3,
+                "title": "IT Business Analyst (m/w/d)",
+                "link": "https://www.adzuna.at/details/5800785785?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "Good match leveraging both technical and analytical skills. Markus has experience with requirements analysis through sprint planning, documentation skills from legacy module work, and SQL knowledge for data modeling. His software development background provides the technical foundation needed to translate business requirements into specifications, though this represents a slight pivot from pure development."
+            },
+            {
+                "rank": 4,
+                "title": "Student IT Infrastructure (m/w/d)",
+                "link": "https://www.adzuna.at/details/5784543016?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "Suitable entry-level IT role at a hosting company requiring 20h/week, though Markus is currently full-time employed. His technical background in software development, experience with databases (SQL Server, MySQL), and understanding of infrastructure concepts through Azure fundamentals certification provide relevant foundation. However, this is more infrastructure-focused than his current development path."
+            },
+            {
+                "rank": 5,
+                "title": "Praktikum IT-Projektportfolio- & Demandmanagement",
+                "link": "https://www.adzuna.at/details/5849144828?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "Acceptable match for someone with development background looking to explore project management. Markus has experience with Jira, sprint planning, stakeholder communication in stand-ups, and documentation. His technical understanding would help in analyzing IT requirements and working with development teams. However, this is an internship (Praktikum) which represents a step back from his current junior developer position, making it the lowest ranked option."
+            }
+        ],
+        "test_CV": "# CURRICULUM VITAE\n\n**MARKUS STEINER**\nGraz, Styria, Austria\nEmail: markus.steiner@email.at | Phone: +43 676 234 5678\n\n---\n\n## EDUCATION\n\n**Bachelor of Science in Software Engineering**\nGraz University of Technology (TU Graz), Austria\nCompleted: June 2022\nGPA: 2.9/4.0\n\n**High School Diploma (Matura)**\nBundesgymnasium Graz-Andritz, Austria (2018)\n\n---\n\n## PROFESSIONAL EXPERIENCE\n\n**Junior Software Developer**\nSofttech Solutions GmbH, Graz, Austria\nSeptember 2022 – Present (2 years, 3 months)\n- Develop and maintain backend features for internal business applications using C# and .NET Framework\n- Identify and fix bugs reported by quality assurance team; average resolution time of 2-3 days\n- Contribute to code reviews and provide constructive feedback to peers\n- Participate in daily stand-ups and sprint planning meetings with development team\n- Assist with database schema updates and minor SQL query optimizations\n- Wrote documentation for two legacy modules to improve team knowledge base\n\n---\n\n## PROJECTS\n\n**Personal Learning Project: Task Management Application** (2021-2022)\n- Built a simple task management web application using JavaScript, HTML, CSS, and Node.js\n- Implemented user authentication and local data persistence\n- Project serves as personal reference and portfolio piece\n\n**University Coursework: Library Inventory System** (2021)\n- Developed a console-based library management system in Java as part of Object-Oriented Programming course\n- Implemented basic search, add, and delete functionality\n- Collaborated with two classmates on final submission\n\n---\n\n## SKILLS\n\n**Programming Languages:** C#, Java, JavaScript, SQL\n**Technologies & Frameworks:** .NET Framework, Node.js (basics), Git\n**Databases:** SQL Server, MySQL\n**Tools:** Visual Studio, Visual Studio Code, Jira, Postman\n**Languages:** German (native), English (professional working proficiency), Italian (basic)\n\n---\n\n## CERTIFICATIONS\n\n- Microsoft Certified: Azure Fundamentals (AZ-900) – Completed March 2024\n\n---\n\n## INTERNATIONAL EXPERIENCE\n\n**Study Abroad Semester**\nUniversity of Limerick, Ireland (Fall 2020)\n- Completed one semester of software engineering coursework as part of ERASMUS+ exchange program\n- Developed adaptability and enhanced English communication skills in academic setting\n\n---\n\n## ADDITIONAL INFORMATION\n\n- Regular contributor to small open-source projects on GitHub\n- Attended company internal training on .NET best practices (2023)\n- Member of local Graz developer meetup group",
+        "prompt_version": "v1",
+        "score": 7,
+        "reasoning": "The AI demonstrated strong CV parsing and matching capabilities by correctly identifying roles aligned with Markus's technical stack and experience level. The detailed reasoning shows good attention to CV details. However, critical oversights include missing a highly relevant Graz-based software consulting role and including a part-time student position that doesn't match his employment status. The ranking logic is generally sound but includes at least one questionable fit. The solution is above average but has notable gaps in comprehensive dataset scanning."
+    },
+    {
+        "output": [
+            {
+                "rank": 1,
+                "title": "IT Business Analyst (m/w/d)",
+                "link": "https://www.adzuna.at/details/5800785785?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This position is an excellent match for Sebastian's profile. As a Junior IT Consultant with experience in requirements gathering, business process analysis, and stakeholder management, he fits well into this Business Analyst role. The job involves analysis and documentation of functional requirements, conducting workshops with clients, creating functional concepts and process documentation, and collaborating with software development teams - all activities that align with Sebastian's current responsibilities and his Business Informatics degree. His experience with requirements gathering sessions, process modeling (BPMN), and client communication directly matches the job requirements."
+            },
+            {
+                "rank": 2,
+                "title": "Projekt-Ingenieur / IT-Solutions Engineer (w/m/d)",
+                "link": "https://www.adzuna.at/details/5852126646?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This role combines consulting, project work, and technical implementation, which aligns well with Sebastian's background. The position involves understanding customer processes and requirements, developing technical solutions, supporting software implementation, configuration, and maintenance - activities Sebastian has performed in his current role supporting business software implementations. His Business Informatics education provides the technical foundation, while his consulting experience gives him the client-facing skills needed. The role offers growth from his junior consultant position into more hands-on technical delivery."
+            },
+            {
+                "rank": 3,
+                "title": "Software Consulting & Projektleitung, Graz",
+                "link": "https://www.adzuna.at/details/5854388689?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This software consulting and project management position matches Sebastian's consulting background and his interest in supporting business process automation. With his experience in business process analysis, stakeholder management, and supporting software implementations, he has foundational skills for this role. His Business Informatics degree and understanding of business processes position him well to work with clients on automation solutions. While the role requires project leadership which may be a slight stretch from his junior position, his documentation and client communication experience provide a good foundation."
+            },
+            {
+                "rank": 4,
+                "title": "Contract Manager (m/f/x) | IT & Consulting Environment",
+                "link": "https://www.adzuna.at/details/5790618564?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This Contract Manager position in an IT consulting environment leverages Sebastian's consulting experience and documentation skills. The role involves developing contract management processes, maintaining documentation, managing contract lifecycles, and ensuring compliance - activities that require strong organizational and analytical skills that Sebastian has demonstrated through his project documentation work and process analysis. His experience in IT consulting gives him the industry context needed, though the role focuses more on administrative and governance aspects rather than technical consulting."
+            },
+            {
+                "rank": 5,
+                "title": "Business Development Manager (w/m/d) - Digitale Transformation & IT-Consulting",
+                "link": "https://www.adzuna.at/details/5861345470?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This Business Development Manager role in digital transformation and IT consulting represents a stretch opportunity that builds on Sebastian's consulting foundation. While the position requires more seniority and business development experience than he currently has, his IT consulting background, client communication skills, and participation in project proposals give him relevant exposure. His interest in digital transformation initiatives and experience supporting clients with IT strategy align with the role's focus. The position would require significant growth in sales and strategic partnership development, but his consulting experience provides a foundational understanding of the industry and client needs."
+            }
+        ],
+        "test_CV": "# LEBENSLAUF\n\n**SEBASTIAN HOFFMANN**\nInnsbruck, Tyrol, Austria\nEmail: sebastian.hoffmann@email.at | Phone: +43 650 789 1234\n\n---\n\n## EDUCATION\n\n**Bachelor of Science in Business Informatics**\nUniversity of Innsbruck, Austria\nCompleted: July 2022\n\n**Secondary Education Certificate (Matura)**\nBundesgymnasium Innsbruck, Austria (2018)\n\n---\n\n## PROFESSIONAL EXPERIENCE\n\n**Junior IT Consultant**\nConsultix Consulting GmbH, Innsbruck, Austria\nOctober 2022 – Present (1 year, 8 months)\n- Support clients with IT strategy and systems analysis on small to medium-sized projects\n- Conduct requirements gathering sessions and prepare functional specifications for business clients\n- Assist in documenting current business processes and identifying areas for improvement\n- Contribute to project proposals and presentations for prospective clients\n- Support the implementation of business software solutions; handled client communication for two deployments\n- Maintain project documentation and update internal knowledge base with lessons learned\n\n---\n\n## PROJECTS\n\n**University Capstone Project: Business Process Redesign Case Study** (2022)\n- Analyzed and redesigned business processes for a local manufacturing company as part of capstone coursework\n- Developed process models using BPMN notation and created implementation recommendations\n- Presented findings to company stakeholders and academic committee\n\n**Personal Learning Project: Process Mapping Tool** (2021)\n- Created a simple web-based tool for visualizing business processes using HTML, CSS, and JavaScript\n- Focused on basic user interface design and data input validation\n- Used as personal learning exercise in web technologies\n\n---\n\n## SKILLS\n\n**Business Analysis:** Requirements gathering, Process modeling, Stakeholder management, Documentation\n**Technical Skills:** SQL (basics), Microsoft Office Suite, Visio, Database fundamentals\n**Tools & Platforms:** Enterprise resource planning systems (general knowledge), Atlassian Confluence, Microsoft Project (basics)\n**Languages:** German (native), English (professional working proficiency), French (elementary)\n\n---\n\n## ADDITIONAL INFORMATION\n\n- Completed internal company training on business analysis best practices (2023)\n- Active participant in consultant peer learning sessions\n- Interest in digital transformation initiatives within mid-market organizations",
+        "prompt_version": "v1",
+        "score": 6,
+        "reasoning": "The solution demonstrates strong analytical capability in the top 3 rankings, correctly identifying positions that match Sebastian's core competencies in business analysis, IT consulting, and process work. However, the bottom 2 rankings (Contract Manager and Business Development Manager) represent significant mismatches that suggest the filtering criteria weakened toward the end of the ranking. Contract management and business development require substantially different skill profiles than Sebastian possesses. Several more appropriate junior consulting and analyst positions were overlooked that would have been better fits for ranks 4-5, particularly roles explicitly seeking junior consultants or those involving IT project portfolio work and requirements analysis."
+    },
+    {
+        "output": [
+            {
+                "rank": 1,
+                "title": "Senior Software Developer",
+                "link": "https://www.adzuna.at/details/5849144828?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This IT-Projektportfolio- & Demandmanagement internship appears to be a mismatch in the title, but examining the link and context, this is actually a strong match for Klaus's senior development background. However, upon closer inspection, this appears to be an internship role which does not match his senior level. Re-evaluating: The 'Software Consulting & Projektleitung, Graz' role matches his software development expertise, project involvement, and consulting aspects of working with clients on business requirements."
+            },
+            {
+                "rank": 1,
+                "title": "Software Consulting & Projektleitung, Graz",
+                "link": "https://www.adzuna.at/details/5854388689?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "Excellent match for Klaus's profile. This role involves software consulting and project leadership for custom automation solutions. Klaus has 20+ years of software development experience, has worked on client projects, participated in design discussions, and collaborated with business analysts to translate requirements. His Java, Spring, database expertise and experience in financial/enterprise domains aligns well with developing solutions for diverse business processes."
+            },
+            {
+                "rank": 2,
+                "title": "IT Business Analyst (m/w/d)",
+                "link": "https://www.adzuna.at/details/5800785785?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "Strong match for Klaus's skill set. The role requires analyzing and documenting functional requirements, conducting workshops with stakeholders, creating technical specifications, and working closely with software development teams. Klaus has extensive experience collaborating with business analysts, translating requirements into technical specifications, and working on enterprise applications. His domain knowledge in financial systems and technical documentation experience make this a natural fit."
+            },
+            {
+                "rank": 3,
+                "title": "Projekt-Ingenieur / IT-Solutions Engineer (w/m/d)",
+                "link": "https://www.adzuna.at/details/5852126646?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "Good match combining technical and consulting aspects. The role involves supporting customers with software solution implementation, configuration, testing, maintenance, and understanding customer processes. Klaus's background includes supporting production deployments, troubleshooting live systems, providing technical support, and working with clients on requirements. His technical expertise in Java, databases, and enterprise applications fits well with implementing and maintaining software solutions."
+            },
+            {
+                "rank": 4,
+                "title": "Senior IT Consultant (m/w/d)",
+                "link": "https://www.adzuna.at/details/5540224030?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "Suitable match for Klaus's senior-level experience. This consulting role involves contributing to infrastructure development in the transportation sector and working on complex 'Brown Field' projects. Klaus has extensive experience maintaining and enhancing legacy systems, supporting complex production environments, troubleshooting issues, and working on long-term enterprise projects. His ability to work independently and handle complex technical situations aligns with the senior consulting responsibilities."
+            },
+            {
+                "rank": 5,
+                "title": "Business Analyst Oracle DWH (m/w/d) Arbeitsort: Wien",
+                "link": "https://www.adzuna.at/details/4800575407?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "Moderate match focusing on Klaus's database and analytical skills. This Oracle Data Warehouse Business Analyst role for a financial services client leverages his extensive Oracle database experience, SQL/PL-SQL expertise, financial domain knowledge from working at banking/financial IT companies, and his ability to work with data analysis and reporting systems. While more business analyst-focused than pure development, his technical background and financial sector experience provide relevant qualifications."
+            }
+        ],
+        "test_CV": "# CURRICULUM VITAE\n\n**KLAUS RICHTER**\nSalzburg, Austria\nEmail: klaus.richter@email.at | Phone: +43 662 445 6789\n\n---\n\n## EDUCATION\n\n**Diploma in Computer Science**\nUniversity of Salzburg, Austria\nCompleted: 1998\n\n**High School Diploma (Matura)**\nBundesgymnasium Salzburg-Nonntal, Austria (1994)\n\n---\n\n## PROFESSIONAL EXPERIENCE\n\n**Senior Software Developer**\nDatastream Technologies AG, Salzburg, Austria\nMarch 2015 – Present (9 years, 3 months)\n- Develop and maintain core backend services for financial data processing platform using Java and Spring Framework\n- Responsible for performance optimization of existing database queries and application modules\n- Implement bug fixes and small feature enhancements based on client requirements\n- Conduct code reviews and provide technical feedback to junior developers on team\n- Participate in system design discussions and contribute to technical documentation\n- Support production deployments and troubleshoot runtime issues on live systems\n\n**Software Developer**\nFinanceIT Solutions GmbH, Linz, Austria\nJune 2008 – February 2015 (6 years, 9 months)\n- Developed web applications for banking clients using Java, JSP, and Oracle databases\n- Maintained and enhanced legacy financial reporting systems\n- Wrote SQL queries and stored procedures for data analysis and reporting\n- Collaborated with business analysts to translate requirements into technical specifications\n- Participated in code reviews and quality assurance testing cycles\n\n**Junior Programmer**\nSoftwork Consulting, Vienna, Austria\nSeptember 2004 – May 2008 (3 years, 9 months)\n- Developed client-server applications using C++ and relational databases\n- Assisted with maintenance of existing customer systems\n- Wrote technical documentation and user guides\n- Provided second-level technical support for deployed applications\n\n---\n\n## SKILLS\n\n**Programming Languages:** Java, C++, SQL, PL/SQL\n**Frameworks & Technologies:** Spring Framework, JSP, Hibernate, Apache Tomcat\n**Databases:** Oracle, PostgreSQL, MySQL\n**Tools & Platforms:** Git, Maven, Jenkins, Eclipse IDE, JIRA\n**Methodologies:** Agile/Scrum, Code reviews, Unit testing\n**Languages:** German (native), English (fluent), Czech (conversational)\n\n---\n\n## ADDITIONAL INFORMATION\n\n- Over 20 years of continuous software development experience\n- Deep knowledge of financial data processing domain and requirements\n- Comfortable working independently and collaborating within larger development teams\n- Regular attendee of internal technical training sessions",
+        "prompt_version": "v1",
+        "score": 5,
+        "reasoning": "The solution demonstrates reasonable understanding of Klaus Richter's profile as a senior software developer with deep Java/Spring/Oracle expertise and financial domain knowledge. However, it contains a critical structural error in Rank 1 with confused reasoning and an inappropriate internship link. The middle rankings (2-4) are solid matches. Rank 5 is acceptable but suboptimal. More importantly, the solution overlooks several highly relevant senior technical leadership and IT management positions that better match Klaus's 20-year career trajectory and hands-on architectural experience. The evaluation appears to have focused heavily on consulting/analyst roles while missing infrastructure and technical leadership opportunities that suit his profile."
+    },
+    {
+        "output": [
+            {
+                "rank": "1",
+                "title": "IT Business Analyst (m/w/d)",
+                "link": "https://www.adzuna.at/details/5800785785?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This position is an excellent match for Petra Fischer's profile. The role requires analysis and documentation of business requirements, conducting workshops with business units, creating functional concepts and user stories, translating business requirements into technical specifications, and close collaboration with software development teams. These responsibilities align perfectly with her 19+ years of experience as a Business Analyst and Senior Business Consultant, her expertise in requirements analysis, process modeling, and system configuration. Her background in ERP implementations and client management directly supports the digitalization project focus of this role."
+            },
+            {
+                "rank": "2",
+                "title": "Contract Manager (m/f/x) | IT & Consulting Environment",
+                "link": "https://www.adzuna.at/details/5790618564?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This role is a strong match given Petra's extensive consulting background and experience managing client relationships. The position involves developing contract management processes, maintaining compliance with governance requirements, ensuring contractual obligations are fulfilled, and comprehensive documentation management. Her experience in consulting environments, managing implementation projects, preparing project timelines and cost estimates, and maintaining client documentation standards directly align with these responsibilities. Her understanding of IT systems and business processes would support the IT consulting environment focus."
+            },
+            {
+                "rank": "3",
+                "title": "Software Consulting & Projektleitung, Graz",
+                "link": "https://www.adzuna.at/details/5854388689?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This consulting and project leadership role matches Petra's senior-level consulting experience and her background in software implementation projects. The position focuses on process automation solutions for Austrian SMEs and large companies, which aligns with her experience advising manufacturing and retail clients on ERP implementations. Her skills in business process understanding, client management, and project coordination are directly applicable. The location in Graz is also within Austria where she has worked previously, and her understanding of diverse business processes fits the role's requirements."
+            },
+            {
+                "rank": "4",
+                "title": "Senior IT Consultant (m/w/d)",
+                "link": "https://www.adzuna.at/details/5540224030?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This senior IT consulting position is well-suited to Petra's experience level and skill set. The role involves shaping program organization, managing complex project situations, and contributing to infrastructure development in the transportation sector. Her 19 years of consulting experience, expertise in managing client expectations, working with international implementation teams, and her ability to handle complex implementation phases align with the requirements. Her business process analysis skills and experience with cross-border projects support the critical infrastructure focus mentioned in the posting."
+            },
+            {
+                "rank": "5",
+                "title": "Projekt-Ingenieur / IT-Solutions Engineer (w/m/d)",
+                "link": "https://www.adzuna.at/details/5852126646?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": "This position combines technical consulting with project work, matching several aspects of Petra's profile. The role involves understanding customer processes and requirements, developing suitable technical solutions, supporting implementation and configuration of web and software solutions, and performing testing, maintenance, and updates. Her experience in system configuration, requirements gathering, user acceptance testing coordination, and post-implementation support aligns well. While the role mentions engineering, the focus on consulting, customer process analysis, and solution implementation matches her business analyst and consultant background."
+            }
+        ],
+        "test_CV": "# LEBENSLAUF\n\n**PETRA FISCHER**\nKlagenfurt, Carinthia, Austria\nEmail: petra.fischer@email.at | Phone: +43 463 567 8901\n\n---\n\n## EDUCATION\n\n**Diploma in Business Administration with IT Focus**\nUniversity of Klagenfurt, Austria\nCompleted: 2001\n\n**Secondary Education Certificate (Matura)**\nBundesgymnasium Klagenfurt, Austria (1997)\n\n---\n\n## PROFESSIONAL EXPERIENCE\n\n**Senior Business Consultant**\nEnterprise Solutions & Partners GmbH, Klagenfurt, Austria\nJanuary 2018 – Present (6 years, 2 months)\n- Advise mid-sized manufacturing and retail clients on enterprise resource planning system implementations\n- Gather and document functional requirements from business stakeholders\n- Conduct system configuration workshops and provide technical guidance on ERP module customization\n- Prepare project timelines, cost estimates, and implementation roadmaps for clients\n- Perform user acceptance testing coordination and prepare client teams for system go-live\n- Maintain ongoing post-implementation support and optimization recommendations\n\n**Business Analyst**\nConsulting Group Österreich, Vienna, Austria\nApril 2012 – December 2017 (5 years, 9 months)\n- Analyzed business processes for enterprise clients across various industries\n- Documented current-state and future-state business processes using standard modeling notation\n- Translated business requirements into system configuration specifications\n- Participated in proposal development and client presentations for new projects\n- Supported system testing and managed change requests during implementation phases\n\n**Junior Consultant**\nFirst Choice Consulting, Graz, Austria\nSeptember 2005 – March 2012 (6 years, 7 months)\n- Assisted with business process analysis and systems requirements gathering\n- Created process documentation and workflow diagrams for client organizations\n- Conducted preliminary system assessments and feasibility studies\n- Provided client training on implemented systems and best practices\n\n---\n\n## SKILLS\n\n**Business Consulting:** Requirements analysis, Process modeling, System configuration, Client management\n**ERP Systems:** SAP (configuration experience), Oracle EBS (user level), Microsoft Dynamics (basic)\n**Business Tools:** Microsoft Excel (advanced), Microsoft Access, Visio, Process mining software\n**Methodologies:** Business Process Management, ITIL fundamentals (certification expired 2018), Waterfall project delivery\n**Languages:** German (native), English (fluent), Italian (elementary)\n\n---\n\n## CERTIFICATIONS\n\n- ITIL Foundation Certificate (2008) – Expired\n\n---\n\n## ADDITIONAL INFORMATION\n\n- Over 19 years of cumulative experience in business consulting and systems analysis\n- Solid understanding of manufacturing, retail, and financial services industry processes\n- Experienced in working with international implementation teams on cross-border projects\n- Proficient in managing client expectations and documentation standards across multiple engagements",
+        "prompt_version": "v1",
+        "score": 6,
+        "reasoning": "The AI solution demonstrates strong matching capability by selecting five genuinely relevant positions that align with Petra Fischer's business analysis and consulting expertise. The reasoning is thorough and accurate. However, the solution exhibits a significant oversight by not prioritizing or even including SAP-specific consulting roles despite her explicit SAP configuration experience listed in the CV. Multiple SAP consultant positions in the dataset (particularly in logistics, finance, and S/4HANA) represent more direct matches than some of the selected positions, especially ranks 3-5. The inclusion of an 'IT-Solutions Engineer' role at rank 5, while justified through creative reasoning, is less aligned than available SAP consulting alternatives. This represents a material gap in the matching process that would impact the practical usefulness of the recommendations."
+    }
+]

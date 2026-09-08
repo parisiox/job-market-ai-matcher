@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# personal-use pull, not part of the demonstrated project
+data_first.json
+
+# scratch notebook
+test.ipynb
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/

@@ -1,0 +1,3025 @@
+[
+    {
+        "latitude": 48.208144,
+        "created": "2026-09-06T07:30:46Z",
+        "salary_is_predicted": "0",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "AI Developer (m/w/d)",
+        "id": "5872783210",
+        "redirect_url": "https://www.adzuna.at/land/ad/5872783210?se=bDz-ULqq8RGS9tX3gPU9Ng&utm_medium=api&utm_source=3e69dd49&v=95ADFF25C440B51022489E4A079A296B4EB71237",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Axians ICT Austria GmbH"
+        },
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Schreib keinen Code für die Schublade – bau KI, die im Alltag wirklich läuft Du suchst keine KI-Rolle, in der es bei Proof-of-Concepts und Folien bleibt? Dann lohnt sich ein Blick hierher. Bei VESI DACH bringst Du KI-Anwendungen vom Prototyp in den echten Betrieb – mit spürbarem Effekt auf Abläufe, die tausende Kolleg*innen täglich betreffen. Du arbeitest eng mit Fachbereichen zusammen und entscheidest mit, wo Automatisierung und KI den größten Hebel haben. VESI DACH ist die interne IT der Unte…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODcyNzgzMjEwIn0.hb6buErNxrGwBPQq1W8w-iSgluqyhAeR9TvTk3XDUOs"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2ODQwOTQ5OSIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.y3AgeyxhxkKCYr8PKxyOeO2OsjTvsVYfrPtFWVYBClc",
+        "description": "Du möchtest in einem dynamischen und wachsenden Tech-Umfeld die digitale Zukunft prägen? Unser Kunde begeistert internationale Top-Unternehmen mit maßgeschneiderten Softwarelösungen und innovativer Produktentwicklung. Gemeinsam mit einem hochqualifizierten Team entwickelst du moderne, webbasierte Business-Anwendungen. Du suchst ein starkes Miteinander auf Augenhöhe, echte Gestaltungsfreiräume und willst das kontinuierliche Wachstum aktiv mitgestalten? Dann passt du perfekt ins Team. Entwicklung…",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "talentbird GmbH"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5868409499?se=bDz-ULqq8RGS9tX3gPU9Ng&utm_medium=api&utm_source=3e69dd49&v=C364A796BB5F6AFABA0D1756DF3168FEADDDE0FA",
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5868409499",
+        "salary_is_predicted": "0",
+        "title": "(Senior) Java Software Developer (w/m/d)",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-03T07:29:26Z",
+        "latitude": 48.208144
+    },
+    {
+        "id": "5861343121",
+        "salary_is_predicted": "0",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "SAP SuccessFactors Application Manager (w/m/d)",
+        "created": "2026-08-29T18:13:14Z",
+        "latitude": 48.208144,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODYxMzQzMTIxIn0.bmHtcvSvF6j6kHkqz0KC92_PLbYAyumaJPLSCmeH4O8",
+        "description": "Du gestaltest den Betrieb und die Weiterentwicklung von SAP SuccessFactors aktiv mit und trägst dazu bei, HR Prozesse weiterzuentwickeln. Ein engagiertes Team in Wien verantwortet die Module Employee Central, Onboarding, Learning & Recruiting und sorgt für deren laufende Optimierung. Das Umfeld befindet sich im Aufbau und bietet dir viel Gestaltungsspielraum bei Prozessen und Strukturen. Incident- & Problem Management im 2nd Level Support inkl. Ticketbearbeitung & Fehleranalyse Zusammenarbeit m…",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "company": {
+            "display_name": "Iventa. The Human Management Group",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5861343121?se=bDz-ULqq8RGS9tX3gPU9Ng&utm_medium=api&utm_source=3e69dd49&v=49535ADA6AFA6E14545B4F16A3DECECE023CDBC6",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031
+    },
+    {
+        "salary_min": 35000,
+        "id": "5091007400",
+        "created": "2025-03-13T10:50:16Z",
+        "latitude": 48.208604,
+        "salary_max": 45000,
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Junior IT-Support (1st Level Support) (m/w/d)",
+        "salary_is_predicted": "0",
+        "description": "Für dich sind IPv4, DHCP oder DNS keine wild aneinander gereihten Buchstabenfolgen und du hilfst Kunden gerne telefonisch oder per Mail bei ihren IT Problemen, dann sollten wir sprechen. Wir bei ristl IT haben mit unseren B2B IT-Dienstleistungen den vollen Fokus auf Managed Services, Cloud & Security im Microsoft Umfeld. Dabei arbeiten wir mit einem Flatrate Modell, das sicherstellt, dass jedes Ticket in Ruhe zu Ende gearbeitet werden kann und wir für dich das ideale Lernumfeld schaffen. Hast d…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1MDkxMDA3NDAwIn0.wq86CopcAmhKClH0ucW0bCtsG0hpQ-zgkcekTR225uU",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.370243,
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ],
+            "display_name": "Innere Stadt, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5091007400?utm_medium=api&utm_source=3e69dd49",
+        "company": {
+            "display_name": "ristl.IT GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        }
+    },
+    {
+        "created": "2026-08-31T15:50:48Z",
+        "latitude": 48.208604,
+        "title": "Atlassian Cloud Developer (m/w/d) Jira und Confluence",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "id": "5862950674",
+        "longitude": 16.370243,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ],
+            "display_name": "Innere Stadt, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+            "display_name": "STRABAG BRVZ GMBH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5862950674?utm_medium=api&utm_source=3e69dd49",
+        "description": "Bei STRABAG bauen rund 89.000 Menschen an mehr als 2.400 Standorten weltweit am Fortschritt. Einzigartigkeit und individuelle Stärken kennzeichnen dabei nicht nur unsere Projekte, sondern auch jede:n Einzelne:n von uns. Ob im Hoch- und Ingenieurbau, Straßen- und Tiefbau, Brücken- und Tunnelbau, in der Baustoffproduktion, Projektentwicklung oder im Gebäudemanagement – wir denken Bauen weiter, um der innovativste und nachhaltigste Bautechnologiekonzern Europas zu werden. Chancengleichheit, Vielfa…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODYyOTUwNjc0In0.wgBlV1XedYNwBLFxs2wiizHdtUsNUsCLXwtYrN1E8zc"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1NzQzOTk3MjE4In0.rhFpE2aMhsXu7LbPGkCcWs25tV06KTXg4MT6TWtR83s",
+        "description": "Wir haben die Allergiediagnostik revolutioniert und sind mit unseren diagnostischen Produkten und patentierten Technologien seit über 10 Jahren in mehr als 90 Ländern äußerst erfolgreich tätig. Unsere Produkte sind wertvolle Beiträge zum innovativen Feld der Präzisionsmedizin – sowohl für Menschen als auch für Tiere. Allergien werden in nur einem Schritt und höchst spezifisch abgeklärt, sodass Patient:innen rasch optimale Behandlung durch Fachärzt:innen erhalten. Wir verbessern die Lebensqualit…",
+        "contract_time": "full_time",
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5743997218?utm_medium=api&utm_source=3e69dd49",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "MacroArray Diagnostics"
+        },
+        "id": "5743997218",
+        "title": "Teamlead IT Operations & Infrastructure (w/m/d)",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-05-29T00:28:20Z",
+        "latitude": 48.208144
+    },
+    {
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "company": {
+            "display_name": "Mission Embedded GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5870834791?se=bDz-ULqq8RGS9tX3gPU9Ng&utm_medium=api&utm_source=3e69dd49&v=1B576A70EC978074F4C955C6512ADD611DA80396",
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Du bist auf der Suche nach einer neuen Mission? Du willst Deine Erfahrung und Deinen Enthusiasmus in die Entwicklung innovativer Lösungen einbringen? In Deinem Job Abwechslung erleben und Veränderungen bewirken? Dein Produkt von der Idee über die Entwicklung bis zum Livebetrieb begleiten? Dann bist Du im Team der Mission Embedded genau richtig. Wir entwickeln hochzuverlässige Embedded Systeme für professionelle Anwendungen in den Bereichen Schienenfahrzeuge, Maschinenindustrie, Flugsicherung un…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODcwODM0NzkxIn0.gVSAO0jNQ9pTcxJJlUh4FbYagwn_8x95SmolracbXI8",
+        "created": "2026-09-04T18:30:18Z",
+        "latitude": 48.208144,
+        "salary_is_predicted": "0",
+        "title": "Embedded Linux Engineer",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5870834791"
+    },
+    {
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Android Framework Engineer (m/w/d)",
+        "salary_is_predicted": "0",
+        "created": "2026-08-24T03:51:48Z",
+        "latitude": 48.208604,
+        "id": "5854086301",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.370243,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "PS3 Personalservice GmbH"
+        },
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ],
+            "display_name": "Innere Stadt, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5854086301?utm_medium=api&utm_source=3e69dd49",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NDA4NjMwMSIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.YCBhShTVPm3VhCsj9lzvSG9ZN0W3aPp5B0wLlgPC2EY",
+        "description": "PS³ Personalservice hat mehr als 250 MitarbeiterInnen und ist eingegliedert in den Konzern der EBCONT-Gruppe mit insgesamt über 700 MitarbeiterInnen. Für mehr als 150 Unternehmen sind wir der Ansprechpartner für Personalvermittlung, Personalüberlassung und Personalberatung. Für wen suchen wir Unser Auftraggeber entwickelt und fertigt intelligente Elektronik- und Embedded-Lösungen für anspruchsvolle industrielle Anwendungen. Die Produkte kommen weltweit unter anderem in mobilen Maschinen, Schien…"
+    },
+    {
+        "longitude": 16.370243,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "staff24 Personalservice GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Innere Stadt, Wien",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.at/details/5859697789?utm_medium=api&utm_source=3e69dd49",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODU5Njk3Nzg5In0.Un0wO4aeHBa0kR5FwceMe9dCKYolPlMd056-pFjLHWQ",
+        "description": "Kommunikation ist deine Stärke? Dann suchen wir genau dich! Verstärke unser Team in der telefonischen Kundenberatung und im technischen Service. Mit einer umfassenden Einschulung, spannenden Aufgaben und der Möglichkeit auf Homeoffice bietet unser Kunde den perfekten Einstieg in die Telekommunikationsbranche- auch als Quereinsteiger.",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT-Stellen"
+        },
+        "title": "Mitarbeiter in der telefonischen Beratung & technischer Support (m/w/d)",
+        "salary_is_predicted": "0",
+        "created": "2026-08-28T15:56:14Z",
+        "latitude": 48.208604,
+        "id": "5859697789"
+    },
+    {
+        "salary_min": 65000,
+        "id": "5768999986",
+        "latitude": 48.208144,
+        "created": "2026-06-19T06:58:20Z",
+        "salary_max": 90000,
+        "title": "C#.net / WPF Developer (w/m/d)",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "description": "Du arbeitest aktiv in einem agilen Scrum-Team Du konzipierst und entwickelst neue Funktionen und sorgst gleichzeitig für die kontinuierliche Wartung und Optimierung bestehender Features - hauptsächlich mit C#/.NET und ASP.NET. Mithilfe von Jira und Confluence dokumentierst du Änderungen und unterstützt die kontinuierliche Weiterentwicklung der Softwarearchitektur. In enger Zusammenarbeit mit Product Ownern und Quality Assurance Experts stellst du hochwertige Releases sicher und entwickelst Lösu…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1NzY4OTk5OTg2In0.vhohPztwEZGhaq7zX2qrhCD6Ev8bGtGGEr6FkfG7RdQ",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "redirect_url": "https://www.adzuna.at/details/5768999986?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company"
+        }
+    },
+    {
+        "id": "5872185169",
+        "latitude": 48.208144,
+        "created": "2026-09-05T18:34:13Z",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Senior Cloud Engineer (m/w/d)",
+        "salary_is_predicted": "0",
+        "description": "Axians ICT Austria GmbH arbeitet in strategischen Partnerschaften in der IT-Dienstleistung mit über 30 Jahren Erfahrung. Im Bereich Cloud & Managed Services betreiben wir drei Rechenzentren, bieten eine Private Cloud an und unterstützen unsere Kund*innen beim Outsourcing von IT. Mit automatisierten Compute- und Storage-Infrastrukturen decken wir den kompletten Life-Cycle unter einem Dach ab, um Virtualisierung von Morgen zu gestalten. Das Team Cloud Services freut sich über Unterstützung für un…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODcyMTg1MTY5In0.KFN6hZ-OTbC0awVz0Cc0g0EjXZ6FFMHkNX2B9b95bn8",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "location": {
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "company": {
+            "display_name": "Axians ICT Austria GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5872185169?se=bDz-ULqq8RGS9tX3gPU9Ng&utm_medium=api&utm_source=3e69dd49&v=FF72286D8D0004BB36F7AA01B7EB232943B7D665"
+    },
+    {
+        "id": "5751376202",
+        "title": "Professional C# Web-Backend Entwickler (m/w/d)",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.193045,
+        "created": "2026-06-04T03:30:03Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MTM3NjIwMiIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.ERrKUU5E8M6OowC1WXPdspozT5a6fN5_9jqixo3dmdU",
+        "description": "Professional C# Web-Backend Entwickler (m/w/d) 38,5 Stunden pro Woche • unbefristet • Frühester Beginn ab sofort Für unseren Kunden im Raum Wien suchen wir ab sofort eine:n erfahrene:n C#/.NET Backend-Entwickler (w/m/d) zur Verstärkung des Teams. Deine Aufgaben Weiterentwicklung der Web-Lösung im Zutritts-Entwicklungsteam mit Fokus auf Backend-Entwicklung Treffen technischer und architektonischer Entscheidungen gemeinsam mit dem Team Erstellung von Unit- und Integrationstests für die entwickelt…",
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.369061,
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Wieden"
+            ],
+            "display_name": "Wieden, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5751376202?utm_medium=api&utm_source=3e69dd49",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "iTEC Informationssysteme AG"
+        }
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzMzU2MjM3NSIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.8-oSHUcz6-SQBA8IihYBAAps8wz7JYMCU099n51PIZw",
+        "description": "Who we are We simplify wealth creation. Founded in 2014 in Vienna, Austria by Eric Demuth, Paul Klanschek and Christian Trummer, we’re here to help people trust themselves enough to build their financial freedom — for now and the future. Our user-friendly, trade-everything platform empowers both first-time investors and seasoned experts to invest in the cryptocurrencies, crypto indices, stocks*, precious metals and commodities* they want — with any sized budget, 24/7. Our global team works acro…",
+        "redirect_url": "https://www.adzuna.at/details/5833562375?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Bitpanda"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5833562375",
+        "salary_is_predicted": "0",
+        "title": "Senior Business IT Engineer, Atlassian Cloud",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        },
+        "created": "2026-08-08T16:46:31Z"
+    },
+    {
+        "description": "Gestalte die fachliche und technische Architektur – mit Verantwortung & Gestaltungsspielraum: Du möchtest Projekte technisch steuern, realistische Timelines mitgestalten und als Leitfigur für dein Projektteam agieren? Perfekt! Bei uns bist Du die tragende Stütze im Projekt und entwickelst Architekturen, die wirklich funktionieren. Die ORBIS Austria GmbH wurde 2015 in Wien gegründet und ist seitdem auf rund 80 Personen gewachsen. Von unserem Büro im Zentrum Rennweg aus entwickeln wir intelligent…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1NzU2NDM1MzYyIn0.7jSXJcsmsWVUiuwV6DgQ_Z8HMk3SB5bzQCS_YuuGIQs",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.393873,
+        "company": {
+            "display_name": "Jobportal",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Landstraße"
+            ],
+            "display_name": "Landstraße, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5756435362?utm_medium=api&utm_source=3e69dd49",
+        "salary_min": 60000,
+        "id": "5756435362",
+        "created": "2026-06-08T19:22:57Z",
+        "latitude": 48.197021,
+        "salary_max": 100000,
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Solution Architect Microsoft Dynamics 365 CE | Wien oder remote | Vollzeit & Teilzeit | Orbis Austria Gmbh",
+        "salary_is_predicted": "0"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "location": {
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Bosch Group"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5854574849?utm_medium=api&utm_source=3e69dd49",
+        "description": "Job Description Maintenance and further development of the quality management system, including adaptation of necessary processes, procedural instructions and checklists based on Bosch internal and Aviation-specific requirements Recording, evaluation and documentation of information regarding product quality (e.g. 8D) and process quality (quality and process assessments) with reporting to the management including suggestions for continuous improvement Monitoring and participation in quality man…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODU0NTc0ODQ5In0.1mZ7TwXN7WHEtu0wJD5sq41YhzitlfD1UnlzSdEvmN4",
+        "latitude": 48.208144,
+        "created": "2026-08-24T22:12:25Z",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Senior Quality Manager – Aviation (f/m/d)",
+        "salary_is_predicted": "0",
+        "id": "5854574849"
+    },
+    {
+        "id": "5854086448",
+        "created": "2026-08-24T03:52:10Z",
+        "latitude": 48.208604,
+        "salary_is_predicted": "0",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Application Manager (all genders)",
+        "description": "Wir kennen den Energiemarkt in Österreich und Europa und übernehmen Kundenprozesse im Energiebereich Die smart Energy Services GmbH wurde 2012 als Joint Venture zweier führender Energieunternehmen aus Österreich und Deutschland gegründet. Wir unterstützen unsere Mandant*innen im Energiebereich mit unseren Servicedienstleistungen und weitreichenden Erfahrungen bei der Optimierung bestehender Kundenprozesse, der Entwicklung von neuen Geschäftsmodellen, Erschließung neuer Geschäftsfelder und Eintr…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NDA4NjQ0OCIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.GSNNXhDgvK-Bz5XDXuketI0JfsdR2-stHt0PcT2dysI",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Innere Stadt, Wien",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ]
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "smart Energy Services GmbH"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5854086448?utm_medium=api&utm_source=3e69dd49",
+        "longitude": 16.370243,
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "company": {
+            "display_name": "peter.at",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+            "display_name": "Neubau, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Neubau"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.at/details/5744390265?utm_medium=api&utm_source=3e69dd49",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.347723,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NDM5MDI2NSIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.UREujs2qItqBibr_SRWV-T51rvsIg8pWGpNdGK6OwiQ",
+        "description": "Du willst zu den Top-Verdienern in einer der am stärksten wachsenden Branchen Österreichs gehören? Dann werde Teil des führenden Anbieters für Photovoltaik und Energielösungen. Über tausend Haushalte in Österreich vertrauen bereits auf unsere Anlagen, unsere Marke ist österreichweit bekannt und wir wachsen seit Jahren stark. Genau deshalb suchen wir jetzt Verstärkung im Vertrieb: Menschen, die motiviert sind, in einem wachsenden Unternehmen wirklich etwas aufzubauen und dabei überdurchschnittli…",
+        "salary_is_predicted": "0",
+        "title": "Sales Manager Photovoltaik (REMOTE!)",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 100000,
+        "created": "2026-05-29T09:31:03Z",
+        "latitude": 48.202737,
+        "id": "5744390265",
+        "salary_min": 42000
+    },
+    {
+        "contract_time": "full_time",
+        "description": "Wir sind davon überzeugt, dass in unserer Welt des digitalen Handels, großartige Produkte auch großartige Präsentation benötigen, um sich im Wettbewerb erfolgreich behaupten zu können. Diese Herausforderung löst CELUM mit seiner einzigartigen Content Supply Chain Platform, die es Marketing und Produktteams erlaubt, schnell und effektiv überzeugende Produkterlebnisse zu erstellen, freizugeben, zu verwalten und in jedem Kanal zu nutzen. Derzeit sind wir auf der Suche nach einem Business Consultan…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODY2OTIxNTUxIn0.SkWO_CRJB6qKc0Y0euWjJf3p6L-dt9ObNSlJc8g5dFM",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Leopoldstadt, Wien",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Leopoldstadt"
+            ]
+        },
+        "company": {
+            "display_name": "CELUM GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5866921551?utm_medium=api&utm_source=3e69dd49",
+        "longitude": 16.399872,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_type": "permanent",
+        "id": "5866921551",
+        "latitude": 48.213836,
+        "created": "2026-09-02T12:45:09Z",
+        "salary_is_predicted": "0",
+        "title": "Business Consultant (f/m/d)",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        }
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT-Stellen"
+        },
+        "id": "5727380738",
+        "salary_min": 44000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "company": {
+            "display_name": "vysion consulting",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Folgende Aufgaben erwarten dich Für unseren Standort in Wien suchen wir interessierte, leistungsbereite und engagierte Junior Technical Consultant (all genders) für den Bereich Softwareentwicklung im SAP-Umfeld auf Vollzeit-Basis. Wir sind Spezialist:innen für die Beratung von Order to Cash-Prozessen in SAP BRIM - Billing and Revenue Innovation Management (ehemals SAP Hybris Billing). Wir betreuen internationale Unternehmen in unterschiedlichsten Branchen (z.B. TelCo, Transport und Logistik, E-…",
+        "title": "Junior ABAP Developer / Junior Technical Consultant (all genders) - WIEN",
+        "salary_is_predicted": "0",
+        "created": "2026-05-13T00:13:44Z",
+        "latitude": 48.208144,
+        "salary_max": 44000,
+        "redirect_url": "https://www.adzuna.at/details/5727380738?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzM4MDczOCIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.Gv6VztQkY0DdhoEst-MB46jqDBvvDa1_Li1Cnu70f_o",
+        "contract_time": "full_time"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODEyOTcxNDk0In0.ro5dXoJE8Aa0bnWejoLLw7u6sbDdUrn1-LCnKjtY2go",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5812971494?utm_medium=api&utm_source=3e69dd49",
+        "title": "Python Developer – Generative AI / RAG (m/f/d)",
+        "salary_is_predicted": "0",
+        "created": "2026-07-24T01:23:17Z",
+        "latitude": 48.208144,
+        "salary_max": 124800,
+        "description": "For a challenging AI and data transformation project with a client in the telecommunications sector, we are looking for an experienced Python Developer – Generative AI / RAG (m/f/d) in Vienna. The focus of the role is on the development of modern, data-driven AI applications and production-ready Retrieval-Augmented Generation solutions. We are looking for an experienced Python developer with a strong analytical mindset who can design, implement and optimize scalable backend services, data-proce…",
+        "contract_type": "contract",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "company": {
+            "display_name": "Qualysoft",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5812971494",
+        "salary_min": 114400,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        }
+    },
+    {
+        "id": "5871043604",
+        "salary_min": 65000,
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "DWP Unified Communications Engineer",
+        "salary_is_predicted": "0",
+        "created": "2026-09-05T00:19:12Z",
+        "salary_max": 78000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg3MTA0MzYwNCIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.aL-y_5bqFoc9-TQL5f2HdwdeHhasOD41Wng1jZoz8MU",
+        "description": "Microsoft 365 & Unified Communications Engineer (m/w/d) Wien | Modern Workplace & Automation Für ein etabliertes österreichisches Unternehmen mit mehreren Standorten und einer guten IT-Strategie suchen wir einen Microsoft 365 & Unified Communications Engineer (m/w/d) . In dieser Rolle gestaltest du die Zukunft des digitalen Arbeitsplatzes aktiv mit und bringst moderne Collaboration-, Kommunikations- und Automatisierungslösungen auf das nächste Level. Gesucht wird keine klassische Administratori…",
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.at/details/5871043604?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "company": {
+            "display_name": "SThree Germany",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        }
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.399872,
+        "company": {
+            "display_name": "ÖBB",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "2 Teilen Product Owner:in - Data & AI Platforms ÖBB-BCC GmbH Wien-Leopoldstadt, Wien 1020 AUT Normalarbeitszeit Gleitzeit 38,5 Std. req25687 Wir möchten neue Wege gehen. Und neue Wege schaffen. Heute. Für morgen. Für uns. Jetzt Teil des TeamOEBB werden! Die Abteilung Data Insights & Analytics (DIA) unterstützt die ÖBB auf ihrem Weg zu einer Daten- und KI-getriebenen Organisation. Unsere Aufgabe ist es, durch innovative Daten- und KI-Lösungen nachhaltigen unternehmerischen Mehrwert zu schaffen. …",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5814608964",
+        "salary_min": 56854,
+        "redirect_url": "https://www.adzuna.at/details/5814608964?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Leopoldstadt, Wien",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Leopoldstadt"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNDYwODk2NCIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.mXhTg7KrvFlOXHeHmJF4w05PnC2J76c_xYnwzSD_T5g",
+        "contract_time": "full_time",
+        "title": "Product Owner:in - Data & AI Platforms",
+        "salary_is_predicted": "0",
+        "latitude": 48.213836,
+        "created": "2026-07-25T01:21:34Z",
+        "salary_max": 56854
+    },
+    {
+        "id": "5855404572",
+        "title": "IT Manager*in/ System Administrator",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.208604,
+        "created": "2026-08-25T15:52:47Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NTQwNDU3MiIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.4XrpQRUaN8AdcuGPU6jhuF6srGgfyrxNo5xCFObn_FY",
+        "description": "Kompromisslose Qualität, Zuverlässigkeit sowie Handschlagqualität - für diese Werte steht unser Kunde, ein traditionelles Großhandelsunternehmen. Zur Verstärkung des Teams suchen wir eine engagierte, lösungsorientierte und umsetzungsstarke Persönlichkeit. Als IT Manager*in übernehmen Sie die Verantwortung für die IT-Infrastruktur mit Schwerpunkt Netzwerktechnik und IT-Betrieb am Standort Wien/ südliches Wienerbecken . Sie sichern den reibungslosen Betrieb der Systeme und treiben die Digitalisie…",
+        "longitude": 16.370243,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.at/details/5855404572?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ],
+            "display_name": "Innere Stadt, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+            "display_name": "Iventa. The Human Management Group",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        }
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.at/details/4945332467?utm_medium=api&utm_source=3e69dd49",
+        "company": {
+            "display_name": "Ketryx",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk0NTMzMjQ2NyIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.rCLwIENkR7izbIG_9pZvbp84BS9ThkDU7rMYkA_Dc1o",
+        "description": "Job Title: Full Stack Software Engineer Employment Status: Full-time Location: Vienna, Austria - Hybrid (preferred) or Remote - EU Compensation: competitive compensation  performance-based bonus and equity options. Final compensation is negotiable based on experience and qualifications. Benefits: free in-office: lunch, drinks, coffee, snacks, Wiener Linien ticket, a yearly company retreat, regular team events About Ketryx Ketryx is an AI software platform that enables healthcare life sciences c…",
+        "contract_time": "full_time",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Full Stack Software Engineer",
+        "salary_is_predicted": "0",
+        "created": "2024-11-20T13:35:16Z",
+        "salary_max": 70000,
+        "id": "4945332467",
+        "salary_min": 70000
+    },
+    {
+        "latitude": 48.208604,
+        "created": "2025-03-13T10:49:52Z",
+        "salary_max": 85000,
+        "title": "IT- und Netzwerk-Techniker 2nd/3rd Level (m/w/d)",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT-Stellen"
+        },
+        "salary_is_predicted": "0",
+        "salary_min": 60000,
+        "id": "5090996260",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.370243,
+        "redirect_url": "https://www.adzuna.at/details/5090996260?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ],
+            "display_name": "Innere Stadt, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "ristl.IT GmbH"
+        },
+        "description": "Wir sind ein junges B2B IT-Dienstleistungsunternehmen mit vollem Fokus auf Managed Services, Cloud & Security im Microsoft Umfeld. Aufgrund unseres kontinuierlichen Wachstums suchen wir Verstärkung in Form eines IT- und Netzwerk-Technikers 2nd/3rd Level für unseren Standort in 1010 Wien. Du bist auf der Suche nach einem Unternehmen, bei dem Du die Möglichkeit hast, Dich einzubringen und die Entwicklung des Unternehmens aktiv mitzugestalten? Bei dem Du Dich nicht mit einem veralteten Softwaresta…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1MDkwOTk2MjYwIn0.KyMW9eSmQlZOlNXvD82dRaKa4vnypuaU43QzNAAKj48"
+    },
+    {
+        "company": {
+            "display_name": "Landesberufsschule Amstetten",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.at/details/5840359507?utm_medium=api&utm_source=3e69dd49",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MDM1OTUwNyIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.F0gqzghDI5nzeR64RgAXKbEuPtXHr4l2M_F4k-CfVQc",
+        "contract_time": "full_time",
+        "description": "As Austria's largest research and technology organisation for applied research, we are dedicated to make substantial contributions to solving the major challenges of our time, climate change and digitalisation. With our open culture of innovation and our motivated, international teams, we are working to position AIT as Austria's leading research institution at the highest international level and to make a positive contribution to the economy and society. Our Center for Digital Safety & Security…",
+        "salary_is_predicted": "0",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT-Stellen"
+        },
+        "title": "Junior Research Engineer (f/m/d) in AI for Cyber Threat Intelligence (Part-Time/Full-Time)",
+        "salary_max": 2002,
+        "created": "2026-08-13T16:46:58Z",
+        "id": "5840359507",
+        "salary_min": 2002
+    },
+    {
+        "latitude": 48.208604,
+        "created": "2026-08-30T03:55:22Z",
+        "salary_is_predicted": "0",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Senior DWH Developer & Tech Lead (m/w/d)",
+        "id": "5861763113",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Innere Stadt, Wien"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "TechTalk GmbH"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5861763113?utm_medium=api&utm_source=3e69dd49",
+        "longitude": 16.370243,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Wir entwickeln Software, Teams und Organisationen – seit über 30 Jahren. Wenn sich Technologie, Zusammenarbeit und Denken verändern, entsteht mehr als nur ein neues Produkt – es entsteht ein neues Selbstbild. Genau diesen Weg gestalten wir gemeinsam mit unseren Kund:innen. Die TechTalk Expert:innen agieren dabei immer auf Augenhöhe, partnerschaftlich und mit Handschlagqualität. Unser Portfolio wächst mit den Herausforderungen unserer Kund:innen, beginnend mit der Entwicklung individueller Softw…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODYxNzYzMTEzIn0.dMc6nxij5mP2X9leISGsK6g-slqbKdbNagTs-lliSiw"
+    },
+    {
+        "created": "2026-06-18T06:57:17Z",
+        "latitude": 48.208144,
+        "salary_max": 110000,
+        "title": "Azure Platform Engineer (w/m/d)",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "salary_min": 65000,
+        "id": "5767597312",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5767597312?utm_medium=api&utm_source=3e69dd49",
+        "description": "Design, Aufbau und Weiterentwicklung von unternehmensweiten Azure-Plattformen und Azure Landing Zones Implementierung von Cloud-Governance-, Security- und Compliance-Anforderungen nach Microsoft Best Practices und dem Cloud Adoption Framework (CAF) Entwicklung und Wartung von Infrastructure-as-Code-Lösungen mit Terraform Automatisierung von Bereitstellungs-, Betriebs- und Governance-Prozessen Aufbau und Optimierung von CI/CD-Plattformen sowie GitOps- und DevOps-Prozessen Integration von Azure-D…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1NzY3NTk3MzEyIn0.SoShUXhyGs1Jswmuq2IEiQieiGyVPaR4FEsUueGoVaE"
+    },
+    {
+        "created": "2026-08-13T07:30:41Z",
+        "latitude": 48.208144,
+        "salary_max": 90000,
+        "title": "Cybersecurity Consultant (M/W/D)",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "salary_min": 75000,
+        "id": "5839573351",
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5839573351?utm_medium=api&utm_source=3e69dd49",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Gesucht wird ein erfahrener Cybersecurity-Consultant (m/w/d) mit Telco-Know-how, der Kunden technisch beraten, Cybersecurity-Anforderungen in Ausschreibungen beantworten und sicher gegenüber Kunden auftreten kann Technische Beratung internationaler Kunden im Bereich Cybersecurity Entwicklung und Bewertung sicherer End-to-End-Architekturen Unterstützung von Vertrieb und Presales bei Security-by-Design, Risikobewertungen und Ausschreibungen Entwicklung von Cybersecurity-Lösungen für moderne 4G/5G…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODM5NTczMzUxIn0.iSxwF20Z9w3k8JFu4TnmhCCg8TkIJHX5473YF6VbXOQ"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODY3MTU0MzI2In0.mUx7gwcHUYbQVAotgYritTFRK3LIE62jETyOspYZYSM",
+        "description": "Unser Kunde ist ein weltweit führendes Entwicklungs- und Produktionsunternehmen und Spezialist in der Schienenfahrzeug Branche. Für das Kompetenzzentrum in Wien, wo sowohl die Planung, Design, und Produktion stattfindet, suchen wir einen Data Engineer (w/m/d), der/die Cloud-Infrastrukturen mitgestaltet, eigene Ideen einbringt und technische Lösungen bis zum produktiven Einsatz begleitet. Data Engineer (w/m/d) € 3.500 bis € 5.500 AWS Python SQL Homeoffice Kantine",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Liesing"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Liesing, Wien"
+        },
+        "company": {
+            "display_name": "STEINER-HITECH GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5867154326?utm_medium=api&utm_source=3e69dd49",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.28417,
+        "id": "5867154326",
+        "salary_is_predicted": "0",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT-Stellen"
+        },
+        "title": "Data Engineer (w/m/d)",
+        "created": "2026-09-02T15:58:42Z",
+        "latitude": 48.135473
+    },
+    {
+        "longitude": 16.369061,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.at/details/5856179361?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "display_name": "Wieden, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Wieden"
+            ]
+        },
+        "company": {
+            "display_name": "Mission Embedded GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Du bist auf der Suche nach einer neuen Mission? Du willst Deine Erfahrung und Deinen Enthusiasmus in die Entwicklung innovativer Lösungen einbringen? In Deinem Job Abwechslung erleben und Veränderungen bewirken? Dein Produkt von der Idee über die Entwicklung bis zum Livebetrieb begleiten? Mission Embedded entwickelt und liefert hochzuverlässige intelligente Systemlösungen für sicherheitskritische Anwendungen – unter anderem in den Bereichen Bahn & Transport, Industrie, Luftfahrt, Verteidigung u…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NjE3OTM2MSIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.piIJVb008mcxOKRindj7F4CKbT-hBHa_azGuMzpSXgc",
+        "latitude": 48.193045,
+        "created": "2026-08-26T03:54:49Z",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Project Manager Software Produkte (w/m/d)",
+        "salary_is_predicted": "0",
+        "id": "5856179361"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.at/details/5860787505?utm_medium=api&utm_source=3e69dd49",
+        "description": "Konzeption und Umsetzung von SAP Analytics-, Reporting- und Planungslösungen auf Basis moderner SAP Cloud-Technologien Unterstützung und Steuerung von SAP-Transformationsprojekten über den gesamten Projektlebenszyklus Analyse, Optimierung und Neugestaltung von Geschäftsprozessen und Organisationsstrukturen Implementierung neuer Geschäftsprozesse im SAP-Umfeld mit Fokus auf nachhaltigen Kundennutzen Identifikation und Realisierung von Optimierungspotenzialen in Reporting- und Analytics-Landschaf…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2MDc4NzUwNSIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.9trQ_LGK-KXEGpSeP-id2Tooxuc9ijl0P-FZ0txtw7Y",
+        "created": "2026-08-29T07:49:53Z",
+        "latitude": 48.208144,
+        "salary_max": 80000,
+        "title": "Senior Consultant SAP Analytics (w/m/d)",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT-Stellen"
+        },
+        "salary_is_predicted": "0",
+        "salary_min": 60000,
+        "id": "5860787505"
+    },
+    {
+        "redirect_url": "https://www.adzuna.at/land/ad/5856428665?se=bDz-ULqq8RGS9tX3gPU9Ng&utm_medium=api&utm_source=3e69dd49&v=CE63C50DAB9A7F3871676A720CCF54BA33388071",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Iventa. The Human Management Group"
+        },
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NjQyODY2NSIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.Y1KDDXDCSSG4E7l3yR7FASERAtlhBYdCjCoqJRW8uzE",
+        "description": "Im Umfeld nationaler digitaler Services werden zentrale, hochverfügbare Plattformen für weit verbreitete Anwendungen bereitgestellt, die Millionen Menschen im Alltag unterstützen. Im Fokus stehen stabile Systemlandschaften, moderne Datacenter Services sowie der zuverlässige und sichere Betrieb komplexer IT Umgebungen. Werde Teil dieses Teams am Standort Wien und gestalte die Weiterentwicklung dieser Services aktiv mit! Gesamtverantwortung für Betrieb & Weiterentwicklung der Solutions sowie Steu…",
+        "salary_is_predicted": "0",
+        "title": "IT Infrastructure Service Manager (w/m/d)",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-26T07:41:32Z",
+        "latitude": 48.208144,
+        "id": "5856428665"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.393873,
+        "location": {
+            "display_name": "Landstraße, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Landstraße"
+            ]
+        },
+        "company": {
+            "display_name": "Label Up",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5786748495?utm_medium=api&utm_source=3e69dd49",
+        "description": " Who We Are: Label Up – Profitables Marketing Tech Start-up Stell dir vor, du verwaltest hunderte oder tausende Produkte auf Google Shopping. Das manuell zu optimieren? Ein Albtraum, bei dem unglaublich viel Potenzial auf der Strecke bleibt. Genau hier kommen wir ins Spiel: Wir bei Label Up geben Online-Shops – und den Performance-Agenturen, die sie betreuen – die absolute Kontrolle über ihre Anzeigen. Wo menschliche Kapazitäten an ihre Grenzen stoßen, dreht unsere Technologie erst richtig auf.…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4Njc0ODQ5NSIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.7NqEKfrKEf2M88zGzc9sd2tNcKEq7NkH9DR8BNg4MHQ",
+        "created": "2026-07-03T13:04:15Z",
+        "latitude": 48.197021,
+        "salary_max": 47088,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT-Stellen"
+        },
+        "title": "Head of Product Engineering & Software Development (d/w/m)",
+        "salary_is_predicted": "0",
+        "salary_min": 47088,
+        "id": "5786748495"
+    },
+    {
+        "redirect_url": "https://www.adzuna.at/details/5862673110?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Simmering"
+            ],
+            "display_name": "Simmering, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Wiener Netze GmbH"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.434659,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODYyNjczMTEwIn0.cFL0SiZ3Nrz7i8x-RDFbQFhriF2u_iq4dijiFpDrGls",
+        "description": "Als Teil der Wiener Stadtwerke Gruppe sind wir die fürs Netz. Wir versorgen rund zwei Millionen Menschen in Wien und Umgebung mit Strom, Gas, Fernwärme, -kälte und Daten. Dafür suchen wir Menschen, die Verantwortung übernehmen, Initiative zeigen und gemeinsam Lösungen für die Herausforderungen von heute und morgen gestalten. Gemeinsam bringen wir Wien VERLÄSSLICH VORAN. Denn: Ohne uns läuft nix!",
+        "salary_is_predicted": "0",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "SAP Consultant (w/m/d) FI/CO",
+        "created": "2026-08-31T03:58:24Z",
+        "latitude": 48.167849,
+        "id": "5862673110"
+    },
+    {
+        "description": "VITREA ist eine führende Gesundheitsgruppe mit Standorten in Österreich, Deutschland und der Schweiz mit rund 14.000 Mitarbeitenden. Unsere IT-Organisation stellt moderne, sichere und effiziente Technologielösungen bereit. Wo dein Job Cyber Security macht. Die VITREA Gruppe verbindet Gesundheitsversorgung, Digitalisierung und moderne Technologien. Damit unsere Infrastruktur, Anwendungen und Daten sicher bleiben, suchen wir eine engagierte Persönlichkeit im Bereich IT Security. Gestalte mit uns …",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODY2MDk2NDAxIn0.0XRlz_6FUkSh_LM-h5ACwQL9VkjAyC1Z2sUCFjwNUks",
+        "location": {
+            "display_name": "Innere Stadt, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.at/details/5866096401?utm_medium=api&utm_source=3e69dd49",
+        "company": {
+            "display_name": "VITREA Health Management GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.370243,
+        "id": "5866096401",
+        "latitude": 48.208604,
+        "created": "2026-09-02T03:57:23Z",
+        "salary_is_predicted": "0",
+        "title": "IT-Security Manager:in (m/w/d)",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        }
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NTU4NzU2MiIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.BGSS2Rawh-dAdF2IhrUymkqNMS56fZbO8r1UvLnLrjE",
+        "description": "adesso Austria gehört zu den Top-Technologie- und Beratungsunternehmen in Österreich mit Geschäftsstellen in Wien und Graz und ist Teil der adesso Gruppe. Gemeinsam und auf Augenhöhe mit unseren Kunden setzen wir agile Digitalisierungsprojekte um. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Wir legen in gleichem Maße großen Wert auf die persönliche Situation jedes adessi, auf die Zusammenarbeit in den Teams und auf unsere Identität als adesso Austria. Was uns verb…",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "company": {
+            "display_name": "adesso Austria GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5855587562?se=bDz-ULqq8RGS9tX3gPU9Ng&utm_medium=api&utm_source=3e69dd49&v=A3A790D36AD0276DB59099A0D1503BD6414B8780",
+        "id": "5855587562",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Fullstack Developer (all genders)",
+        "salary_is_predicted": "0",
+        "latitude": 48.208144,
+        "created": "2026-08-25T18:18:25Z"
+    },
+    {
+        "created": "2026-09-07T07:31:19Z",
+        "latitude": 48.208144,
+        "title": "IT-Security Engineer:in",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "id": "5873767802",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "TECHSEARCH - Recruiting von Experten für Experten"
+        },
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5873767802?se=bDz-ULqq8RGS9tX3gPU9Ng&utm_medium=api&utm_source=3e69dd49&v=5BDE85A89401F17200B892C2A439140BBAA7BCCC",
+        "description": "Wir suchen für unseren Kunden eine:n IT-Security-Engineer:in mit einschlägiger Erfahrung in der Entwicklung von IT-Sicherheitslösungen, um sich in den Ausbau moderner Sicherheitsstrukturen, die Weiterentwicklung des Sicherheitsbetriebs sowie den Schutz cloudbasierter Anwendungen einzubringen. TECHSEARCH ist Recruiting-Experte in der Suche und Auswahl von IT und Engineering Spezialistinnen und Spezialisten. Wir sind HR-Beraterinnen für Unternehmen zur Professionalisierung von Recruiting-Prozesse…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODczNzY3ODAyIn0.KYj9TUZIMKXI7nGabpJTyQXUgMIPCnzxZpQUaT0Qy-E"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.at/details/5854594999?utm_medium=api&utm_source=3e69dd49",
+        "company": {
+            "display_name": "Conexus DX Limited",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_type": "permanent",
+        "description": "Kinaxis Solution Architect / Senior Consultant - Supply Chain Planning Location: Austria or Switzerland Industry: Pharmaceutical / Life Sciences Language: English essential | German advantageous We're supporting a global pharmaceutical manufacturer that is continuing to invest heavily in its digital Supply Chain landscape following a successful global Kinaxis deployment . As the organisation expands its planning roadmap, they're looking for an experienced Kinaxis Solution Architect / Senior Con…",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODU0NTk0OTk5In0.enbOQyyr92z3SqNA4SL1NVGp6TiIiDvZNyK-t-__B0g",
+        "created": "2026-08-24T23:43:12Z",
+        "title": "Solution Architect / Consultant - Kinaxis",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "id": "5854594999"
+    },
+    {
+        "id": "5865049713",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "IBM i Software Engineer (m/w/d)",
+        "salary_is_predicted": "0",
+        "created": "2026-09-01T18:20:50Z",
+        "latitude": 48.208144,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODY1MDQ5NzEzIn0.xKnR2z3DTgJ8nKDHFgXeyfB8IULc5x-bjXLnmPjd4so",
+        "description": "Die Axians ICT Austria GmbH arbeitet seit über 30 Jahren in strategischen Partnerschaften im Bereich der IT-Dienstleistungen. Der Bereich Datacenter & Services gestaltet gemeinsam mit Partnern und Herstellern innovative Hard- und Softwarelösungen. Unser breites Fachwissen im Bereich Rechenzentren bildet die Grundlage für leistungsfähige Private-Cloud-Umgebungen. Wir ermöglichen nahtloses und fehlerfreies Arbeiten durch nachhaltige, skalierbare und hochverfügbare Lösungen, Services und Konzepte …",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Axians ICT Austria GmbH"
+        },
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5865049713?se=bDz-ULqq8RGS9tX3gPU9Ng&utm_medium=api&utm_source=3e69dd49&v=D6E937B447961CD461546AB8136E7CA156E5547A"
+    },
+    {
+        "id": "5768691247",
+        "salary_is_predicted": "0",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        },
+        "title": "Regional Sales Manager - German Speaking",
+        "created": "2026-06-19T00:32:41Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2ODY5MTI0NyIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.sw_cvDWFvjkKfTNp-EBaAckXwa5dn97xUQkEP06rjrg",
+        "description": "ConnectWise is an industry and Global leading software company with over 3,000 colleagues in North America, EMEA and APAC. As a community-driven software company dedicated to the success of technology solution providers, our suite helps over 45,000 of our partners manage their businesses better, sell more efficiently, automate service delivery, and remotely control technology so they can consistently deliver amazing customer experiences. Our company is powered by our connections, our colleagues…",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.at/details/5768691247?utm_medium=api&utm_source=3e69dd49",
+        "company": {
+            "display_name": "ConnectWise",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1NzkwNjE4NTY1In0.0_n49HDxVkTbHhQi44FkelmovlI6I0j-kG1r-0gMxZM",
+        "description": "Als Projektleiter übernehmen Sie die Verantwortung für anspruchsvolle IT- und Transformationsprojekte - von der Konzeption bis zur erfolgreichen Umsetzung. Zu Ihren Aufgaben gehören: Eigenständige Leitung komplexer IT-Projekte unterschiedlicher Größe Steuerung externer Dienstleister sowie interdisziplinärer Projektteams Planung, Koordination und Moderation von Projektmeetings und Workshops Verantwortung für Zeitpläne, Budget, Qualität und Projektumfang Identifikation von Projektrisiken sowie En…",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5790618565?utm_medium=api&utm_source=3e69dd49",
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5790618565",
+        "salary_min": 65000,
+        "salary_is_predicted": "0",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        },
+        "title": "Senior IT Projektleiter (m/w/d) | SaaS | Cloud |",
+        "salary_max": 85000,
+        "created": "2026-07-07T07:08:48Z",
+        "latitude": 48.208144
+    },
+    {
+        "longitude": 16.370243,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.at/details/5862674050?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Innere Stadt, Wien"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Siemens Personaldienstleistungen GmbH"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODYyNjc0MDUwIn0.0d0oaYyDUNdgPCH__1H46ab-vBKaILLhkLWxlm3-Dj0",
+        "description": "Siemens Personaldienstleistungen (SPDL) ist ein Tochterunternehmen der Siemens AG Österreich mit über 25 Jahren Erfahrung. Wir vermitteln spannende Aufgaben in der Siemens-Gruppe und Kund:innen in ganz Österreich. Chancengleichheit für alle Menschen, kulturelle Vielfalt und die Einhaltung gesetzlicher und vertraglicher Regelungen zeichnen SPDL aus. Wir suchen ab sofort in Vollzeit (38.5h) für die Überlassung an unseren Kunden, die Siemens AG Österreich, eine:n engagierte:n Software-Architekt:in…",
+        "title": "Software-Architekt:in - Embedded Systems (Agiles Umfeld)",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-08-31T03:59:17Z",
+        "latitude": 48.208604,
+        "id": "5862674050"
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT-Stellen"
+        },
+        "id": "5727388980",
+        "salary_min": 36000,
+        "longitude": 16.390579,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Time for Nature"
+        },
+        "description": "Do we have your attention? At Holzkern, we create more than just watches — we design meaningful companions inspired by nature, crafted from materials such as wood, stone, fine metals and gemstones. Every piece tells a story and reminds our customers to focus on what truly matters. To further develop and expand our watch collections, we are looking for a Product Developer Watches (f/m/d) with strong, hands-on experience in the watch industry. This role is ideal for someone who understands how wa…",
+        "title": "Unsolicited: Product Developer Watches (f/m/d)",
+        "salary_is_predicted": "0",
+        "latitude": 48.281362,
+        "created": "2026-05-13T00:14:54Z",
+        "salary_max": 36000,
+        "redirect_url": "https://www.adzuna.at/details/5727388980?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Floridsdorf"
+            ],
+            "display_name": "Floridsdorf, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzM4ODk4MCIsInMiOiJiRHotVUxxcThSR1M5dFgzZ1BVOU5nIn0.8HQba4xJjyXnY0IArfMfryTq42tov2YslFyJdw_ApJc",
+        "contract_time": "full_time"
+    },
+    {
+        "id": "5733234408",
+        "salary_min": 43000,
+        "salary_is_predicted": "0",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Entwickler (m/w/d)",
+        "salary_max": 43000,
+        "created": "2026-05-18T17:14:40Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1NzMzMjM0NDA4In0.SXvsbHcKBfykKjw47XvSO8p0MUKkDrfgOsJE-qI3c6Y",
+        "description": "Hey, wir sind HELFERLINE aus Wien – ein innovatives und schnell wachsendes Plattform-Unternehmen. Tasks Zur Verstärkung unseres motivierten Teams suchen wir eine versierte Entwicklerin oder einen versierten Entwickler. Wir betreiben und entwickeln unter anderem: eine Flutter-/Dart-App Angular- und React-Frontends ein C#-/.NET-Backend eine SQL-Datenbank Du musst nicht alle diese Technologien beherrschen – aber du solltest uns in den meisten Bereichen unterstützen können und Lust haben, dich in N…",
+        "location": {
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.at/details/5733234408?utm_medium=api&utm_source=3e69dd49",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "HELFERLINE GmbH"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "id": "5759563865",
+        "salary_min": 70000,
+        "title": "(Senior) Java Backend Developer (all genders)",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-06-11T06:54:13Z",
+        "latitude": 48.208144,
+        "salary_max": 95000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1NzU5NTYzODY1In0.1GoKlH6edokPQ9aNzABVZvXZZ5k2_6D-nfQs97KHcTM",
+        "description": "Du tüftelst an Softwarelösungen, die es den Kunden ermöglichen, individuelle Benutzeroberflächen für Geräte zu gestalten. Du trägst zur Pflege und Weiterentwicklung von Cloud-Systemen bei. Kreativität ist gefragt und es gibt viel Gestaltungsspielraum Du dokumentierst, testest und stellst sicher, dass alles wie geschmiert läuft. Du hast eine abgeschlossene Ausbildung (HTL, FH/Universität) Du bringst mindestens 3 Jahre relevante Berufserfahrung in der Softwareentwicklung mit Und gute Kenntnisse i…",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "location": {
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5759563865?utm_medium=api&utm_source=3e69dd49"
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT-Stellen"
+        },
+        "id": "5824077373",
+        "salary_min": 56854,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.399872,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "ÖBB"
+        },
+        "description": "2 Teilen Agile Senior Software Testautomation Engineer (m/w/x) ÖV Ticketshop GmbH Wien-Leopoldstadt, Wien 1020 AUT Normalarbeitszeit Gleitzeit 38,5 Std. req25810 Wir möchten neue Wege gehen. Und neue Wege schaffen. Heute. Für morgen. Für uns. Jetzt Teil des TeamOEBB werden! Dein Job, du bist in einer skalierten agilen Softwareentwicklungsorganisation im Bereich der Testautomatisierung entwicklungsnah tätig (im Fokus: Agile Softwareentwicklungsteams). sorgst für den passenden Automationsgrad und…",
+        "title": "Agile Senior Software Testautomation Engineer (m/w/x)",
+        "salary_is_predicted": "0",
+        "created": "2026-08-01T16:44:06Z",
+        "latitude": 48.213836,
+        "salary_max": 56854,
+        "location": {
+            "display_name": "Leopoldstadt, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Leopoldstadt"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.at/details/5824077373?utm_medium=api&utm_source=3e69dd49",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODI0MDc3MzczIn0.72usHJmg08lEW8Mqm-NUgb0HideSMWBIv3PxfvGHUc4",
+        "contract_time": "full_time"
+    },
+    {
+        "title": "IT-SYSTEMADMINISTRATOR (W/M/D)",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.208604,
+        "created": "2026-09-01T03:51:57Z",
+        "id": "5863691478",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.370243,
+        "redirect_url": "https://www.adzuna.at/details/5863691478?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Innere Stadt, Wien",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ]
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Kwizda Holding GmbH"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODYzNjkxNDc4In0.tVfu9UcV_lfStYgimQWzmg5g8urKWU96OypOv0TavQo",
+        "description": "Die KWIZDA Holding GmbH mit Sitz im Herzen Wiens beschäftigt rund 120 Mitarbeiter*innen und verantwortet für die gesamte Unternehmensgruppe zentrale Serviceleistungen in den Bereichen Finance, HR, IT und Legal. Darüber hinaus übernimmt sie strategische Steuerungsaufgaben zur Weiterentwicklung des Konzernportfolios. Wertschätzung, Flexibilität sowie fachlicher und persönlicher Zusammenhalt bilden die Basis für unsere lösungsorientierte Arbeit. Aufgrund der zunehmenden IT-Anforderungen und System…"
+    },
+    {
+        "redirect_url": "https://www.adzuna.at/details/5863134649?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich"
+        },
+        "company": {
+            "display_name": "ovos media GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_type": "contract",
+        "description": "Senior Backend-Entwickler*in (alle Geschlechter) (Vollzeit/Teilzeit) Wir suchen neue Kolleg*innen für unser Wiener Büro, die uns bei der Weiterentwicklung unserer webbasierten Anwendung ovos play und der Umsetzung neuer Projekte unterstützen. Du wirst den Großteil Deiner Zeit mit der praktischen Entwicklung verbringen – mit der Freiheit, Dich gelegentlich auch mit Frontend- oder DevOps-Themen zu beschäftigen, aber der Fokus liegt klar auf der Entwicklung. Als Teil eines unserer Entwicklungsteam…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODYzMTM0NjQ5In0.9jMnPnu2gDElQAUz9QxMRhTH_3EjZMhrtM9D64NClkI",
+        "latitude": 48.208144,
+        "created": "2026-08-31T22:44:48Z",
+        "salary_is_predicted": "0",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Senior Backend Developer (w/m/d) (Vollzeit / Teilzeit)",
+        "id": "5863134649"
+    },
+    {
+        "description": "Aktive Mitarbeit an der S/4HANA-Transformation - von der Konzeption über Testing und Migration bis zum Go-Live Verantwortung für den SAP FI/CO-Stream und Weiterentwicklung der entsprechenden Geschäftsprozesse Aufnahme und Analyse von Anforderungen aus den Fachbereichen sowie Übersetzung in passende SAP-Lösungen Mitarbeit bei Workshops, Fit-to-Standard-/Fit-Gap-Analysen und Business Cases Konzeption, Customizing und Dokumentation von SAP-Prozessen Enge Zusammenarbeit mit Key Usern, Prozessmanage…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkR6LVVMcXE4UkdTOXRYM2dQVTlOZyIsImkiOiI1ODM5NTczMzU5In0.rn6VrkqT9JBTmtbF0gVVr-wl01sbG1TdLu_s3Bt-LFk",
+        "redirect_url": "https://www.adzuna.at/details/5839573359?utm_medium=api&utm_source=3e69dd49",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 70000,
+        "id": "5839573359",
+        "salary_max": 115000,
+        "created": "2026-08-13T07:30:41Z",
+        "latitude": 48.208144,
+        "salary_is_predicted": "0",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "SAP Inhouse Consultant FI/CO (all genders)"
+    },
+    {
+        "latitude": 48.208144,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODcyNzgzMjE5In0.Fp2bHY7MdXIbynZZ4k9r4VBoWiDwme-CpTVl5VCEt1E",
+        "location": {
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-09-06T07:30:46Z",
+        "id": "5872783219",
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5872783219?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=1F382811FDE710127DA0B815E949DD459E0F0803",
+        "title": "Leitung für Wohngemeinschaft in Wien 13. Bezirk für 37 Wochenstunden",
+        "company": {
+            "display_name": "NEUEWEGE - Gemeinnützige GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "neuewege gGmbH gestaltet mit ihren Auftraggebern neue, flexible und innovative Betreuungsformen für Menschen aller Altersstufen mit psychosozialem Unterstützungsbedarf. Betreut werden Menschen, welche unter Bindungsstörungen, Entwicklungsstörungen oder psychischen Störungen leiden. Wir suchen daher eine/n flexible/n und belastungsfähige/n Leiter/in mit entsprechenden Qualifikationen. Organisatorische und fachliche Leitung Mitarbeit bei der Begleitung der Kund/innen im pädagogischen Alltag Profe…",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5862341753?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=8E1BF0FAD79FDFD89080408EAB3E28CF6C7445F8",
+        "title": "Case Manager:in Diplomierte Gesundheits- und Krankenpflege Beratung und Service-Center Pflege und Betreuung (26/03/KS)",
+        "created": "2026-08-30T18:13:15Z",
+        "id": "5862341753",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.208144,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2MjM0MTc1MyIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.e570zPJpzfZ0mdrg9MUug7slg9cUZn0z6CptUEtODQM",
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Michael K. war unsicher, wie er die Betreuung seiner demenzkranken Mutter zu Hause organisieren sollte. Dank der Beratung und Vermittlung durch unsere Case Manager:innen wird seine Mutter nun bestmöglich versorgt. Er kann sich darauf verlassen, dass sie gut betreut ist – und findet selbst wieder Entlastung im Alltag. - Unser Talent heißt Vielfalt. Sie erfassen im Außen- und Innendienst den individuellen Bedarf der Kund:innen, planen entsprechende Maßnahmen, klären die Kosten und organisieren Un…",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Fonds Soziales Wien"
+        }
+    },
+    {
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.at/details/5727382526?utm_medium=api&utm_source=3e69dd49",
+        "id": "5727382526",
+        "created": "2026-05-13T00:14:05Z",
+        "salary_is_predicted": "0",
+        "salary_max": 80000,
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Margareten"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Margareten, Wien"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzM4MjUyNiIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.YNjXQojFFwN2RRCWChBeJFdKh4GbWOVgEq5ztOlAzgA",
+        "longitude": 16.356338,
+        "title": "Management Consultant Commercial Excellence | Senior Manager (m/w/d), Wien",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs"
+        },
+        "latitude": 48.187398,
+        "salary_min": 80000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "TOWA"
+        },
+        "description": "Wofür wir stehen: “We drive digital transformation end-to-end - from strategy to execution. Creating measurable progress and real impact for our clients.” Stillstand? Nicht mit uns. Wir glauben: Alles ist BETA und genau darin liegt die Chance für Fortschritt. Darum hinterfragen wir Bestehendes, wagen Neues und gestalten die digitale Transformation unserer Kunden aktiv mit. Was uns auszeichnet? Wir denken ganzheitlich. Von der strategischen Beratung bis zur Implementierung begleiten wir unsere K…"
+    },
+    {
+        "latitude": 48.208604,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODczMDg2NTQxIn0.NognoLnfyUCmtfVsO4ioGIh13ZBRyUTr0Caeha6FUDU",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Innere Stadt, Wien",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ]
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-09-06T15:54:37Z",
+        "id": "5873086541",
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5873086541?utm_medium=api&utm_source=3e69dd49",
+        "title": "Manager Prozessoptimierung & Operational Excellence (all genders)",
+        "description": "Wir kennen den Energiemarkt in Österreich und Europa und übernehmen Kundenprozesse im Energiebereich Die smart Energy Services GmbH wurde 2012 als Joint Venture zweier führender Energieunternehmen aus Österreich und Deutschland gegründet. Wir unterstützen unsere Mandant*innen im Energiebereich mit unseren Servicedienstleistungen und weitreichenden Erfahrungen bei der Optimierung bestehender Kundenprozesse, der Entwicklung von neuen Geschäftsmodellen, Erschließung neuer Geschäftsfelder und Eintr…",
+        "company": {
+            "display_name": "smart Energy Services GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.370243
+    },
+    {
+        "description": "Unser Auftraggeber ist ein erfolgreiches Unternehmen mit mehreren Standorten in Österreich. Die Organisation befindet sich auf einem nachhaltigen Wachstumskurs und setzt auf hohe Qualitätsstandards, moderne Führungsansätze sowie die konsequente Weiterentwicklung ihrer Standorte. Für die strategische und operative Führung einer Region im Osten suchen wir eine unternehmerisch denkende Persönlichkeit, die Menschen begeistert, Veränderungsprozesse aktiv gestaltet und nachhaltige Ergebnisse erzielt.…",
+        "company": {
+            "display_name": "Lindlpower Personalmanagement GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "latitude": 48.208144,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1ODUxMTY4MyIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0._XzJaeqmMwqD0l8WbcIr8p6EJIpJ_FFmHtHevDjd6ho",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-08-27T18:19:10Z",
+        "id": "5858511683",
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5858511683?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=6B27D5538E224378DAD4C98417B2E7F1D6DA4621",
+        "title": "Gebietsleiter (m/w/d)"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 36000,
+        "company": {
+            "display_name": "LPAT LeasePlan Österreich Fuhrparkmanagement",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "At Ayvens, progress starts with you. Our ambitions to shape the future of sustainable mobility are powered by our talent. Join us, and get better with every move. Deine zukünftige Rolle. Du gewinnst aktiv Neukund *innen und legst den Grundstein für langfristige Partnerschaften. Du analysierst den Bedarf potenzieller Kund*innen und entwickelst daraus passende Lösungsangebote. Du baust stabile, vertrauensvolle Kundenbeziehungen über den gesamten Verkaufsprozess hinweg auf. Du erstellst und bearbe…",
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5833562435?utm_medium=api&utm_source=3e69dd49",
+        "contract_time": "full_time",
+        "title": "Sales Consultant (m/w/d)",
+        "created": "2026-08-08T16:46:37Z",
+        "id": "5833562435",
+        "salary_max": 36000,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODMzNTYyNDM1In0.ooiNNdsep8BI-pxrM3ubxODaXe8q920JhJ0oSxsQAEo"
+    },
+    {
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_max": 1,
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg3MzA2MDUzOSIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.HRYqqUht2sUtdO1yvcZJbffZPSM_-kq5rSzTlysYfJE",
+        "redirect_url": "https://www.adzuna.at/details/5873060539?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Freelancer: Projektmanager (m/w/d)",
+        "created": "2026-09-06T14:13:16Z",
+        "id": "5873060539",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "[Bulle & Mensch]"
+        },
+        "description": "[Bulle & Mensch] ist der deutschsprachige Video-Podcast über das echte Handwerk erfolgreicher Trader und Investoren: Setup, Psyche und der Mensch hinter den Entscheidungen. Signale, Hypes und Lambo-Versprechen gibt es woanders. Bei uns sprechen Trading-Weltmeister, professionelle Investoren und Menschen mit außergewöhnlichen Erfolgsgeschichten offen über Strategien, Fehler, Rückschläge und das, was langfristig wirklich funktioniert. Unser Ziel ist klar: Bis Ende 2027 wollen wir die reichweitens…",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 0
+    },
+    {
+        "longitude": 16.370243,
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.at/details/5848268291?utm_medium=api&utm_source=3e69dd49",
+        "id": "5848268291",
+        "created": "2026-08-19T16:48:58Z",
+        "salary_is_predicted": "0",
+        "salary_max": 83200,
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Innere Stadt, Wien"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0ODI2ODI5MSIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.71G0JyzdTQc92N6_PGh_P2zkXbjO74MdHffafWBOeq4",
+        "salary_min": 83200,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Serviceleiter:in (m/w/d) Wien, Innere Stadt Vollzeit unbefristet Das Café Landtmann ist ein Ort, an dem Gastfreundschaft seit 1873 gelebt wird. Ein traditionsreiches Wiener Kaffeehaus, das Generationen von Wiener:innen und internationalen Gästen willkommen heißt. Mit seiner einzigartigen Verbindung aus Wiener Kaffeehauskultur, kulinarischer Qualität und stilvoller Atmosphäre ist das Landtmann Treffpunkt für Genießer:innen, Kulturschaffende und Geschäftsleute gleichermaßen. Ein Arbeitsplatz mit …",
+        "company": {
+            "display_name": "FAM Querfeld Consulting",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Serviceleiter:in (m/w/d)",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs"
+        },
+        "latitude": 48.208604
+    },
+    {
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Leadeffect GmbH"
+        },
+        "description": "Als Sales Manager (m/w/d) führst du unsere Verkaufsgespräche online per Videokonferenz und machst aus Interessenten langfristige Partner. Du sprichst mit Leads, die über unsere Kanäle reinkommen oder dir vom Team vorgelegt werden, findest gemeinsam mit den Interessenten heraus, ob wir zueinander passen, und begleitest sie beratend bis zum Abschluss. Dazu gehört auch, die passende Strategie herauszuarbeiten und schriftlich aufzubereiten – das machst du KI-gestützt, aber der Kopf dahinter bist du…",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 60000,
+        "salary_max": 100000,
+        "location": {
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODIwMTQ1NTU1In0.thNNbXtql63LvW63WQxIvhPsUjP3Lutdq7vssVHyR_s",
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5820145555?utm_medium=api&utm_source=3e69dd49",
+        "title": "Sales Manager (m/w/d) 100 % remote",
+        "created": "2026-07-29T21:28:32Z",
+        "id": "5820145555"
+    },
+    {
+        "contract_type": "permanent",
+        "longitude": 16.471308,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Wir sind die Berater der Weltmarktführer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Geschäftsprozesslösungen vorantreiben. Gemeinsam stärken wir die Zukunft der beeindruckendsten Unternehmen der Welt aus Maschinen- und Anlagenbau, Automotive, Life Science, Pharma und Chemie, mit denen wir viel gemeinsam haben. Unser ausgezeichneter Ruf bei Hidden Champions öffnet Dir die Türen für anspruchsvolle Projekte mit einzigartigen Gestaltungsmöglichkeiten. W…",
+        "company": {
+            "display_name": "cbs Corporate Business Solutions GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "(Senior) Consultant (m/w/d) SAP Treasury & Risk Management",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.at/details/5836601350?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        },
+        "id": "5836601350",
+        "created": "2026-08-11T12:33:37Z",
+        "salary_is_predicted": "0",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Donaustadt, Wien",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Donaustadt"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODM2NjAxMzUwIn0.D-h_wFi7MZ_PQzw4z_OLcd6ted1-rmIJUyY2pH7oVK4",
+        "latitude": 48.231283
+    },
+    {
+        "title": "Executive Assistant & Operations Coordinator (f/m/d)",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5860501756?utm_medium=api&utm_source=3e69dd49",
+        "id": "5860501756",
+        "created": "2026-08-29T04:00:40Z",
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Innere Stadt, Wien"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2MDUwMTc1NiIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.WEm91d-TrLktMZgVqaGRNKsPECxGzI9gMYCsnzKkdkg",
+        "latitude": 48.208604,
+        "longitude": 16.370243,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Executive Assistant & Operations Coordinator (f/m/d). IN Vienna. Inverto is one of the leading procurement and supply chain management consultancies in the world. Backed by the power of BCG, we've grown from a successful European consultancy into a global company with a distinct offering. Our Business Services Teams play a critical role in enabling our business, driving continuous improvement, and shaping how we scale. Here, you can use your expertise to make a meaningful impact from within, ta…",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "INVERTO Austria GmbH"
+        }
+    },
+    {
+        "title": "SAP Consultant PP Module",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs"
+        },
+        "latitude": 48.193045,
+        "salary_min": 42895,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "wienerberger France",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "At wienerberger we are committed to a better future. With innovative and sustainable building materials, we strive to improve people's lives and create a world in which future generations have the same opportunities as we do today. Guided by trust, respect, passion and creativity, we shape a better future. Our shared vision: We improve people's quality of life and create a better world for future generations by offering innovative and sustainable solutions for new construction, renovation and i…",
+        "id": "5824077769",
+        "created": "2026-08-01T16:44:18Z",
+        "redirect_url": "https://www.adzuna.at/details/5824077769?utm_medium=api&utm_source=3e69dd49",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyNDA3Nzc2OSIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.QQTcxEaycxcmaQH0rclfqOk83KY06kj_Qi33CjGtrI4",
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Wieden"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wieden, Wien"
+        },
+        "salary_max": 42895,
+        "longitude": 16.369061,
+        "contract_type": "contract"
+    },
+    {
+        "description": "Action statt Langeweile im Job? Keinem starren Regalplan folgen, sondern jede Woche eigenverantwortlich 150 neue Produkte einbauen? Bewirb dich jetzt als stellvertretende/r Filialleiter:in und werde ein Teil von unserer Action-Familie! Über Action – Mehr als 120 Filialen in Österreich Wir sind eines der schnellst wachsenden Handelsunternehmen Europas. Wir gehen den erfolgreichen Weg in Österreich weiter und bauen unser Filialnetz stetig aus. Du hast gern Spaß an deiner Arbeit und suchst eine ve…",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Action Retail Austria GmbH"
+        },
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1OTg4ODA5MyIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.UWCMZElMaA9HA0EhY2a_wtMdsVryOYV2ZnmobMu35jo",
+        "latitude": 48.208144,
+        "title": "Stellvertretende Filialleitung (m/w/d)",
+        "redirect_url": "https://www.adzuna.at/land/ad/5859888093?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=0BFA35A590D4FC9B451D45ACB40BC0C9E7497FC6",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        },
+        "id": "5859888093",
+        "created": "2026-08-28T18:19:26Z"
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5868105934?utm_medium=api&utm_source=3e69dd49",
+        "title": "Bereichsleitung Customer & Partner Growth (m/w/d)",
+        "created": "2026-09-03T03:53:33Z",
+        "id": "5868105934",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Innere Stadt, Wien",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ]
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.208604,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2ODEwNTkzNCIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.dRFwUkTZiW30wsOJvyWXXzqwgENFDBQUaNhtMxXd3fI",
+        "longitude": 16.370243,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Für einen wachstumsstarken Marktführer innerhalb seiner Branche suchen wir eine erfahrene Führungspersönlichkeit, die ein strategisch bedeutendes Geschäftsfeld mit Weitblick und Gestaltungsstärke in die nächste Entwicklungsphase führt. In dieser Schlüsselrolle übernehmen Sie die Gesamtverantwortung für die Weiterentwicklung von CRM, Customer Engagement und strategischem Partner Management und berichten direkt an die Geschäftsleitung. Sie verbinden unternehmerisches Denken mit exzellenter Umsetz…",
+        "company": {
+            "display_name": "Iventa. The Human Management Group",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        }
+    },
+    {
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Bundesforschungszentrum für Wald "
+        },
+        "description": "Das Bundesforschungszentrum für Wald (BFW) widmet sich allen Aspekten des Lebensraums Wald – in ökonomischer, ökologischer und sozialer Hinsicht und beschäftigt derzeit fast 400 Mitarbeiter:innen an fünf Standorten. Am Institut für Waldökologie & Boden in Wien – Schönbrunn wird die Leitung der Abteilung Standort & Vegetation neu besetzt: Abteilungsleiter:in Standort & Vegetation Vollzeit (40h) Das Institut Waldökologie & Boden beschäftigt sich mit der Lebensgemeinschaft im Wald und deren Wechse…",
+        "longitude": 16.354031,
+        "contract_type": "contract",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich"
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.208144,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODcwODM0NzEwIn0.xGVM2pdPJ_Jm9tee7D50kSdrPWmPwMA1_9c9k1PlydU",
+        "redirect_url": "https://www.adzuna.at/land/ad/5870834710?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=9F68540377A7E16C3D80D588E0BE8E78603334AA",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        },
+        "title": "Abteilungsleiter:in Standort & Vegetation",
+        "created": "2026-09-04T18:30:18Z",
+        "id": "5870834710"
+    },
+    {
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Innere Stadt, Wien",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ]
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.208604,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NDYyNTA4NSIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.eyxeiB0p1yI-godJuZxrj4ejeszC93lzNus7HgrSNmM",
+        "redirect_url": "https://www.adzuna.at/details/5864625085?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        },
+        "title": "ExpertIn für Kampagnenmanagement und Politik (m/w/d) Gewerkschaft vida Wien",
+        "created": "2026-09-01T16:00:16Z",
+        "id": "5864625085",
+        "company": {
+            "display_name": "Gewerkschaft Vida",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Gemeinsam bewegen wir was! Die Gewerkschaft vida vertritt die Interessen der Beschäftigten im Verkehr, in Dienstleistungsbereichen und im privaten Gesundheits-und Pflegebereich. Als starke Arbeitnehmer:innenvertretung setzen wir uns täglich für faire Arbeitsbedingungen, soziale Gerechtigkeit und gute Löhne ein. Du brennst für sozial- und arbeitnehmer:innenpolitische Themen und weißt, wie man Menschen begeistert, mobilisiert und verändernde Kampagnen ins Leben ruft? Dann verstärke unser Team in …",
+        "longitude": 16.370243,
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "ANGEHEUERT GmbH Personalberatung"
+        },
+        "description": "Bereit für den nächsten Karriereschritt? Du willst nicht nur beraten, sondern aktiv mitgestalten? In einem Unternehmen, das nachhaltig agiert, Innovation lebt und mit dir gemeinsam die Zukunft des Energy, Environment, Telecommunication Bereichs deiner Kunden gestaltet? Dann lies weiter! Unser Auftraggeber zählt laut Forbes zu den „World’s Best Consulting Firms“ und begleitet als etablierte Managementberatung branchenübergreifend bei umfassenden Projekten. Aufgaben Als Senior Consultant berätst …",
+        "salary_min": 82000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "location": {
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "salary_max": 82000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODUxNDIyMjY4In0.eliOl-CsxRDTLKqglssOyOLjQgTpzqIPXaUo1fFeOso",
+        "title": "Senior Consultant (m/w/d) Energy, Environment & Telecommunication",
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5851422268?utm_medium=api&utm_source=3e69dd49",
+        "id": "5851422268",
+        "created": "2026-08-21T21:48:03Z"
+    },
+    {
+        "id": "5862950789",
+        "created": "2026-08-31T15:51:21Z",
+        "title": "TPM Koordinator / Lean Manager (m/w/d)",
+        "redirect_url": "https://www.adzuna.at/details/5862950789?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2Mjk1MDc4OSIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.7H0B15AF16mEVPJdtSwJV3pBOTEQdDE19f4hbLxmA7E",
+        "latitude": 48.167849,
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Simmering"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Simmering, Wien"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.434659,
+        "description": "Die Mautner Markhof Feinkost GmbH ist ein traditionsreiches und zugleich innovatives österreichisches Unternehmen im Lebensmittelbereich. Mit modernster Produktionstechnologie und starken Marken stehen wir für Qualität, Nachhaltigkeit und kontinuierliche Weiterentwicklung. Zur Weiterentwicklung unserer Produktions- und Verbesserungsprozesse suchen wir ab sofort eine engagierte Persönlichkeit als TPM Koordinator / Lean Manager (m/w/d) . In dieser Rolle übernimmst du eine zentrale Funktion in der…",
+        "company": {
+            "display_name": "Mautner Markhof Feinkost GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        }
+    },
+    {
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5870834880?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=90F8CF1EE240C81B841F5F74990641FF95603379",
+        "title": "Betriebsleitung Integrativer Betrieb - Handwerk (w/m/d), 38,5 WStd.",
+        "created": "2026-09-04T18:30:19Z",
+        "id": "5870834880",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich"
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.208144,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODcwODM0ODgwIn0.IsMhDjjdmNDRTv2LapH6-wXTap8HiIUE6bC_zmB8rmA",
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Wien Work-integrative Betriebe und AusbildungsgmbH ist ein gemeinnütziges Unternehmen der Sozialwirtschaft mit arbeitsmarktpolitischem Auftrag. Wir ermöglichen Menschen mit Behinderungen, chronischen Erkrankungen oder langzeitarbeitslosen Menschen die selbstbestimmte Teilhabe am Wirtschafts- und Gesellschaftsleben. Mit unseren Geschäftsfeldern, Dienstleistungen und Projekten sind wir auf zahlreichen Standorten in Wien präsent. Wir l(i)eben soziale Verantwortung und suchen Menschen, welche diese…",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Wien Work integrative Betriebe und AusbildungsgmbH"
+        }
+    },
+    {
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "ZELLNER Personal Lösungen GmbH"
+        },
+        "description": "Mit unserer jahrzehntelangen Erfahrung in der Zeitarbeit und Personalvermittlung in ganz Österreich, haben wir ein großes Netzwerk aus nationalen und internationalen Unternehmen verschiedenster Bereiche aufgebaut. ZELLNER bringt die richtigen Menschen mit dem richtigen Job zusammen. Du begleitest unsere Mitarbeitenden vom Eintritt bis zum Austritt und sorgst dafür, dass die Personalstammdaten in Interflex, GFOS und SAP immer up to date sind Du behältst den Überblick über Anwesenheiten, Zeitwirt…",
+        "title": "HR-Generalist (M/W/X) Admin & Payroll",
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5870835071?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=1D0DBACD0B9ABEBFFE508EE6E629F9DB776DF0DB",
+        "id": "5870835071",
+        "created": "2026-09-04T18:30:23Z",
+        "salary_is_predicted": "0",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODcwODM1MDcxIn0.6TF4noC2chiZvMhcL9zkQ5vP1Su7o_C4kuxtL14mEPw",
+        "latitude": 48.208144
+    },
+    {
+        "description": "\"You dream it, we code it\" ist unser Motto. Wir von SUPPLiot (səˈplaɪōtiː) optimieren und digitalisieren als vertrauensvoller Partner die Unternehmensabläufe unserer Kundinnen und Kunden. Als \"Prozess-Versteher\" schaffen wir systemrelevante Lösungen für die Bereiche Business Administration und Logistik. Werde Teil unseres Teams und trage dazu bei, die Markbeständigkeit österreichischer KMUs in abwechslungsreichen Projekten zu sichern. Zur Verstärkung unseres Teams suchen wir Softwareentwickler:…",
+        "company": {
+            "display_name": "SUPPLiot GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 34249,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.370243,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA5MDk5NDI3NyIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.rkrR5nqeBwo6BmUP_IK3JUDM4ccJvBDdvW5n48o52yE",
+        "latitude": 48.208604,
+        "salary_is_predicted": "0",
+        "salary_max": 34249,
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Innere Stadt, Wien"
+        },
+        "id": "5090994277",
+        "created": "2025-03-13T10:49:48Z",
+        "title": "Prozess-Consultant ERP-Implementierung (w/m/d)",
+        "redirect_url": "https://www.adzuna.at/details/5090994277?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        }
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODQ4MjcxOTgwIn0.Jko3R0nEvKB_iPqL5xl2LECe3MiKyEGBjIooSqLrGhw",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Liesing"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Liesing, Wien"
+        },
+        "salary_max": 83200,
+        "salary_is_predicted": "0",
+        "created": "2026-08-19T16:49:45Z",
+        "id": "5848271980",
+        "redirect_url": "https://www.adzuna.at/details/5848271980?utm_medium=api&utm_source=3e69dd49",
+        "contract_time": "full_time",
+        "longitude": 16.28417,
+        "latitude": 48.135473,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs"
+        },
+        "title": "Produktionshilfskraft (m/w/d) Backstube/Produktionsküche",
+        "description": "Produktionshilfskraft (m/w/d) Backstube/Produktionsküche Wien, Liesing Vollzeit unbefristet Die Landtmann's Original Manufaktur ist ein Ort, an dem traditionelle Wiener Patisserie, handwerkliche Präzision und höchste Qualitätsansprüche zusammentreffen. Hier entstehen täglich Guglhupf, Mehlspeisen und süße Köstlichkeiten, die unsere Gäste in unseren Betrieben begeistern. Wir sind Teil der Familie Querfeld – einem Wiener Familienunternehmen mit 10 Betrieben und rund 350 Mitarbeiter:innen. Ihre Au…",
+        "company": {
+            "display_name": "FAM Querfeld Consulting",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 83200
+    },
+    {
+        "description": "Dynamic Personaldienste blickt auf über 40 Jahre Erfahrung in der Personaldienstleistung zurück. Die hohe Arbeitszufriedenheit und die lange Zugehörigkeitsdauer unserer MitarbeiterInnen hebt uns vom Mitbewerb ab. Für unseren Kunden, welcher einer der weltweit führenden Hersteller von rotierenden Präzisionswerkzeugen ist, suchen wir für den Einsatz Ort Wien eine/einen: MitarbeiterIn Arbeitsvorbereitung – Werkzeugannahme & Beschichtung (m/w/d) Annahme und Erfassung von Werkzeugen und Aufträgen Vo…",
+        "company": {
+            "display_name": "DB Dynamic Personaldienste GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.208144,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg3MjE4NTc1NSIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.IO7TC7LUyH69pTyouePwS-XmGjzEELtOM8hVuC2nb9k",
+        "redirect_url": "https://www.adzuna.at/land/ad/5872185755?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=5637F796504C578422769B29CCE616ADE11A4C4F",
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "MitarbeiterIn Arbeitsvorbereitung- Werkzeugannahme & Beschichtung (m/w/d)",
+        "created": "2026-09-05T18:34:37Z",
+        "id": "5872185755"
+    },
+    {
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Innere Stadt, Wien"
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.208604,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg3MjU2NzUyMCIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.LzW6ja-pB5qkTEa5O4Gxu9vKHhRG85fh-V8MN3Y9fdg",
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5872567520?utm_medium=api&utm_source=3e69dd49",
+        "title": "Leiter:in Board Office & Performance Management",
+        "created": "2026-09-06T03:56:12Z",
+        "id": "5872567520",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Odgers Berndtson HR Consulting GmbH"
+        },
+        "description": "Odgers ist seit über 50 Jahren führend in Executive Search und Leadership Consulting und bietet mit rund 1.000 Mitarbeiter:innen in 58 Büros weltweit maßgeschneiderte Lösungen für unsere Auftraggeber:innen. In der DACH-Region vermittelt Odgers jährlich zahlreiche Führungskräfte in verschiedenen Branchen. Unser Auftraggeber ist eine führende Institution im österreichischen Finanzsektor und steht für Stabilität, Sicherheit und höchste Qualitätsstandards. Im Rahmen umfassender Prüfungs-, Kontroll-…",
+        "longitude": 16.370243,
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "created": "2026-08-28T03:55:19Z",
+        "id": "5859096268",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5859096268?utm_medium=api&utm_source=3e69dd49",
+        "title": "Stellvertretende Filialleitung (m/w/d)",
+        "latitude": 48.208604,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1OTA5NjI2OCIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.rstD2979IEqDZCL9jk0CTnhSIhsmUfVqe1pTLb11REI",
+        "location": {
+            "display_name": "Innere Stadt, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ]
+        },
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.370243,
+        "company": {
+            "display_name": "Action Retail Austria GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Action statt Langeweile im Job? Keinem starren Regalplan folgen, sondern jede Woche eigenverantwortlich 150 neue Produkte einbauen? Bewirb dich jetzt als stellvertretende/r Filialleiter:in und werde ein Teil von unserer Action-Familie! Über Action – Mehr als 120 Filialen in Österreich Wir sind eines der schnellst wachsenden Handelsunternehmen Europas. Wir gehen den erfolgreichen Weg in Österreich weiter und bauen unser Filialnetz stetig aus. Du hast gern Spaß an deiner Arbeit und suchst eine ve…"
+    },
+    {
+        "company": {
+            "display_name": "MUSE Electronics GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "MUSE ist ein modernes und dynamisches Technologie-Unternehmen mit dem Auftrag, bedingungslos cyberssichere, und robuste Handheld-Devices für extreme Anwendungsbedingungen herzustellen. Zur Unterstützung des Teams und für Produkt- und Unternehmensentwicklung suchen wir zum ehestmöglichen Eintritt eine/n: Head of Operation (m/w/d) Vollzeit (38,5 Stunden/Woche) Standort: Vienna Gesamtverantwortung der operativen Organisation inklusive Aufbau und Weiterentwicklung End-to-End-Verantwortung für die K…",
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.208144,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NTA0OTA5MSIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.Dy6x0B1HkKM0q9p4uzjreISdRtVqgIa6oja-Rbq5YV0",
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5865049091?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=A073D0581F81B1BFABAD5C214758AE1512A70F10",
+        "title": "Head of Operation (m/w/d)",
+        "created": "2026-09-01T18:20:44Z",
+        "id": "5865049091"
+    },
+    {
+        "company": {
+            "display_name": "SAG Austria Handels GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Die SAG Austria Handels GmbH mit Sitz im 23. Wiener Gemeindebezirk ist die österreichische Tochter der Swiss Automotive Group. Unter den Marken Derendinger für Pkw-Ersatzteile und Matik für Lkw-Ersatzteile bieten wir unseren Kunden erstklassige Produkte, Lösungen und Dienstleistungen an. Für unsere Zentrale in Wien (23. Bezirk) suchen wir eine engagierte, zuverlässige, lernbereite Persönlichkeit als HR Generalist .",
+        "longitude": 16.28417,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "location": {
+            "display_name": "Liesing, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Liesing"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1ODI5MDUzNyIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.pVmPKYs5BZ1SnMw6YQDtlluT2uphGHw5i99Lj98xl3I",
+        "latitude": 48.135473,
+        "title": "HR Generalist (m/w/d) Wien 23",
+        "redirect_url": "https://www.adzuna.at/details/5858290537?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs"
+        },
+        "id": "5858290537",
+        "created": "2026-08-27T15:57:31Z"
+    },
+    {
+        "created": "2026-08-19T13:46:31Z",
+        "id": "5848122024",
+        "redirect_url": "https://www.adzuna.at/details/5848122024?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "AI Data Governance Consultant (m/f/x)",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODQ4MTIyMDI0In0.DC38il6kBbbJ7a0-V_sAe9CDkw22YwTDBdMIf0_PKKk",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich"
+        },
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Job Description We're looking for an AI Data Governance Consultant who can guide our clients when AI initiatives raise hard questions about data warehousing and security. This is an engineering-grounded, security-first role. Our ideal candidate will work together with clients to create the governance framework, lay out how and where data should flow through different areas of their architecture, and guide the client on an ongoing basis as the implementation moves along. What you will do: Act as…",
+        "company": {
+            "display_name": "Virtual Identity AG",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        }
+    },
+    {
+        "location": {
+            "display_name": "Brigittenau, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Brigittenau"
+            ]
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.237721,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODU1NDAzNDU5In0.envh2du-G41dVo9VazPseMvS5WhxvfvQtL9dmRoUZy4",
+        "redirect_url": "https://www.adzuna.at/details/5855403459?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "SAP Inhouse Consultant SCM (m/w/d)",
+        "created": "2026-08-25T15:51:40Z",
+        "id": "5855403459",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "SELSYS GmbH"
+        },
+        "description": "Die SELSYS GmbH ist seit über 15 Jahren IT-Recruiting Spezialist für Österreich, Deutschland und die Schweiz. Für ein etabliertes, international tätiges Unternehmen suchen wir eine erfahrene Persönlichkeit, die aktiv an der Einführung und Weiterentwicklung von SAP S/4HANA mitwirkt. In dieser Rolle bildest du die Schnittstelle zwischen den operativen Fachbereichen und dem SAP-Projektteam als: SAP Inhouse Consultant SCM (m/w/d) Bezirk Schwaz, Österreich (Vollzeit)",
+        "longitude": 16.375306,
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "id": "5869331367",
+        "created": "2026-09-03T18:28:26Z",
+        "title": "Leiter Tax Strategy & Knowledge (w/m/d)",
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5869331367?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=7375F396E79CF176726628FAE67EF9ADD169748A",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODY5MzMxMzY3In0.ExJ9qmTfl4K5-u_9BqqlZLc2fWq27e-PkBgkSFdnbes",
+        "latitude": 48.208144,
+        "salary_is_predicted": "0",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "description": "lawyers & more – wir suchen die besten Köpfe für den besten Arbeitgeber – heute und morgen. Unser Auftraggeber ist ein Technologieunternehmen. Im Zuge der Weiterentwicklung des Standorts Österreich Bereichs suchen wir eine unternehmerisch denkende Führungspersönlichkeit, die als Leiter (w/m/d) Tax Strategy & Knowledge ihre steuerrechtliche Expertise mit strategischem Weitblick, einem starken Netzwerk und Freude an Innovation verbindet. Sie möchten das Steuerrecht nicht nur anwenden, sondern des…",
+        "company": {
+            "display_name": "l & m executive search & consulting gmbh",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        }
+    },
+    {
+        "description": "Bei scc geht es um mehr als das Monatsgehalt: Denn jeder einzelne Mitarbeitende von uns, mit geballter Expertise und Know-how, bildet die Säulen unserer Marke. Wir waren schon immer anders, als die anderen und daran wird sich auch in Zukunft nichts ändern. Wir wachsen, so wie es uns guttut – und wir wachsen mit dir. Der freundschaftliche und wertschätzende Umgang, von- und miteinander Lernen, Offenheit und eine gehörige Portion Schmäh machen die scc zu dem, was sie ist: A great place to work! A…",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "scc EDV-Beratung AG"
+        },
+        "salary_min": 50000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_max": 70000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA5MTAxNzExNCIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.2hfhXgdMXwvfnLPcFw7MYAIqi-zUI9IPBopE_vSMy1g",
+        "title": "(Senior) SAP Expert Industrial Solutions // Utilities (m/w/d)",
+        "redirect_url": "https://www.adzuna.at/details/5091017114?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5091017114",
+        "created": "2025-03-13T10:50:35Z"
+    },
+    {
+        "title": "Senior Manager (m/w/d) Supply Chain Management & Operations",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs"
+        },
+        "latitude": 48.208144,
+        "salary_min": 103000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "ANGEHEUERT GmbH"
+        },
+        "description": "Du willst nicht nur beraten, sondern Transformation aktiv im Supply Chain Management & Operations mitgestalten? In einem Unternehmen, das nachhaltig agiert und Innovation lebt?  Dann lies weiter! Unser Kunde zählt laut Forbes zu den „World’s Best Consulting Firms“ und begleitet als etablierte Managementberatung branchenübergreifend bei umfassenden Projekten. Deine Benefits Ein Zielgehalt ab 103.000 € brutto mit Bereitschaft zur Überzahlung bei entsprechender Qualifikation Ein transparenter Karr…",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.at/details/5858124125?utm_medium=api&utm_source=3e69dd49",
+        "id": "5858124125",
+        "created": "2026-08-27T12:35:27Z",
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_max": 103000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODU4MTI0MTI1In0.rdWFhcYmPYlCsLWVIyik3bKn67n2PMjDfGTEUk8UFrk",
+        "contract_type": "permanent",
+        "longitude": 16.354031
+    },
+    {
+        "id": "5873086523",
+        "created": "2026-09-06T15:54:37Z",
+        "title": "Gebietsleiter*in Neuwagen Vertrieb Region Süd/Ost",
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5873086523?utm_medium=api&utm_source=3e69dd49",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg3MzA4NjUyMyIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.QYHeZFwwB_u1IrFJe-Fv9K6alxZSbfxEqVuWAzyyXLY",
+        "latitude": 48.208604,
+        "salary_is_predicted": "0",
+        "location": {
+            "display_name": "Innere Stadt, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.370243,
+        "company": {
+            "display_name": "Renault Österreich GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Als internationaler Konzern gehört die Renault Group zu den führenden Automobilunternehmen weltweit und ist einer der global bekanntesten Markennamen. Seit über 100 Jahren entwickeln sie wegweisende Mobilitätskonzepte. Bereits seit mehr als 60 Jahren ist die Renault Group in Österreich vertreten und hat sich seitdem zu einem der führenden Anbieter auf dem heimischen Automobilmarkt entwickelt. Um umweltfreundliche, begeisternde Produkte und Mobilitätslösungen anbieten zu können, stellen wir den …"
+    },
+    {
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Wiener Sozialdienste Förderung & Begleitung GmbH"
+        },
+        "description": "Die Wiener Sozialdienste sind eine der größten Non-Profit-Organisationen im sozialen Bereich in Wien. Wir setzen uns dafür ein, dass Menschen – egal, in welcher Lebenslage – die passende Unterstützung bekommen. Was uns als Arbeitgeberin ausmacht? Ein Miteinander auf Augenhöhe. Ein klarer Rahmen, der Freiraum schafft. Kolleg:innen, die füreinander da sind – fachlich und menschlich. Bereichsleitung Wohnen (Vollzeit | 37 Wochenstunden | Standort: 1150 Wien)",
+        "longitude": 16.327261,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Fünfhaus, Wien",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Fünfhaus"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODcyNTY3NTMxIn0.AWXbUpfaRbdeVfhVOHzCMHwrIasR_D-2YudQlUzU3WU",
+        "latitude": 48.195858,
+        "title": "Bereichsleitung Wohnen (Vollzeit | 37 Wochenstunden | Standort: 1150 Wien)",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5872567531?utm_medium=api&utm_source=3e69dd49",
+        "id": "5872567531",
+        "created": "2026-09-06T03:56:12Z"
+    },
+    {
+        "latitude": 48.208144,
+        "title": "ABAP Developer / Technical Consultant (all genders) - WIEN",
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "vysion consulting"
+        },
+        "description": "Folgende Aufgaben erwarten dich Für unseren Standort in WIEN suchen wir ABAP Developer (m/w/d) für den Bereich SAP BRIM - Billing and Revenue Innovation Management. Du hast bereits einige Jahre Erfahrung in der ABAP Entwicklung und interessierst dich für eine neue Herausforderung? bev y sionary Bewirb Dich jetzt bei uns und werde Teil des team Y ! Wir suchen interessierte, leistungsbereite und engagierte ABAP Entwickler:innen für SAP BRIM mit folgenden Schwerpunkten: Analyse von Anforderungen i…",
+        "salary_min": 53000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1NzI3MzgwNjUyIn0.R8xbq6ClYNsO5d-RpVki3h4daECr6qe__X3pmhhtT3g",
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich"
+        },
+        "salary_max": 53000,
+        "id": "5727380652",
+        "created": "2026-05-13T00:13:43Z",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.at/details/5727380652?utm_medium=api&utm_source=3e69dd49",
+        "longitude": 16.354031
+    },
+    {
+        "company": {
+            "display_name": "convival Immobilien",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Die convival Immobilien GmbH ist ein familiäres Unternehmen in der Immobilienbranche. Du sitzt gerne in der Sonne bei einem Kaffee? Du willst Teil eines familiären Teams werden? Dein Humor hilft Dir immer weiter? Dann haben wir uns vielleicht gefunden! Denn wir suchen ab sofort Deine Unterstützung als: Hausverwaltung: Assistenz Verwalter*in WEG / MRG Vollzeit (40 Stunden/Woche) Vorweg: wir freuen uns über Aufsteiger, Wiedereinsteiger, Mamas und Papas… Was zählt bist Du - Dein Charakter und Dein…",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.272186,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NDM4ODc3NiIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.CyTnKDluC38qCm6_lzDHvQ8vz7oj0zhbBnFemA3XLHU",
+        "latitude": 48.177223,
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Hietzing"
+            ],
+            "display_name": "Hietzing, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5854388776",
+        "created": "2026-08-24T15:55:56Z",
+        "title": "Assistenz Verwalter*in WEG / MRG",
+        "redirect_url": "https://www.adzuna.at/details/5854388776?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs"
+        }
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.471308,
+        "contract_type": "permanent",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "cbs Corporate Business Solutions GmbH"
+        },
+        "description": "Wir sind die Berater der Weltmarktführer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Geschäftsprozesslösungen vorantreiben. Gemeinsam stärken wir die Zukunft der beeindruckendsten Unternehmen der Welt aus Maschinen- und Anlagenbau, Automotive, Life Science, Pharma und Chemie, mit denen wir viel gemeinsam haben. Unser ausgezeichneter Ruf bei Hidden Champions öffnet Dir die Türen für anspruchsvolle Projekte mit einzigartigen Gestaltungsmöglichkeiten. W…",
+        "created": "2026-08-14T13:23:05Z",
+        "id": "5841776539",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5841776539?utm_medium=api&utm_source=3e69dd49",
+        "contract_time": "full_time",
+        "title": "Break Your Limits – SLT-Beraterprogramm (m/w/d)",
+        "latitude": 48.231283,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODQxNzc2NTM5In0.NFZkyP-y7dQsHlUALVHIDSWLBwtnx571vtZCdna7frA",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Donaustadt"
+            ],
+            "display_name": "Donaustadt, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0"
+    },
+    {
+        "redirect_url": "https://www.adzuna.at/land/ad/5872783166?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=5103F04FA00345B66632955CFBC2E73ED7EBC893",
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Senior Analyst (f/m/d)",
+        "created": "2026-09-06T07:30:46Z",
+        "id": "5872783166",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.208144,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg3Mjc4MzE2NiIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.zNG6vT2PhewZFaFw4tmmq5F90m0--egbCCDm8HQZviw",
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Unser Auftraggeber ist ein äußerst erfolgreiches, international tätiges Unternehmen mit führender Marktposition. Vom Standort Wien aus werden zentrale Digitalisierungsinitiativen für Europa gesteuert. Zur Verstärkung des Teams wird eine erfahrene Persönlichkeit gesucht, die Business, Data Analytics und Artificial Intelligence verbindet und moderne Informations- und Entscheidungsplattformen weiterentwickelt. Übersetzung von Geschäftsanforderungen in skalierbare, Data/AI Lösungen Entwicklung von …",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "EBLINGER & PARTNER"
+        }
+    },
+    {
+        "description": "Die Mautner Markhof Feinkost GmbH ist ein traditionsreiches und zugleich innovatives österreichisches Unternehmen im Lebensmittelbereich. Mit modernster Produktionstechnologie und starken Marken stehen wir für Qualität, Nachhaltigkeit und kontinuierliche Weiterentwicklung. Zur Weiterentwicklung unserer Produktions- und Verbesserungsprozesse suchen wir ab sofort eine engagierte Persönlichkeit als TPM Koordinator / Lean Manager (m/w/d) . In dieser Rolle übernimmst du eine zentrale Funktion in der…",
+        "company": {
+            "display_name": "Mautner Markhof Feinkost GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "location": {
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2MzkxMzEyMSIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.2NSGPlWCEq8BuPgpjPcvaE9CtWbPaVsY8c_OCZltRJM",
+        "latitude": 48.208144,
+        "title": "TPM Koordinator / Lean Manager (m/w/d)",
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5863913121?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=F4CF68960BB098211BD85E304AD9258C2BD3A3C1",
+        "id": "5863913121",
+        "created": "2026-09-01T07:34:23Z"
+    },
+    {
+        "company": {
+            "display_name": "VITREA Health Management GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Wir sind ein führendes Gesundheitsunternehmen in Deutschland, Österreich und der Schweiz mit rund 14.000 Mitarbeitenden und knapp 80 Einrichtungen. In Österreich betreiben wir 24 Standorte mit ca. 2.800 Mitarbeitenden. Unser Ziel: erstklassige Gesundheitsversorgung und Rehabilitation für unsere Patient:innen – getragen von einem starken Teamgeist und einer zukunftsorientierten Unternehmenskultur. Zur Weiterentwicklung unsere Group Change & Demanbereichs suchen wir eine/n engagierten, motivierte…",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.354031,
+        "latitude": 48.208144,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODU1MDMxNDU2In0.ey_kQHBvmdzKeh2IO_yCTGJCFYFGMBW8EnGmnFJnkn8",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-08-25T07:40:22Z",
+        "id": "5855031456",
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5855031456?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=1701AC238F85D5556D273BC60AF549195C53376D",
+        "title": "Demand Management Consultant (m/w/d)"
+    },
+    {
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Alsergrund"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Alsergrund, Wien"
+        },
+        "salary_max": 95000,
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1NzI3Mzg3MzA2In0.OH6iI9pm5CQCM5tB7kT9-mcrzYXOwajXyU05S887OnM",
+        "redirect_url": "https://www.adzuna.at/details/5727387306?utm_medium=api&utm_source=3e69dd49",
+        "contract_time": "full_time",
+        "created": "2026-05-13T00:14:46Z",
+        "id": "5727387306",
+        "longitude": 16.356071,
+        "latitude": 48.222615,
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Lead Platform Consultant - Openshift",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Squer"
+        },
+        "description": "Description You know how to create the right platform for software teams – stable, scalable, secure. While your heart beats for OpenShift, you’re also confident working across cloud-native technologies and Kubernetes ecosystems. Join us as Lead Platform Engineer (f/m/x) and help our clients modernize their delivery pipelines and infrastructure setups – in tailored, hands-on consulting projects across industries. Your tasks We’re looking for a Lead Platform Engineer who thrives in consulting env…",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 75000
+    },
+    {
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "(Senior) Berater SAP QM in SAP S/4HANA (m/w/d)",
+        "latitude": 48.193045,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 75000,
+        "description": "Deine Aufgaben Deine Aufgaben Du verantwortest den Teilbereich Qualitätsmanagement (QM) in On-Premise- oder Cloud-Einführungsprojekten von SAP S/4HANA (mit Schnittstellen zu anderen Bereichen), planst die entsprechenden Phasen dieser Projekte und setzt im Team um, was gemeinsam geplant und entschieden wurde Du führst die Prozessaufnahme beim Kunden eigenständig durch, analysierst den Status-Quo und konzeptionierst zukünftige Prozesse Du kümmerst Dich – gemeinsam mit den Kunden – um die Optimier…",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Gambit Consulting"
+        },
+        "redirect_url": "https://www.adzuna.at/details/5727382236?utm_medium=api&utm_source=3e69dd49",
+        "contract_time": "full_time",
+        "created": "2026-05-13T00:14:01Z",
+        "id": "5727382236",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Wieden"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wieden, Wien"
+        },
+        "salary_max": 75000,
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzM4MjIzNiIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.CJJ_arZd2_8eCqdEP9msWDs7UxrGClAxGzliAmDsI8A",
+        "longitude": 16.369061
+    },
+    {
+        "salary_is_predicted": "0",
+        "salary_max": 90000,
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg3MDYwMzc5MyIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.NFbMEOS80hOnq7MY4TW0vbimcwCt6aLyjdR1i8XvQA0",
+        "title": "SAP SD/MM Consultant",
+        "redirect_url": "https://www.adzuna.at/details/5870603793?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5870603793",
+        "created": "2026-09-04T14:10:53Z",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Pertemps ERP"
+        },
+        "description": "Bist du bereit, den nächsten Schritt in deiner SAP SD/MM-Karriere zu gehen? Ich arbeite mit einem etablierten Beratungsunternehmen in Wien zusammen, das sein Team mit einem erfahrenen SAP SD/MM Consultant verstärken möchte. Aufgaben Hybrides Arbeitsmodell Attraktives Gehalt, umfassende Benefits und klare langfristige Entwicklungsmöglichkeiten Eine Mischung aus lokalen Projekten und internationalen SAP SD/MM Rollouts Die Chance, Teil internationaler S/4HANA-Transformationsprojekte zu sein Ein un…",
+        "salary_min": 60000,
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "latitude": 48.208144,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NTAzNTcwOSIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.R-h1SasJHKgVzebO8JtplM8eokXOBXPcTBXgrQKW4_Y",
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.at/land/ad/5865035709?se=oG0aUrqq8RGsAOWVR6HazQ&utm_medium=api&utm_source=3e69dd49&v=3EEC589BC6AAF2256D06DBA088136C74B05100F5",
+        "title": "Planer Im Tiefbau (M/W/X)",
+        "created": "2026-09-01T18:13:33Z",
+        "id": "5865035709",
+        "company": {
+            "display_name": "ZELLNER Personal Lösungen GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Mit unserer jahrzehntelangen Erfahrung in der Zeitarbeit und Personalvermittlung in ganz Österreich, haben wir ein großes Netzwerk aus nationalen und internationalen Unternehmen verschiedenster Bereiche aufgebaut. ZELLNER bringt die richtigen Menschen mit dem richtigen Job zusammen. Technische Verantwortung für die Auslegung und statische Berechnung von Stollen und Hohlraumbauten Betreuung und Koordination der Planerstellung in verschiedenen Projektphasen – vom Entwurf über Einreichung und Auss…",
+        "longitude": 16.354031,
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "company": {
+            "display_name": "the female factor",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Looking for a new job because your current salary doesn’t reflect your value? You’re not alone. Many highly skilled professionals don’t struggle with competence - they struggle with recognizing, communicating, and negotiating their value . At the female factor , we work with thousands of ambitious professionals and leaders around the world. One pattern shows up again and again: people often look for a new job when the real opportunity is learning how to earn more where they already are . This m…",
+        "salary_min": 30000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY2MzQ1MjA5MCIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.OzjZD2ckgjPyA6Q9suizgzuXy9csRSaNVk8GLgzDr7Q",
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien"
+            ],
+            "display_name": "Wien, Österreich",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_max": 150000,
+        "id": "5663452090",
+        "created": "2026-03-13T12:34:14Z",
+        "title": "Ready to earn more?",
+        "redirect_url": "https://www.adzuna.at/details/5663452090?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        }
+    },
+    {
+        "latitude": 48.208604,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2MTc2NDY2OSIsInMiOiJvRzBhVXJxcThSR3NBT1dWUjZIYXpRIn0.eP0KzbaG1-lY6UpxxLLdApnxbaOuyGDcH4hQXkiZVSY",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Innere Stadt"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Innere Stadt, Wien"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-08-30T03:56:21Z",
+        "id": "5861764669",
+        "redirect_url": "https://www.adzuna.at/details/5861764669?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        },
+        "title": "Business Analyst – Versicherungsbereich (all genders)",
+        "description": "Business Analyst - Versicherungsbereich (all genders) Analytisches Denken trifft Versicherungsexpertise - gestalten Sie Versicherungsprozesse rund um KFZ und Mobilität aktiv mit. Unser Kunde zählt zu den führenden Anbietern moderner Mobilitäts- und Flottenmanagementlösungen und begleitet Unternehmen mit maßgeschneiderten Konzepten rund um Leasing, Versicherungen und Fuhrparkmanagement. Als Teil eines international erfolgreichen Konzerns arbeiten Sie in einem internationalen Umfeld und an der Sc…",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "PMC International GmbH"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.370243
+    },
+    {
+        "id": "5727380301",
+        "created": "2026-05-13T00:13:39Z",
+        "title": "Freelancer:in für die Unterstützung von Fachkräften aus Drittstaaten",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.at/details/5727380301?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1NzI3MzgwMzAxIn0.aOHPwzxtLuTMonXDUaww-1EL5xsSnDvzTGWbMaPpaZI",
+        "latitude": 48.177223,
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Hietzing"
+            ],
+            "display_name": "Hietzing, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.272186,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Humanocare"
+        },
+        "description": "Ihr neuer Job Vorbereitung von Unterlagen für Pflegekräfte aus Drittstaaten (Kolumbien, Ecuador, Philippinen, Indonesien, Indien) für die Einreichung bei Behören zur Einreise nach Österreich Durchführung von Workshops und Interviews Organisation von Deutsch- und Integrationskursen in Österreich Abholung unserer Kandidat:innen vom Flughafen sowie Begleitung bei Behördenwegen Rechercheaufgaben Das bieten wir Ihnen Spannende und vielseitige Tätigkeiten in einer proaktiven und offenen Unternehmensk…"
+    },
+    {
+        "description": "Du begleitest die digitale Transformation unserer Kunden im Mobilitätsumfeld und trägst dabei zur Beschleunigung der digitalen Mobilitätswende bei. Du leitest herausfordernder Projekte und Teilprojekte bei renommierten Kunden im öffentlichen und privaten Sektor, bei denen Du innovative Mobilitätsstrategien von der Idee bis zur Implementierung entwickelst und umsetzt. Hierbei entwickelst Du auch die Themenbereiche Customer Experience, Kundenmanagement und digitale Geschäftsmodelle in der Mobilit…",
+        "company": {
+            "display_name": "Wavestone Germany AG",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 61000,
+        "latitude": 48.208144,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        },
+        "title": "(Senior) Consultant Mobility (all genders) - Österreich",
+        "longitude": 16.354031,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI0OTMxMzU3NTQ2In0.1BKIYpmh1OMfqgzfxt-euWRqeITaVSsuOhf_zIw5UVM",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wien, Österreich",
+            "area": [
+                "Österreich",
+                "Wien"
+            ]
+        },
+        "salary_max": 61000,
+        "salary_is_predicted": "0",
+        "created": "2024-11-08T13:27:38Z",
+        "id": "4931357546",
+        "redirect_url": "https://www.adzuna.at/details/4931357546?utm_medium=api&utm_source=3e69dd49",
+        "contract_time": "part_time"
+    },
+    {
+        "description": "Deine Aufgaben Deine Aufgaben als SAP S/4HANA Projektleiter:in Technische Gesamtkoordination für Aufbau, Transition, Betrieb und Weiterentwicklung von Anwendungs- und Infrastruktur-Plattformen Beteiligung an Akquise-Tätigkeiten sowie Themenvermarktung, zum Beispiel bei Erstellung von Leistungsverzeichnissen, Konzepten und Entscheidungsvorlagen Planung, Überwachung und Dokumentation von Projektaktivitäten Steuerung und Überwachung externer IT-Dienstleister Enge Abstimmung und Zusammenarbeit mit …",
+        "company": {
+            "display_name": "Gambit Consulting",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 85000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 48.193045,
+        "title": "SAP S/4HANA Projektleiter (m/w/d)",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        },
+        "longitude": 16.369061,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1NzI3MzgxNjQ5In0.sfzCMfUrzyP_ubd7pnT5AaPt5eip_DKjkFqNxrq3K2Q",
+        "salary_is_predicted": "0",
+        "salary_max": 85000,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wieden, Wien",
+            "area": [
+                "Österreich",
+                "Wien",
+                "Wieden"
+            ]
+        },
+        "id": "5727381649",
+        "created": "2026-05-13T00:13:54Z",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.at/details/5727381649?utm_medium=api&utm_source=3e69dd49"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 16.399872,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "die Berater"
+        },
+        "description": "Seit über 25 Jahren unterstützen wir Menschen auf ihrem Bildungsweg und begleiten Unternehmen dabei, ihre Mitarbeitenden weiterzuentwickeln. Neben einem breiten Spektrum an Weiterbildungsmöglichkeiten, maßgeschneiderten Trainingsprogrammen und Beratungsdienstleistungen basiert unser Unternehmenserfolg auf der Expertise und Leidenschaft unserer Mitarbeitenden, die kontinuierlich daran arbeiten, innovative und praxisnahe Bildungslösungen zu entwickeln. Zur Erweiterung unseres kompetenten Teams in…",
+        "id": "5861122277",
+        "created": "2026-08-29T15:57:43Z",
+        "title": "Projektmitarbeiter:in Schwerpunkt Konzeptentwicklung",
+        "redirect_url": "https://www.adzuna.at/details/5861122277?utm_medium=api&utm_source=3e69dd49",
+        "category": {
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib0cwYVVycXE4UkdzQU9XVlI2SGF6USIsImkiOiI1ODYxMTIyMjc3In0.drCl9Hubb0CMZ3VsYO9Fr8TPMILU1u9xoDWsWFVS7XM",
+        "latitude": 48.213836,
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "Österreich",
+                "Wien",
+                "Leopoldstadt"
+            ],
+            "display_name": "Leopoldstadt, Wien",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        }
+    }
+]
