@@ -8,7 +8,7 @@ import re
 
 def summarize_data(data):
     try:
-        with open(data, "r", encoding="utf-8") as f:
+        with open(f"{Path(__file__).parent}/data", "r", encoding="utf-8") as f:
             words = []
             content = json.loads(f.read())
             for i in content:

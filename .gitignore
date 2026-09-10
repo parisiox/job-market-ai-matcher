@@ -6,6 +6,23 @@ data_first.json
 
 # scratch notebook
 test.ipynb
+test_pipeline.ipynb
+
+# more evals
+eval_v5.json
+eval_v6.json
+eval_v7.json
+eval_v8.json
+
+# my CV and results
+Fabio_Parisini_Lebenslauf.pdf
+cv_match_result.json
+
+# pipeline copy
+prompt_evaluation_pipeline copy.py
+
+# first prompt list
+prompts.md
 
 # Python
 __pycache__/

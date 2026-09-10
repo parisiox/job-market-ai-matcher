@@ -39,7 +39,7 @@ def fetch_data(country, page_num, app_id, app_key, what=None, what_or=None, wher
                 continue
             content = response.json()["results"]
             applications_list.extend(content)
-            with open(f"{Path(__file__).parent}/data1.json", "w", encoding="utf-8") as f:
+            with open(f"{Path(__file__).parent}/data.json", "w", encoding="utf-8") as f:
                 json.dump(applications_list, f, indent=4, ensure_ascii=False)
         
         except requests.exceptions.ConnectionError:

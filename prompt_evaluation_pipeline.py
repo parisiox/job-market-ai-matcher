@@ -71,15 +71,15 @@ def generate_test_CVs():
         json.dump(final_output, f, indent=4, ensure_ascii=False)
     return final_output
 
-prompt_version = "v4"
+prompt_version = "v9"
 
-def run_prompt(test_CV, posting_dataset_clean):        
+def run_prompt(test_CV, postings_dataset_clean):        
     prompt = f"""
     Your are an expert headhunter with experience in the IT and IT related Jobmarket.
-
+    
     Job postings:
     <postings>
-    {posting_dataset_clean}
+    {postings_dataset_clean}
     </postings>
 
     CV to match:
@@ -89,17 +89,21 @@ def run_prompt(test_CV, posting_dataset_clean):
 
     Your should do the following steps as described in order:
     <steps>
-    1. Scan all job postings as provided above as well as the CV provided in detail.
-    2. Match each job posting to the whole CV and evaluate wheather it would be a good fit or not.
-    3. Filter out up to 5 of the best fitting descriptions to the CV, depending on how many very good matches you find.
-    4. Do one more pass and check if you missed any good matches and if the matches you picked out would still be the same even after a second pass.
-    5. Output your list in the format described below including all fields mentioned.
-    </stesp>
+    1. Scan all job postings as provided above as well as the CV provided in detail. 
+    2. Cross reference with the seniority_schema and in a first pass exclude any postings that do not match the provided CV in seniority at all and finish the remaining instructions with the rest of the postings.
+    3. For each job posting generate a short list of key_requirements based on what is described in the postings description. Also generate a "seniority" field for each posting which describes the level of seniority and experience that is asked by the posting, the only possible options that are allowed for this field are entry/junior/mid/senior. Should no specific level of seniority or job experience be described at least mid should be the level of seniority for the posting.
+    4. Exclude any and all postings that do not EXACTLY match the seniority requirements for the CV as outlined in the seniority_schema.
+    5. Compare the key_requirements list for each posting with the skills and experience described in the CV.
+    6. Based on the two steps above create a JSON array "reasoning" with the "key_requirements", detailing the key requirements you decided on for that specific posting, "cv_evidence" which details the contents of the CV that support that the CV fits the job posting, "seniority" as described in step 3, and "verdict", which contains a verdict on wheather or not this job posting fits the CV based on the previouse two values.
+    7. Output your final list with the key value pairs: "rank": starting form 1 - the last match you included in descending order based on how good of a match each posting is. "title": The title of the job posting. "link": the redirect_url of the job posting. And finally "reasoning": The second JSON array as described in step 5.
+    </steps>
 
-    Output Format:
-    <output_format>
-    You should return valid JSON array of up to 5 objects. Each object should cover one posting with the key value pairs: "rank": "1-5 depending if it is the most - least matching of the possible top 5", "title": "the title of the job posting", "link": "the link to the job posting", "reasoning": "your explenation why this posting has this ranking on the list".
-    </output_format>
+    Seniority Schema for CV:
+    <seniority_schema>
+    If the CV DOES NOT show any relavant job experience yet or very little of it, ONLY recommend positions that are of the entry or junior seniority and NO OTHERS.
+    If the CV shows A FEW years of experience, you should recommend MOSTLY mid positions as well as senior positions but ONLY if the specific job experience needed for that positions match very well with what is offered in the CV.
+    If the CV shows MANY years of experience, you should recommend senior positions only that fit the provided CV the most.    
+    </seniority_schema>
 
     Example_output:
     <example_output>
@@ -107,17 +111,16 @@ def run_prompt(test_CV, posting_dataset_clean):
         "rank": number,
         "title": string,
         "link": string,
-        "reasoning": string
+        "reasoning": JSON array from step 4
     }}
     </example_output>
 
     IMPORTANT further instructions to keep in mind throughout the whole operation:
     <further_instructions>
-    Make sure that each and every part of the CV is considered for the jobs you select and that this level of detail is kept up for all ranks not just for 1.
-    Be very thorough when going through the job postings as to make sure not to miss any good matches.
-    Make sure the seniority of a job posting also fits the CV not just the skills or qualifications.
     Do not just trust the title of a job posting regarding fit with a CV. Take it as an indication for a possible fit but always dig deeper in the description as well to confirm.
     After completion check the output again and revalidate to make sure there are not duplicate objects or any malformed JSON.
+    The output list does not have to have a certain length if there are only 2 or 3 good or better matches then thats acceptable. The output should be quality over quantity.
+    Any matches that are not at least good exclude from the final list
     Return only valid JSON and no extra headers or explenations, except in the reasoning field described above.
     </further_instructions>
     """
@@ -126,9 +129,11 @@ def run_prompt(test_CV, posting_dataset_clean):
     add_user_message(messages, prompt)
     add_assistant_message(messages, "```json")
     output = chat(messages, model="claude-sonnet-4-5-20250929", stop_sequences=["```"]).content[0].text
+    with  open(f"{Path(__file__).parent}/prompt.json", "a", encoding="utf-8") as f:
+        f.write(json.dumps({"prompt_version": prompt_version, "prompt": prompt}, ensure_ascii=False) + "\n")
     return json.loads(output), prompt
 
-def model_grader(test_CV, posting_dataset_clean, output, prompt):
+def model_grader(test_CV, postings_dataset_clean, output, prompt):
     eval_prompt = f"""
     Your are an expert recruiter and have a lot of experience with IT and IT related recruiting. Your task is to evaluate an AI generated solution.
     Original Task:
@@ -139,7 +144,7 @@ def model_grader(test_CV, posting_dataset_clean, output, prompt):
     Original Datasets:
     <datasets>
     {test_CV}
-    {posting_dataset_clean}
+    {postings_dataset_clean}
     </datasets>
 
     Solution to evaluate:
@@ -186,62 +191,6 @@ def model_grader(test_CV, posting_dataset_clean, output, prompt):
     return json.loads(eval_output)
 
 
-def model_re_grader(result, postings_dataset_clean):
-    re_grader_prompt = f"""
-    Your are an expert headhunter with experience in the IT and IT related job market.
-    You will evaluate an AI generated output together with the results of a grader and generate a new output based on your evaluation.
-
-    AI generated results and grading:
-    <ai_grading>
-    {result}
-    </ai_grading>
-
-    Job postings:
-    <job_postings>
-    {postings_dataset_clean}
-    </job_postings>
-
-    Step by step instructions:
-    <instructions>
-    1. Go through the graders reasoning and the problems that are highlighted.
-    2. Check if the problems highlighted are valid by evaluating both the top job matching results as well as all other job postings for other possible matches.
-    3. Based on your reasoning correct any mistakes that were made in the original AI generated output.
-    4. Should you find it necessary add some postings to the top list ONLY if genuinely strong matches are not included yet but make sure there are no more than 5.
-    5. Return an array of JSON objects in the format detailed below
-    </instructions>
-
-    Output Format:
-    <output_format>
-    You should return valid JSON array of up to 5 objects. Each object should cover one posting with the key value pairs: "rank": "1-5 depending if it is the most - least matching of the possible top 5", "title": "the title of the job posting", "link": "the link to the job posting", "reasoning": "your explenation why this posting has this ranking on the list".
-    </output_format>
-
-    Example_output:
-    <example_output>
-    {{
-        "rank": number,
-        "title": string,
-        "link": string,
-        "reasoning": string
-    }}
-    </example_output>
-
-    IMPORTANT further instructions to keep in mind throughout the whole operation:
-    <further_instructions>
-    Be very thorough when going through the job postings as to make sure not to miss any good matches.
-    Make sure the seniority of a job posting also fits the CV not just the skills or qualifications.
-    Do not just trust the title of a job posting regarding fit with a CV. Take it as an indication for a possible fit but always dig deeper in the description as well to confirm.
-    After completion check the output again and revalidate to make sure there are not duplicate objects or any malformed JSON.
-    Return only valid JSON and no extra headers or explenations, except in the reasoning field described above.
-    </further_instructions>
-    """
-
-    messages = []
-    add_user_message(messages, re_grader_prompt)
-    add_assistant_message(messages, "```json")
-    output_re_grader = chat(messages, model="claude-sonnet-4-5-20250929", stop_sequences=["```"]).content[0].text
-    return json.loads(output_re_grader)
-
-
 def run_test_case(test_CV, postings_dataset_clean):
     output, prompt = run_prompt(test_CV, postings_dataset_clean)
 
@@ -249,48 +198,47 @@ def run_test_case(test_CV, postings_dataset_clean):
     score = model_grade["score"]
     reasoning = model_grade["reasoning"]
 
-    result = {
+    return {
         "output": output,
         "test_CV": test_CV,
         "prompt_version": prompt_version,
         "score": score,
         "reasoning": reasoning
     }
-    output_re_grader = model_re_grader(result, postings_dataset_clean)
-    final_grade = model_grader(test_CV, postings_dataset_clean, output_re_grader, prompt)
-    score_final = final_grade["score"]
-    reasoning_final = final_grade["reasoning"]
-
-    return {
-        "output": output_re_grader,
-        "test_CV": test_CV,
-        "prompt_version": prompt_version,
-        "score": score_final,
-        "reasoning": reasoning_final
-    }
+    
 
 def run_eval():
-    with open(f"test_CVs.json", "r", encoding="utf-8") as f:
+    with open(f"{Path(__file__).parent}/test_CVs.json", "r", encoding="utf-8") as f:
         cvs_dataset = json.load(f)
-    with open(f"data.json", "r", encoding="utf-8") as f:
+    with open(f"{Path(__file__).parent}/data.json", "r", encoding="utf-8") as f:
         postings_dataset = json.load(f)
     postings_dataset_clean = []
     for posting in postings_dataset:
         postings_dataset_clean.append({"title": posting["title"], "description": posting["description"], "link": posting["redirect_url"]})
 
     results = []
-
     for test_CV in cvs_dataset:
-        result = run_test_case(test_CV["text"], postings_dataset_clean)
-        results.append(result)
+        try:
+            result = run_test_case(test_CV["text"], postings_dataset_clean)
+            results.append(result)
+        except json.decoder.JSONDecodeError:
+            print("Returned Invalid JSON")
+            results.append({"JSONDecodeError": "Returned Invalid JSON"})
 
-    average_score = mean([result["score"] for result in results])
+    scores = []
+    for result in results:
+        try:
+            scores.append(result["score"])
+        except KeyError:
+            pass
+    average_score = mean(scores)
     results.append({"average_score": average_score})
     
     with open(f"{Path(__file__).parent}/eval_{prompt_version}.json", "w", encoding="utf-8") as f:
         json.dump(results, f, indent=4, ensure_ascii=False)
     
     return results
+    
 
 if __name__ == "__main__":
     run_eval()
