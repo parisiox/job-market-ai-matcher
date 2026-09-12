@@ -4,45 +4,40 @@ import json
 from spacy.lang.en.stop_words import STOP_WORDS as en_stopwords
 from spacy.lang.de.stop_words import STOP_WORDS as de_stopwords
 import re
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 def summarize_data(data):
     try:
-        with open(f"{Path(__file__).parent}/data", "r", encoding="utf-8") as f:
-            words = []
-            content = json.loads(f.read())
-            for i in content:
+        with open(f"{Path(__file__).parent}/{data}", "r", encoding="utf-8") as f:
+            postings = json.loads(f.read())
+            descriptions = []
+
+            for posting in postings:
                 try:
-                    if i["description"] != None:
-                        words.append(i["description"])
+                    if posting["description"] != None:
+                        descriptions.append(posting["description"].lower())
                 except KeyError:
                     pass
     except json.decoder.JSONDecodeError:
         print("file contains invalid JSON")
         return
 
-    words_seperated = []
-    for i in words:
-        words_seperated.extend(re.findall(r"\w{2,}(?:[:-]\w+)?", i.lower()))
-
-    words_seperated_de = [i for i in words_seperated if i not in de_stopwords]
-    words_seperated_both = [i for i in words_seperated_de if i not in en_stopwords]
-    words_no_numbers = []
-    for i in words_seperated_both:
-        if i.isdigit() == True:
-            continue
-        else:
-            words_no_numbers.append(i)
-
-    key_words = {}
-    for word in words_no_numbers:
-        key_words[word] = key_words.get(word, 0) + 1
-    key_words_ordered = sorted(key_words.items(), key=lambda item: item[1], reverse=True)
+    vectorizer = TfidfVectorizer(stop_words=list(en_stopwords | de_stopwords), token_pattern=r"\w{2,}(?:[:-]\w+)?", min_df=3)
+    matrix = vectorizer.fit_transform(descriptions)
+    terms = vectorizer.get_feature_names_out()
+    non_zero_count = matrix.count_nonzero(axis=0)
+    word_score_sum = matrix.sum(axis=0)
+    average_score_by_posting = word_score_sum / non_zero_count
+    average_score_by_posting = average_score_by_posting.A1
+    key_words = zip(list(terms), average_score_by_posting)
+    key_words_filtered = [(word, float(score)) for word, score in list(key_words) if not word.isdigit()]
+    key_words_ordered = sorted(key_words_filtered, key=lambda item: item[1], reverse=True)
 
 
-    seniority = ["senior", "junior", "lead", "head", "praktikant", "praktikantin", "werkstudent", "werkstudentin", "trainee", "intern", "entry", "associate", "principal", "director", "praktikum", "owner", "berater"]
+    seniority = ["senior", "junior", "lead", "head", "praktikant", "praktikantin", "werkstudent", "werkstudentin", "trainee", "intern", "entry", "principal", "director", "praktikum", "owner"]
     seniority_count = {}
-    for i in content:
+    for i in postings:
         try:
             title_tokens = set(re.findall(r"\w+", i["title"].lower()))
             desc_tokens = set(re.findall(r"\w+", i["description"].lower()))
@@ -57,7 +52,7 @@ def summarize_data(data):
 
     lst_salary_max = []
     lst_salary_min = []
-    for i in content:
+    for i in postings:
         try:
             lst_salary_max.append(i["salary_max"])
         except KeyError:
@@ -78,8 +73,8 @@ def summarize_data(data):
 
 
     final_summary = {
-        "description": "This summary is based on a number of job postings and captures the main key words used in said postings, the seniority the postings are primarily aiming towards, as well as the minimum and maximum mean salary for all postings where said numbers were provided.",
-        "number_of_postings": len(content),
+        "description": "This summary is based on a number of job postings and captures the main key words used in said postings (ranked by TF-IDF score, indicating terms that are notably concentrated in a subset of postings rather than common across all of them), the seniority the postings are primarily aiming towards, as well as the minimum and maximum mean salary for all postings where said numbers were provided.",
+        "number_of_postings": len(postings),
         "key_words": dict(key_words_ordered[:60]),
         "seniority_count": dict(seniority_count_ordered),
         "salary_min_mean": salary_min_mean,
@@ -89,4 +84,4 @@ def summarize_data(data):
         json.dump(final_summary, f, indent=4, ensure_ascii=False)
 
 
-summarize_data(f"{Path(__file__).parent}/data.json")
+summarize_data("data.json")

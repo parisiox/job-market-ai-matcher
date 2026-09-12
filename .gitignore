@@ -24,6 +24,10 @@ prompt_evaluation_pipeline copy.py
 # first prompt list
 prompts.md
 
+# dfidf tests
+data_tfidf.json
+summary_test.json
+
 # Python
 __pycache__/
 *.pyc
