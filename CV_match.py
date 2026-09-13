@@ -102,6 +102,19 @@ def cv_match(CV):
     add_assistant_message(messages, "```json")
     try:
         output = json.loads(chat(messages, stop_sequences=["```"]).content[0].text)
+        postings_matching = {}
+        for posting in postings_dataset_clean:
+            postings_matching[posting["link"]] = posting["title"]
+        link_counts = {}
+        for i in output:
+            link_counts[i["link"]] = link_counts.get(i["link"], 0) + 1
+            if i["link"] in postings_matching.keys() and i["title"] == postings_matching[i["link"]]:
+                continue
+            else:
+                return print(f"Posting at position {i["rank"]} has a title and link that do not match.")
+        for link, count in link_counts.items():
+            if count > 1:
+                return print(f"Duplicate link found: {link}, validation failed before reaching the model grader.")
         with open(f"{Path(__file__).parent}/cv_match_result.json", "w", encoding="utf-8") as f:
             json.dump(output, f, ensure_ascii=False, indent=2)
     except json.decoder.JSONDecodeError:

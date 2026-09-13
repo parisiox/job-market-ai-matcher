@@ -46,7 +46,6 @@ A large chunk of later iterations focused on getting the prompt to reliably reje
 
 **What's still missing / left to do:**
 - **Move seniority filtering into deterministic code** — see "Where the prompt stands" above. Tag each posting's required seniority via keyword matching, compare it against the CV's own experience level, and filter the postings dataset before it reaches the matching prompt, instead of relying on the LLM to self-enforce the rule.
-- **A code-based/deterministic grader** alongside the LLM-based one — e.g. verifying returned `title`/`link` pairs actually correspond to a real entry in the fetched dataset, and checking for duplicate links.
 
 ## Setup
 

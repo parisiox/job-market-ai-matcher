@@ -194,6 +194,20 @@ def model_grader(test_CV, postings_dataset_clean, output, prompt):
 def run_test_case(test_CV, postings_dataset_clean):
     output, prompt = run_prompt(test_CV, postings_dataset_clean)
 
+    postings_matching = {}
+    for posting in postings_dataset_clean:
+        postings_matching[posting["link"]] = posting["title"]
+    link_counts = {}
+    for i in output:
+        link_counts[i["link"]] = link_counts.get(i["link"], 0) + 1
+        if i["link"] in postings_matching.keys() and i["title"] == postings_matching[i["link"]]:
+            continue
+        else:
+            return f"Posting at position {i["rank"]} has a title and link that do not match, validation faild before reaching the model grader."
+    for link, count in link_counts.items():
+        if count > 1:
+            return f"Duplicate link found: {link}, validation failed before reaching the model grader."
+
     model_grade = model_grader(test_CV, postings_dataset_clean, output, prompt)
     score = model_grade["score"]
     reasoning = model_grade["reasoning"]
@@ -220,6 +234,8 @@ def run_eval():
     for test_CV in cvs_dataset:
         try:
             result = run_test_case(test_CV["text"], postings_dataset_clean)
+            if type(result) == str:
+                return print(result)
             results.append(result)
         except json.decoder.JSONDecodeError:
             print("Returned Invalid JSON")
