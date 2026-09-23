@@ -1,0 +1,457 @@
+[
+    {
+        "output": [
+            {
+                "rank": 1,
+                "title": "Student IT Infrastructure (m/w/d)",
+                "link": "https://www.adzuna.at/details/5784543016?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": {
+                    "key_requirements": [
+                        "Student status (20h/week)",
+                        "Interest in IT infrastructure and hosting",
+                        "Support with migration projects",
+                        "Technical understanding",
+                        "Ability to work in a team"
+                    ],
+                    "cv_evidence": [
+                        "Currently enrolled in Computer Science at TU Wien, expected graduation June 2025",
+                        "Technical skills including programming (Python, JavaScript, Java), databases (SQL), and tools (Git, VS Code)",
+                        "Experience with database management through Student Enrollment Management System project (SQLite, CRUD operations)",
+                        "Demonstrated teamwork through retail role (trained new team members) and international collaboration (Erasmus group programming assignments)",
+                        "Active member of TU Wien Computer Science Student Association shows engagement in IT community"
+                    ],
+                    "verdict": "Excellent fit for student IT infrastructure role. Lisa is currently a Computer Science student with the right academic background and remaining study timeline. Her hands-on project work with databases and web applications demonstrates practical technical understanding relevant to infrastructure work. The 20h/week format aligns perfectly with her student status. Her experience training others and collaborating internationally shows team capability. While she may not have direct infrastructure/hosting experience, the entry-level student position is designed for learning, and her foundational IT skills provide a strong base.",
+                    "match_quality": "excellent"
+                }
+            }
+        ],
+        "test_CV": "# CURRICULUM VITAE\n\n**LISA MAHLER**\nVienna, Austria | +43 660 123 4567 | lisa.mahler@email.com | linkedin.com/in/lisamahler\n\n---\n\n## EDUCATION\n\n**Bachelor of Science in Computer Science** (in progress)\nVienna University of Technology (TU Wien) | Expected Graduation: June 2025\nRelevant Coursework: Introduction to Web Development, Data Structures, Object-Oriented Programming, Database Design Fundamentals\n\n**Matura (Secondary Education)**\nGymnasium Stubenbastei, Vienna | 2021\n\n---\n\n## WORK EXPERIENCE\n\n**Retail Associate**\nLibro Bookstore, Vienna | March 2022 – September 2023\n- Provided customer service and product recommendations\n- Managed point-of-sale transactions and stock inventory\n- Trained new team members on store procedures\n\n---\n\n## UNIVERSITY PROJECTS\n\n**Student Enrollment Management System**\nWeb Development Course Project | Spring 2024\n- Developed a basic CRUD web application using HTML, CSS, and JavaScript\n- Implemented a simple SQLite database for storing student records\n- Created a user interface allowing administrators to add, update, and delete student information\n\n**Temperature Conversion Calculator**\nProgramming Fundamentals Assignment | Autumn 2023\n- Built a command-line application in Python\n- Applied conditional logic and functions to convert between Celsius and Fahrenheit\n\n---\n\n## TECHNICAL SKILLS\n\n- **Programming Languages:** Python, JavaScript, Java\n- **Web Technologies:** HTML5, CSS3, basic DOM manipulation\n- **Databases:** SQL (SQLite, basic queries)\n- **Tools & Platforms:** Git, Visual Studio Code, Figma (basics)\n- **Languages:** German (native), English (fluent), Spanish (elementary)\n\n---\n\n## INTERNATIONAL EXPERIENCE\n\n**Exchange Semester**\nErasmus+ Programme | Universitat Autònoma de Barcelona, Spain | Spring 2024\n- Completed coursework in Software Engineering and Web Fundamentals\n- Collaborated with international student cohort on group programming assignments\n\n---\n\n## ADDITIONAL INFORMATION\n\n- Active member of TU Wien Computer Science Student Association\n- Self-taught in responsive web design through online tutorials\n- Volunteer tutor in mathematics for secondary school students (2022–present)",
+        "prompt_version": "v12",
+        "score": 8,
+        "reasoning": "The solution demonstrates strong analytical rigor by correctly identifying the Student IT Infrastructure role as an excellent match - it aligns perfectly with Lisa's student status, Computer Science studies, technical skills, and the part-time format. The detailed reasoning appropriately maps her database projects, programming skills, and collaborative experience to the job requirements. However, upon reviewing the full dataset, the 'Assistent:in für Head of IT & Purchasing' (ID: 5889323831) warrants reconsideration. While it's an assistant role rather than a technical one, it operates within an IT department context at ORF-Enterprise, requires 20 hours/week (matching student availability), and could leverage Lisa's organizational abilities from retail, her IT knowledge, and communication skills. This could potentially qualify as a 'good' match rather than being dismissed entirely. The solution's strict interpretation of 'direct technical work' may have been overly conservative for an entry-level assistant position that explicitly supports IT leadership. All other postings (McDonald's management, carpentry, bar work, car sales, etc.) were correctly excluded as non-matches. The final output is well-structured and follows instructions precisely."
+    },
+    {
+        "output": [
+            {
+                "rank": 1,
+                "title": "Student IT Infrastructure (m/w/d)",
+                "link": "https://www.adzuna.at/details/5784543016?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": {
+                    "key_requirements": [
+                        "Student status (20h/week)",
+                        "IT infrastructure knowledge",
+                        "Support for migration projects",
+                        "Interest in hosting/web technology",
+                        "Team collaboration"
+                    ],
+                    "cv_evidence": [
+                        "Currently enrolled in Business Informatics Bachelor program (graduating July 2025)",
+                        "Technical skills: programming (C++, Python, SQL), databases (MySQL), understanding of client-server architecture",
+                        "Project work in systems analysis and information systems",
+                        "Strong communication and analytical thinking skills",
+                        "Experience working in team environments (BIPA, university projects)"
+                    ],
+                    "verdict": "Excellent fit. Thomas is an active student in a directly relevant program (Business Informatics) with technical skills matching IT infrastructure work. His coursework in Information Systems, understanding of databases, client-server architecture, and systems analysis directly support infrastructure and migration projects. The 20h/week student position aligns perfectly with his current student status and expected graduation timeline. His hands-on experience with databases, SQL, and web fundamentals provides the technical foundation needed for this role.",
+                    "match_quality": "excellent"
+                }
+            },
+            {
+                "rank": 2,
+                "title": "Assistent:in (m/w/d) für Head of IT & Purchasing - 20 Std./Woche",
+                "link": "https://www.adzuna.at/land/ad/5889323831?se=gH8SsW-28RGngO5vYt-GKw&utm_medium=api&utm_source=3e69dd49&v=A0C7958236EE26692A1D45DB5ACB9E3655E2BAC8",
+                "reasoning": {
+                    "key_requirements": [
+                        "Assistant role supporting Head of IT & Purchasing",
+                        "20 hours per week (part-time suitable for students)",
+                        "IT-related administrative support",
+                        "Organizational skills",
+                        "Communication with IT department stakeholders"
+                    ],
+                    "cv_evidence": [
+                        "Business Informatics student with IT and business process knowledge",
+                        "Strong organizational and communication skills demonstrated at BIPA and in project work",
+                        "Experience with Microsoft Office suite (Excel with pivot tables, PowerPoint)",
+                        "Understanding of IT systems and business processes from coursework",
+                        "Report writing and structured documentation skills from university projects",
+                        "Part-time availability as current student"
+                    ],
+                    "verdict": "Good fit. Thomas combines IT knowledge from his Business Informatics studies with proven organizational and administrative capabilities. His experience in retail operations at BIPA demonstrates customer service and coordination skills, while his technical understanding from university coursework (systems analysis, enterprise software, information systems strategy) enables him to effectively support IT leadership. The 20-hour part-time structure suits his student status, and his business process management knowledge is valuable for the purchasing coordination aspect. While not a pure technical role, his blend of IT understanding and organizational skills matches the assistant position requirements well.",
+                    "match_quality": "good"
+                }
+            }
+        ],
+        "test_CV": "# CURRICULUM VITAE\n\n**THOMAS KLEIN**\nGraz, Austria | +43 664 987 5432 | thomas.klein@email.com | linkedin.com/in/thomasklein\n\n---\n\n## EDUCATION\n\n**Bachelor of Science in Business Informatics** (in progress)\nKarl-Franzens University Graz | Expected Graduation: July 2025\nRelevant Coursework: Business Process Management, Systems Analysis, Introduction to Enterprise Software, Information Systems Strategy\n\n**Matura (Secondary Education)**\nBG/BRG Sachsenbrunn, Graz | 2021\n\n---\n\n## WORK EXPERIENCE\n\n**Cashier and Stock Associate**\nBIPA Pharmacy, Graz | June 2022 – August 2023\n- Assisted customers with product inquiries and processed transactions\n- Organized inventory and maintained store displays\n- Communicated with management on stock requirements\n\n---\n\n## UNIVERSITY PROJECTS\n\n**Business Process Optimization Case Study**\nSystems Analysis Course Project | Winter 2024\n- Analyzed a retail company's existing processes using flowcharts and documentation\n- Proposed improvements to workflow efficiency using basic process modeling techniques\n- Presented findings in a structured business report format\n\n**Customer Feedback Survey Application**\nInformation Systems Practical Assignment | Summer 2023\n- Created a simple web form in HTML and CSS for data collection\n- Stored survey responses in a MySQL database\n- Demonstrated basic data retrieval using SQL queries\n\n---\n\n## TECHNICAL SKILLS\n\n- **Programming Languages:** C++, Python, SQL\n- **Business Tools:** Microsoft Excel (pivot tables, basic VBA), Microsoft PowerPoint\n- **Web Basics:** HTML, CSS, fundamental understanding of client-server architecture\n- **Databases:** MySQL, data modeling concepts\n- **Soft Skills:** Written and verbal communication, analytical thinking, report writing\n- **Languages:** German (native), English (proficient), French (basic)\n\n---\n\n## ADDITIONAL INFORMATION\n\n- Active participant in university business case competitions\n- Self-study of business process management frameworks through online resources\n- Volunteer mentor for high school students in mathematics (2023–present)\n- Strong interest in how technology supports business decision-making",
+        "prompt_version": "v12",
+        "score": 7,
+        "reasoning": "The solution demonstrates strong judgment in identifying the Student IT Infrastructure role as the top match and correctly filtering out obviously irrelevant postings. However, the inclusion of the ORF Assistant position at Rank 2 is problematic because the job description is truncated and the reasoning makes assumptions about IT support responsibilities that cannot be verified. The position might be primarily administrative/purchasing-focused rather than IT-related. Additionally, the Working Student Risk Management role deserved closer consideration: while not a technical IT position, it targets students, requires analytical thinking and data evaluation (areas where Thomas has demonstrable skills), and aligns with his business informatics background and stated interest in 'how technology supports business decision-making.' The solution's strict IT focus may have been too narrow for a Business Informatics candidate whose degree bridges business and technology. Overall, the solution is competent but shows some interpretive overreach on limited data (ORF) and potential missed opportunity (Risk Management)."
+    },
+    {
+        "output": [
+            {
+                "rank": 1,
+                "title": "Backend Developer:in mit Berufserfahrung",
+                "link": "https://www.adzuna.at/land/ad/5887734933?se=gH8SsW-28RGngO5vYt-GKw&utm_medium=api&utm_source=3e69dd49&v=41895AB57ABF28BBB1DDA977910F493A3AD8B921",
+                "reasoning": {
+                    "key_requirements": [
+                        "Backend development experience",
+                        "Professional software development experience",
+                        "Programming skills in backend technologies",
+                        "Working in a team environment"
+                    ],
+                    "cv_evidence": [
+                        "Currently employed as Junior Software Developer at TechSolutions GmbH for 1 year 10 months",
+                        "Maintains and updates Java codebase, which is a core backend technology",
+                        "Participated in code reviews and worked with senior developers in team setting",
+                        "Contributed to legacy CRM system maintenance and feature enhancements",
+                        "University projects include backend development (Library Management System with PostgreSQL database)",
+                        "Strong foundation in Java (Oracle Certified Associate Java Programmer)",
+                        "Experience with databases (PostgreSQL, MySQL) essential for backend work"
+                    ],
+                    "verdict": "Markus has direct, hands-on backend development experience through his current role working with Java codebases and his academic background in software engineering. His professional experience maintaining a CRM system, working with databases, and collaborating in a development team aligns well with backend developer requirements. The posting is listed as 'junior' seniority, matching his experience level perfectly. His Java certification and proven track record in a professional backend development role for nearly 2 years make this a strong match.",
+                    "match_quality": "excellent"
+                }
+            },
+            {
+                "rank": 2,
+                "title": "Student IT Infrastructure (m/w/d)",
+                "link": "https://www.adzuna.at/details/5784543016?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": {
+                    "key_requirements": [
+                        "IT infrastructure knowledge",
+                        "Support for migration projects",
+                        "Technical understanding",
+                        "Part-time availability (20h/week)",
+                        "Student status or similar entry-level profile"
+                    ],
+                    "cv_evidence": [
+                        "Bachelor's degree in Software Engineering completed in 2022",
+                        "Professional IT experience as Junior Software Developer",
+                        "Experience with deployment of software updates indicates infrastructure awareness",
+                        "Linux command-line navigation and Windows OS experience",
+                        "Git and version control systems knowledge applicable to infrastructure work",
+                        "JIRA experience shows familiarity with IT project environments",
+                        "Technical problem-solving demonstrated through bug fixes and system maintenance"
+                    ],
+                    "verdict": "While Markus is no longer a student, the posting seeks entry-level IT talent and he has relevant technical foundations. His software engineering background provides the technical understanding needed for IT infrastructure work. Experience with deployment, version control, and working with different operating systems translates to infrastructure support capabilities. The migration project support requirement can leverage his experience with system updates and technical problem-solving. His current full-time position may conflict with the 20h/week requirement, but the technical fit is solid for an entry-level infrastructure role.",
+                    "match_quality": "good"
+                }
+            }
+        ],
+        "test_CV": "# CURRICULUM VITAE\n\n**MARKUS WEBER**\nLinz, Austria | +43 650 456 7891 | markus.weber@email.com | linkedin.com/in/markusweber\n\n---\n\n## EDUCATION\n\n**Bachelor of Science in Software Engineering**\nJohannes Kepler University Linz | Completed 2022\nGPA: 3.1/4.0\n\n**Matura (Secondary Education)**\nBundesgymnasium Linz | 2018\n\n---\n\n## PROFESSIONAL EXPERIENCE\n\n**Junior Software Developer**\nTechSolutions GmbH, Linz | February 2023 – Present (1 year 10 months)\n- Contributed to bug fixes and minor feature enhancements in a legacy customer relationship management system\n- Maintained and updated existing Java codebase according to team specifications\n- Participated in code reviews and resolved feedback from senior developers\n- Supported testing and deployment of monthly software updates\n\n**Freelance Web Developer** (part-time)\nSelf-employed | September 2021 – January 2023\n- Built simple websites for small local businesses using HTML, CSS, and JavaScript\n- Assisted clients with basic website maintenance and content updates\n- Managed project timelines and client communications independently\n\n---\n\n## PROJECTS\n\n**Expense Tracker Application**\nPersonal Hobby Project | 2022\n- Developed a command-line expense tracking tool in Python\n- Implemented file-based data storage for recording and categorizing daily expenses\n- Added basic reporting functionality to summarize spending by category\n\n**University Library Management System**\nSoftware Engineering Course Project | 2021\n- Co-developed a desktop application using Java for managing library inventory\n- Designed and implemented a relational database schema using PostgreSQL\n- Created a basic graphical user interface with Swing framework\n\n---\n\n## TECHNICAL SKILLS\n\n- **Programming Languages:** Java, Python, JavaScript\n- **Web Technologies:** HTML5, CSS3, basic DOM manipulation\n- **Databases:** SQL, PostgreSQL, MySQL (basic administration)\n- **Version Control:** Git, GitHub\n- **Tools & Platforms:** Apache NetBeans, Visual Studio Code, JIRA\n- **Operating Systems:** Windows, Linux (basic command-line navigation)\n- **Languages:** German (native), English (fluent), Italian (elementary)\n\n---\n\n## CERTIFICATIONS & TRAINING\n\n**Oracle Certified Associate Java Programmer** | 2022\n\n---\n\n## INTERNATIONAL EXPERIENCE\n\n**Study Exchange Programme**\nErasmus+ Semester Abroad | Università degli Studi di Padova, Italy | Autumn 2021\n- Completed coursework in Advanced Object-Oriented Programming and Web Application Development\n- Collaborated with international peers on group software projects\n\n---\n\n## ADDITIONAL INFORMATION\n\n- Regular attendee at Linz Java User Group meetups\n- Self-taught in responsive web design through online documentation and tutorials\n- Familiar with Agile/Scrum development methodologies from current role",
+        "prompt_version": "v12",
+        "score": 7,
+        "reasoning": "The solution performs well in identifying the primary excellent match (Backend Developer) with strong, evidence-based reasoning. It correctly filters out all obviously irrelevant non-IT positions. However, the second position (Student IT Infrastructure) has significant weaknesses: Markus is not a student, has full-time employment conflicting with the 20h requirement, and lacks direct infrastructure experience. The reasoning acknowledges the student status issue but fails to downgrade the match quality appropriately - this should likely be 'moderate' at best, which would exclude it from the final output per the instructions. The solution would be stronger with only one position or by being more conservative about what constitutes 'good' fit when disqualifying factors are present. The dataset genuinely has limited IT development opportunities for Markus's profile, so having 1-2 matches is reasonable, but the second match is questionable."
+    },
+    {
+        "output": [
+            {
+                "rank": 1,
+                "title": "Assistent:in (m/w/d) für Head of IT & Purchasing - 20 Std./Woche",
+                "link": "https://www.adzuna.at/land/ad/5889323831?se=gH8SsW-28RGngO5vYt-GKw&utm_medium=api&utm_source=3e69dd49&v=A0C7958236EE26692A1D45DB5ACB9E3655E2BAC8",
+                "reasoning": {
+                    "key_requirements": [
+                        "Administrative support for IT department leadership",
+                        "Coordination and scheduling abilities",
+                        "Communication skills with stakeholders",
+                        "Document management and organization",
+                        "Part-time position (20 hours/week)"
+                    ],
+                    "cv_evidence": [
+                        "Current Business Systems Analyst role with 1y 9m experience supporting IT/business alignment",
+                        "Administrative Assistant experience at Hotel Salzburg with scheduling and coordination duties",
+                        "Strong stakeholder communication skills demonstrated in current role gathering requirements from internal stakeholders",
+                        "Documented experience in documentation and reporting (process documentation, workflow diagrams, business reports)",
+                        "Business Informatics degree providing IT domain knowledge"
+                    ],
+                    "verdict": "This is a good match. Julia has direct administrative support experience combined with IT domain knowledge from her Business Informatics degree and current Business Systems Analyst role. Her administrative assistant background at the hotel demonstrates scheduling, coordination, and communication capabilities. Her current role shows she can work effectively with IT stakeholders and handle documentation. The part-time nature (20h/week) is suitable for someone potentially looking for reduced hours or additional work. The only limitation is that this is a support role rather than a technical analyst position, representing a slight step sideways rather than forward career progression.",
+                    "match_quality": "good"
+                }
+            },
+            {
+                "rank": 2,
+                "title": "Backend Developer:in mit Berufserfahrung",
+                "link": "https://www.adzuna.at/land/ad/5887734933?se=gH8SsW-28RGngO5vYt-GKw&utm_medium=api&utm_source=3e69dd49&v=41895AB57ABF28BBB1DDA977910F493A3AD8B921",
+                "reasoning": {
+                    "key_requirements": [
+                        "Backend development experience",
+                        "Professional software development skills",
+                        "Database and data processing capabilities",
+                        "Experience working in technology teams",
+                        "Understanding of business analytics solutions"
+                    ],
+                    "cv_evidence": [
+                        "SQL fundamentals and basic data queries listed in technical skills",
+                        "Business Systems Analyst role involving data migration activities and system implementations",
+                        "Business Informatics degree providing theoretical software development foundation",
+                        "Experience with databases (Microsoft Access, SQL fundamentals)",
+                        "Understanding of business-technology alignment from current analyst role"
+                    ],
+                    "verdict": "This is a poor match. While Julia has IT domain knowledge through her Business Informatics degree and works in a technology-adjacent role, she has no demonstrated hands-on backend development experience. Her SQL skills are described as 'fundamentals' and 'basic queries' — not production-level backend development. She has no programming languages listed, no software development projects in her portfolio, and her current role focuses on business analysis and requirements gathering rather than coding. The position explicitly requires professional development experience ('mit Berufserfahrung'), which Julia does not possess in software engineering. Her experience with data migration is as a support participant, not as a developer.",
+                    "match_quality": "poor"
+                }
+            }
+        ],
+        "test_CV": "# CURRICULUM VITAE\n\n**JULIA BERGER**\nSalzburg, Austria | +43 662 234 5678 | julia.berger@email.com | linkedin.com/in/juliaberger\n\n---\n\n## EDUCATION\n\n**Bachelor of Science in Business Informatics**\nParis Lodron University Salzburg | Completed 2022\nGPA: 2.9/4.0\n\n**Matura (Secondary Education)**\nGymnasium Nonntal, Salzburg | 2018\n\n---\n\n## PROFESSIONAL EXPERIENCE\n\n**Business Systems Analyst**\nConsulting Partners Austria, Salzburg | March 2023 – Present (1 year 9 months)\n- Gathered and documented business requirements from internal stakeholders for system improvement projects\n- Assisted in creating process documentation and workflow diagrams for client implementations\n- Supported data migration activities and conducted basic user acceptance testing\n- Participated in client meetings to understand operational challenges and propose system solutions\n- Maintained spreadsheets and reports tracking project progress and timelines\n\n**Administrative Assistant** (part-time)\nHotel Salzburg, Salzburg | June 2021 – February 2023\n- Provided general administrative support to management and operations teams\n- Managed scheduling and coordinated internal communications\n- Assisted with guest inquiries and complaint resolution\n\n---\n\n## PROJECTS\n\n**Organizational Process Improvement Analysis**\nUniversity Capstone Project | 2021–2022\n- Analyzed workflows at a local manufacturing company using interviews and observation\n- Documented existing processes in flowcharts and created recommendations for efficiency improvements\n- Presented findings to company stakeholders in a formal business report\n\n**Basic Inventory Tracking Tool**\nPersonal Learning Project | 2021\n- Created a simple spreadsheet-based inventory system using Excel with basic formulas\n- Implemented data validation and filtering for tracking stock levels across multiple locations\n\n---\n\n## TECHNICAL SKILLS\n\n- **Business Analysis Tools:** Microsoft Excel (formulas, pivot tables, basic macros), Microsoft Access\n- **Documentation:** Microsoft Word, Microsoft Visio (basic process modeling)\n- **Databases:** SQL fundamentals, basic data queries\n- **Presentation Skills:** Microsoft PowerPoint, business report writing\n- **Project Tracking:** JIRA (basic usage), Trello\n- **Soft Skills:** Stakeholder communication, requirements gathering, problem-solving, documentation\n- **Languages:** German (native), English (fluent), Spanish (basic)\n\n---\n\n## CERTIFICATIONS & TRAINING\n\n**ISTQB Foundation Level – Business Analyst** | 2023\n\n---\n\n## ADDITIONAL INFORMATION\n\n- Regular participant in Salzburg Business Analysis professional network meetings\n- Self-study of process improvement methodologies through online courses\n- Volunteer assistant at local non-profit organization helping with administrative tasks (2022–present)\n- Strong interest in digital transformation and business-technology alignment",
+        "prompt_version": "v12",
+        "score": 4,
+        "reasoning": "The solution demonstrates a solid understanding of the matching task and correctly filters out most irrelevant postings. However, it contains a critical error by including a posting explicitly marked as 'poor' match quality in the final output, which directly contradicts the task instructions in step 6. The IT Assistant role assessment is also questionable—while Julia has relevant experience, the reasoning acknowledges this represents a career step backward, yet still rates it as 'good'. Additionally, the Management Assistenz role was overlooked despite being a plausible match for someone with Julia's administrative and organizational background. The Backend Developer inclusion with 'poor' rating is a fundamental procedural error that significantly undermines the solution's validity."
+    },
+    {
+        "output": [
+            {
+                "rank": 1,
+                "title": "Senior Fullstack Developer - .NET & Angular (w/m/d)",
+                "link": "https://www.adzuna.at/land/ad/5886440690?se=gH8SsW-28RGngO5vYt-GKw&utm_medium=api&utm_source=3e69dd49&v=B0CEF9E69CB181CA190EFDCB429C61B66AD0C3F2",
+                "reasoning": {
+                    "key_requirements": [
+                        "Strong .NET and C# backend development experience",
+                        "SQL Server database expertise",
+                        "Experience with modern development practices",
+                        "Ability to work on enterprise applications",
+                        "Team collaboration and code quality focus"
+                    ],
+                    "cv_evidence": [
+                        "5+ years as Senior Software Developer with C# and .NET Framework for financial applications",
+                        "6+ years building Windows applications with C# and SQL Server optimization",
+                        "Demonstrated database schema design and query optimization",
+                        "Contributed to code review processes and unit testing",
+                        "17+ years total experience in C# and .NET development"
+                    ],
+                    "verdict": "Excellent match for backend .NET development. CV shows extensive hands-on C# and .NET Framework experience across multiple roles spanning 17+ years. Strong SQL Server expertise with database design and optimization. Demonstrated code quality focus through unit testing and code reviews. While Angular experience isn't explicitly mentioned, the core backend requirements align perfectly with the candidate's primary skillset. The role is with established companies like ÖBB and Verbund, matching the candidate's enterprise financial services background.",
+                    "match_quality": "excellent"
+                }
+            },
+            {
+                "rank": 2,
+                "title": "Java Fullstack Developer (w/m/d) Mein Postkorb / eZustellung",
+                "link": "https://www.adzuna.at/details/5838401314?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": {
+                    "key_requirements": [
+                        "Backend development experience with enterprise applications",
+                        "Database design and optimization skills",
+                        "Experience with modern software development practices",
+                        "Public sector or large organization experience",
+                        "Quality-focused development approach"
+                    ],
+                    "cv_evidence": [
+                        "17+ years backend development in enterprise environments",
+                        "Strong SQL Server database design and optimization expertise",
+                        "Unit testing and code quality practices",
+                        "Financial services industry experience with compliance requirements",
+                        "Experience with large-scale system maintenance and modernization"
+                    ],
+                    "verdict": "Good match despite Java not being explicitly listed. The role is with BRZ (public sector IT) developing critical infrastructure applications. CV demonstrates strong transferable backend development skills: enterprise application development, database expertise, systematic testing, and experience with regulated environments (financial services). The candidate's 17 years of backend experience, database optimization skills, and comfort with large system maintenance align well with BRZ's needs. While the tech stack differs (Java vs C#), the architectural and methodological skills are directly applicable.",
+                    "match_quality": "good"
+                }
+            },
+            {
+                "rank": 3,
+                "title": "(Senior) Java Software Developer (w/m/d)",
+                "link": "https://www.adzuna.at/details/5718617808?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": {
+                    "key_requirements": [
+                        "Backend service and API development",
+                        "Database and architecture design",
+                        "Performance and scalability focus",
+                        "Clean code and architectural decision-making",
+                        "Team collaboration in small, agile environment"
+                    ],
+                    "cv_evidence": [
+                        "17+ years backend development with focus on data processing applications",
+                        "SQL Server database schema design and performance optimization",
+                        "Code quality focus through unit testing and code reviews",
+                        "Experience with incremental system upgrades and architecture decisions",
+                        "Contributed to technical support and junior developer mentoring"
+                    ],
+                    "verdict": "Good match based on transferable backend architecture skills. While CV shows C#/.NET rather than Java/Spring Boot, the candidate has deep expertise in backend service development, database design, performance optimization, and clean code practices. 17 years of experience building robust backend systems with strong architectural foundations. The role emphasizes design decisions, scalability, and code quality—all areas where the CV shows direct evidence. Small team environment matches candidate's collaborative work style. The core backend engineering competencies transfer well even across tech stacks.",
+                    "match_quality": "good"
+                }
+            },
+            {
+                "rank": 4,
+                "title": "Softwareentwickler C#/.NET & Angular (m/w/d) - Sof",
+                "link": "https://www.adzuna.at/details/5878600390?utm_medium=api&utm_source=3e69dd49",
+                "reasoning": {
+                    "key_requirements": [
+                        "C# and .NET development experience",
+                        "Healthcare/medical software background preferred",
+                        "Quality standards and precision focus",
+                        "Modern development practices",
+                        "Team collaboration skills"
+                    ],
+                    "cv_evidence": [
+                        "17+ years C# and .NET Framework development",
+                        "Financial services experience with strict compliance and quality standards",
+                        "Unit testing and code quality practices",
+                        "Experience with regulated industry standards",
+                        "Team code review participation and junior developer support"
+                    ],
+                    "verdict": "Excellent match for C#/.NET backend development. CV shows extensive hands-on C# and .NET experience across 17+ years in enterprise environments. Strong quality focus through unit testing and code reviews. Experience in financial services demonstrates ability to work with strict quality standards and regulatory requirements—directly transferable to healthcare domain. While Angular isn't explicitly mentioned, the core C#/.NET requirements are perfectly aligned. The role is with an Austrian technology company developing medical software, matching the candidate's established local presence and enterprise development background.",
+                    "match_quality": "excellent"
+                }
+            }
+        ],
+        "test_CV": "# CURRICULUM VITAE\n\n**WERNER STÖGER**\nInnsbruck, Austria | +43 512 789 1234 | werner.stoeger@email.com | linkedin.com/in/wernerstoeger\n\n---\n\n## EDUCATION\n\n**Diploma in Applied Computer Science**\nUniversity of Innsbruck | Completed 1999\n\n**Technical Vocational Training in Electronics**\nBerufsschule Innsbruck | Completed 1995\n\n---\n\n## PROFESSIONAL EXPERIENCE\n\n**Senior Software Developer**\nDataFlow Systems AG, Innsbruck | November 2018 – Present (5 years 3 months)\n- Developed and maintained backend services in C# and .NET Framework for financial data processing applications\n- Implemented database optimizations and routine performance improvements for existing systems\n- Wrote and executed unit tests to ensure code quality and reduce defects in production releases\n- Contributed to scheduled maintenance and incremental feature additions to legacy applications\n- Provided technical support to junior developers on codebase-specific issues\n\n**Software Developer**\nAlpine Software Solutions, Innsbruck | March 2012 – October 2018 (6 years 8 months)\n- Built and maintained Windows desktop applications using C# and WinForms\n- Implemented SQL Server database schemas and optimized existing queries\n- Participated in bug-fixing cycles and user-reported issue resolution\n- Worked on gradual system modernization from older .NET Framework versions\n- Supported end-user training and basic technical documentation\n\n**Programmer**\nInfoTech Consulting, Tyrol Region | June 2006 – February 2012 (5 years 9 months)\n- Developed business applications in Visual Basic and early C# versions\n- Created and maintained SQL Server databases for enterprise clients\n- Performed routine code maintenance and system updates\n- Assisted with client deployments and post-implementation support\n\n---\n\n## TECHNICAL SKILLS\n\n- **Programming Languages:** C#, Visual Basic, SQL, basic JavaScript\n- **Frameworks & Platforms:** .NET Framework 4.x, ASP.NET (basic), WinForms\n- **Databases:** SQL Server (design, optimization, maintenance), T-SQL\n- **Version Control:** Subversion (SVN), basic Git knowledge\n- **Tools & IDEs:** Visual Studio, SQL Server Management Studio, Azure DevOps (basic)\n- **Methodologies:** Waterfall development, basic Agile concepts\n- **Operating Systems:** Windows Server, Windows desktop environments\n- **Languages:** German (native), English (fluent), French (elementary)\n\n---\n\n## CERTIFICATIONS & TRAINING\n\n**Microsoft Certified: Developer Associate (.NET)** | 2008 (expired)\n\n---\n\n## ADDITIONAL INFORMATION\n\n- Steady contributor to team code review processes\n- Comfortable with incremental system upgrades and maintenance-mode development\n- Familiar with financial services industry standards and compliance requirements\n- Regular attendee at local Tyrol IT professional meetups\n- Self-taught in modern Git workflows through on-the-job experience",
+        "prompt_version": "v12",
+        "score": 6,
+        "reasoning": "The solution correctly identifies the strongest matches (the two .NET+Angular senior roles and the C#/.NET healthcare position) with accurate, evidence-based reasoning. These three roles align directly with the candidate's 17-year C#/.NET track record, SQL Server expertise, and enterprise application experience. However, the inclusion of two Java-focused positions represents a critical flaw: the candidate has no Java experience whatsoever, and while backend architecture skills transfer, the task explicitly requires direct, hands-on evidence for core requirements. A Java/Spring Boot role demanding Java expertise cannot be rated 'good' when the CV shows only C#. This inconsistency undermines the filtering logic. Additionally, the solution overlooks the 'Application Manager:in' role, which emphasizes system support, optimization, and business analytics—arguably a better fit than speculative Java roles given the candidate's comfort with maintenance-mode development and incremental upgrades. The reasoning quality is high for the .NET roles but becomes speculative for Java positions, violating the instruction that 'unrelated soft skills or tangential experience cannot offset' a core technical gap. Overall, the solution demonstrates strong pattern-matching for .NET roles but inconsistent rigor when applying the 'no direct match = disqualifying gap' rule to Java positions."
+    },
+    {
+        "output": [
+            {
+                "rank": 1,
+                "title": "Application Manager:in",
+                "link": "https://www.adzuna.at/land/ad/5887997646?se=gH8SsW-28RGngO5vYt-GKw&utm_medium=api&utm_source=3e69dd49&v=1B42C2A7BF156DC9F8D88F501B7F9FE40105510E",
+                "reasoning": {
+                    "key_requirements": [
+                        "Business process analysis and requirements gathering",
+                        "Application management and stakeholder coordination",
+                        "System documentation and user support",
+                        "Cross-functional project collaboration"
+                    ],
+                    "cv_evidence": [
+                        "17+ years analyzing client business processes and documenting requirements for ERP implementations",
+                        "Extensive stakeholder interview experience translating business needs into functional specifications",
+                        "Proven track record creating business process documentation and change management materials",
+                        "Post-implementation support and user training across multiple industries"
+                    ],
+                    "verdict": "Excellent match. Christoph's 17-year career in business consulting directly aligns with application management requirements. His core competencies—requirements gathering, process analysis, stakeholder management, documentation, and user support—are exactly what this role demands. His experience bridging business needs with technical implementations through SAP projects demonstrates the application management skillset needed.",
+                    "match_quality": "excellent"
+                }
+            },
+            {
+                "rank": 2,
+                "title": "Projektmanager:in Softwareentwicklung in Wien",
+                "link": "https://www.adzuna.at/land/ad/5887734730?se=gH8SsW-28RGngO5vYt-GKw&utm_medium=api&utm_source=3e69dd49&v=0CBB6B33F80E8C7926AF0157D9946AA0871D0B23",
+                "reasoning": {
+                    "key_requirements": [
+                        "Project management in software/IT context",
+                        "Requirements analysis and documentation",
+                        "Stakeholder coordination and communication",
+                        "Implementation roadmap creation"
+                    ],
+                    "cv_evidence": [
+                        "Prepared implementation roadmaps and project documentation for client delivery across multiple engagements",
+                        "ASAP methodology and basic Agile principles knowledge",
+                        "Managed cross-cultural communication on international SAP implementation project",
+                        "Conducted stakeholder interviews and translated business needs throughout career"
+                    ],
+                    "verdict": "Good match. While Christoph's background is more business consulting than pure software project management, he has demonstrable experience managing ERP implementation projects, creating roadmaps, coordinating stakeholders, and handling project documentation. His ASAP methodology knowledge and 8-month international project assignment show project management capabilities in IT contexts. The role appears to focus on the organizational/coordination aspects of software projects where his skills transfer well.",
+                    "match_quality": "good"
+                }
+            },
+            {
+                "rank": 3,
+                "title": "Business Analyst (m/w/x)",
+                "link": "https://www.adzuna.at/land/ad/5887997664?se=1p48sm-28RGRtLQznrNh8Q&utm_medium=api&utm_source=3e69dd49&v=60D26A877B97D2B983D5A0D062D78B61160BBCA9",
+                "reasoning": {
+                    "key_requirements": [
+                        "Requirements analysis and documentation",
+                        "Business process analysis",
+                        "Stakeholder communication",
+                        "IT systems knowledge"
+                    ],
+                    "cv_evidence": [
+                        "17+ years of requirements gathering and analysis across multiple industries",
+                        "Created technical specifications and functional documentation for system deployments",
+                        "Extensive stakeholder interview and business needs translation experience",
+                        "SAP systems knowledge with FI, CO, MM, SD modules plus configuration experience"
+                    ],
+                    "verdict": "Excellent match. This role at ACREDIA seeks a Business Analyst, and Christoph's entire career has been centered on exactly this function. His core competencies—analyzing business processes, gathering requirements, creating specifications, and bridging business and IT—are the precise skillset required. His insurance/financial services transferable experience and strong documentation skills make this an ideal fit.",
+                    "match_quality": "excellent"
+                }
+            },
+            {
+                "rank": 4,
+                "title": "IT-Organisator:in in der Abteilung IT-Organisation (IT-ORG)",
+                "link": "https://www.adzuna.at/land/ad/5886588034?se=gH8SsW-28RGngO5vYt-GKw&utm_medium=api&utm_source=3e69dd49&v=0BA773528401CF49A908DDA6C315DCB8F6E0FD86",
+                "reasoning": {
+                    "key_requirements": [
+                        "IT organization and process optimization",
+                        "Requirements analysis and documentation",
+                        "System coordination and stakeholder management",
+                        "Public sector/organizational context experience"
+                    ],
+                    "cv_evidence": [
+                        "Assessed client operational requirements and designed process improvements for 17+ years",
+                        "Created business process documentation and workflow analysis across organizations",
+                        "Supported system rollouts and configuration-related issue resolution",
+                        "Maintained client relationships through regular support and consultation"
+                    ],
+                    "verdict": "Good match. The role focuses on IT organization and process optimization within a public sector context. Christoph's extensive experience analyzing organizational workflows, designing process improvements, and creating documentation transfers well to this IT organization role. While he hasn't worked specifically in public administration, his consulting methodology and process analysis skills are directly applicable. The role appears to emphasize organizational/process aspects of IT over deep technical architecture.",
+                    "match_quality": "good"
+                }
+            },
+            {
+                "rank": 5,
+                "title": "Projektmanager:in Softwareentwicklung in Wien",
+                "link": "https://www.adzuna.at/land/ad/5888766477?se=gH8SsW-28RGngO5vYt-GKw&utm_medium=api&utm_source=3e69dd49&v=608CEC902D06FBC0BB9C9E8BF4A8E0E2C47AE914",
+                "reasoning": {
+                    "key_requirements": [
+                        "Software project management",
+                        "Requirements coordination",
+                        "Stakeholder management",
+                        "Implementation oversight"
+                    ],
+                    "cv_evidence": [
+                        "Prepared implementation roadmaps and managed project phases across multiple client engagements",
+                        "ASAP methodology and basic Agile principles knowledge",
+                        "Conducted workshops and coordinated with diverse stakeholder groups",
+                        "8-month international project assignment managing cross-functional teams"
+                    ],
+                    "verdict": "Good match. This is a duplicate posting of the earlier KSV1870 project manager role. Christoph's business consulting background with strong project coordination experience, roadmap creation, and stakeholder management makes him a good candidate. His ERP implementation experience provides the structured project management foundation, though the role may seek more dedicated software development project management experience. His skills transfer well to the organizational aspects of software projects.",
+                    "match_quality": "good"
+                }
+            },
+            {
+                "rank": 6,
+                "title": "Application Manager:in/ Low-Code-Developer:in",
+                "link": "https://www.adzuna.at/land/ad/5890233200?se=gH8SsW-28RGngO5vYt-GKw&utm_medium=api&utm_source=3e69dd49&v=448060513D3BB2CC7887DA31B11185B83F690D1F",
+                "reasoning": {
+                    "key_requirements": [
+                        "Workflow analysis and specification",
+                        "Application management on low-code platforms",
+                        "Requirements gathering and translation",
+                        "User-centric application design"
+                    ],
+                    "cv_evidence": [
+                        "17+ years analyzing workflows and documenting requirements for system implementations",
+                        "Translated business needs into functional specifications throughout career",
+                        "Created user documentation and conducted training on system functionality",
+                        "Maintained client relationships through application support activities"
+                    ],
+                    "verdict": "Good match. While the role mentions low-code development (where Christoph lacks direct experience), the core focus appears to be on workflow analysis, requirements specification, and application management—all areas where he has extensive hands-on experience. His ability to translate business processes into system specifications and his application support background align well with the application manager aspects. The low-code platform can be learned given his strong analytical foundation and basic technical understanding.",
+                    "match_quality": "good"
+                }
+            },
+            {
+                "rank": 7,
+                "title": "Business Analyst/ Produktmanager*in (w/m/d) Transaktionskommunikation",
+                "link": "https://www.adzuna.at/land/ad/5874145928?se=1p48sm-28RGRtLQznrNh8Q&utm_medium=api&utm_source=3e69dd49&v=E6A86DC89556A7EB47938EDD614011DA0D6ACEB4",
+                "reasoning": {
+                    "key_requirements": [
+                        "Business analysis and requirements gathering",
+                        "Customer journey and process optimization",
+                        "Stakeholder coordination between business and IT",
+                        "Solution development and documentation"
+                    ],
+                    "cv_evidence": [
+                        "Analyzed client business processes and identified optimization opportunities for 17+ years",
+                        "Served as liaison between business stakeholders and technical teams throughout career",
+                        "Created functional specifications and process documentation across multiple projects",
+                        "Retail industry operational models knowledge mentioned in CV"
+                    ],
+                    "verdict": "Good match. The role focuses on business analysis for transactional communication, requiring someone to bridge business and IT—precisely Christoph's core competency. His experience analyzing processes, gathering requirements, and coordinating between stakeholders aligns well. While the specific domain (transactional communication/customer journey) differs from his ERP focus, his analytical methodology and stakeholder management skills transfer effectively. The role emphasizes the business analyst function where he has deep expertise.",
+                    "match_quality": "good"
+                }
+            }
+        ],
+        "test_CV": "# CURRICULUM VITAE\n\n**CHRISTOPH HUBER**\nVienna, Austria | +43 1 234 5678 | christoph.huber@email.com | linkedin.com/in/christophhuber\n\n---\n\n## EDUCATION\n\n**Diploma in Business Information Systems**\nVienna University of Economics and Business | Completed 2001\n\n**Technical Secondary School**\nHTL Wien West | Completed 1997\n\n---\n\n## PROFESSIONAL EXPERIENCE\n\n**Senior Business Consultant**\nStrategic Solutions Consulting, Vienna | September 2019 – Present (4 years 3 months)\n- Analyzed client business processes and documented requirements for ERP system implementations\n- Conducted stakeholder interviews and translated business needs into functional specifications\n- Supported SAP configuration tasks and system testing across multiple project phases\n- Prepared implementation roadmaps and project documentation for client delivery\n- Provided post-implementation support and conducted user training sessions\n\n**Business Systems Consultant**\nEnterprise Dynamics GmbH, Vienna | January 2014 – August 2019 (5 years 8 months)\n- Gathered and analyzed organizational workflows for clients in manufacturing and logistics sectors\n- Designed process improvements and system solutions using SAP modules\n- Created business process documentation and change management materials\n- Participated in system rollouts and resolved configuration-related issues\n- Maintained client relationships through regular support and consultation activities\n\n**Systems Consultant**\nBusiness Solutions AG, Vienna | March 2007 – December 2013 (6 years 10 months)\n- Assessed client operational requirements and recommended ERP solutions\n- Supported implementation of SAP systems for mid-market clients\n- Created technical specifications and user documentation for system deployments\n- Conducted workshops and training for end-users on system functionality\n- Managed routine client inquiries and system-related troubleshooting\n\n---\n\n## TECHNICAL SKILLS\n\n- **ERP Systems:** SAP (core modules: FI, CO, MM, SD), basic configuration knowledge\n- **Business Analysis:** Requirements gathering, process modeling, workflow documentation\n- **Database Knowledge:** SQL fundamentals, basic data analysis\n- **Office Tools:** Microsoft Excel (advanced formulas), Microsoft Word, Microsoft Visio (process diagrams)\n- **Project Management:** ASAP methodology, basic Agile principles\n- **Reporting:** SAP Query tool, standard reporting concepts\n- **Soft Skills:** Client communication, stakeholder management, change management, presentation skills\n- **Languages:** German (native), English (fluent), Czech (basic)\n\n---\n\n## INTERNATIONAL EXPERIENCE\n\n**Project Assignment Abroad**\nSAP Implementation Project in Czech Republic | Prague | 2011–2012 (8 months)\n- Consulted on ERP implementation for international manufacturing client\n- Managed cross-cultural communication with local team and headquarters\n- Delivered system training and documentation in English to diverse client groups\n\n---\n\n## CERTIFICATIONS & TRAINING\n\n**SAP Fundamentals Consultant Certification** | 2009 (expired)\n\n---\n\n## ADDITIONAL INFORMATION\n\n- Steady contributor to internal consulting best practices documentation\n- Familiar with manufacturing, logistics, and retail industry operational models\n- Regular participant in Vienna consulting professional associations\n- Self-taught in advanced Excel data analysis techniques through on-the-job application\n- Comfortable with traditional waterfall and structured implementation methodologies",
+        "prompt_version": "v12",
+        "score": 7,
+        "reasoning": "The solution demonstrates strong analytical capability in matching Christoph's business consulting profile to appropriate roles, with particularly excellent identification of Business Analyst and Application Manager positions. However, it contains a critical oversight: the 'SAP Consultant (w/m/d) FI/CO' role is an exceptional match for Christoph's core SAP FI/CO competencies (explicitly listed in his technical skills), 17+ years SAP implementation experience, and consulting background. This role should rank above several included positions. The 'SAP-Logistikberater:in' role is another strong match given his SAP MM experience and logistics sector background. Additionally, the duplicate project manager posting (rank 5) should have been consolidated with rank 2, indicating incomplete deduplication. The solution correctly excluded highly technical roles lacking CV evidence, but the SAP consultant omissions represent significant gaps given how directly they match the CV's stated expertise."
+    },
+    {
+        "average_score": 6.5
+    }
+]

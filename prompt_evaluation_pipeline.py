@@ -24,6 +24,19 @@ def chat(messages, model, stop_sequences=None):
     )
     return message
 
+def log_prompt(prompt_version, prompt):
+    path = f"{Path(__file__).parent}/prompt.json"
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            logged_prompts = json.load(f)
+    except (FileNotFoundError, json.decoder.JSONDecodeError):
+        logged_prompts = {}
+
+    logged_prompts[prompt_version] = prompt
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(logged_prompts, f, indent=4, ensure_ascii=False)
+
 def generate_test_CVs():
     seniority = [
     {
@@ -71,15 +84,15 @@ def generate_test_CVs():
         json.dump(final_output, f, indent=4, ensure_ascii=False)
     return final_output
 
-prompt_version = "v9"
+prompt_version = "v12"
 
-def run_prompt(test_CV, postings_dataset_clean):        
-    prompt = f"""
+def run_prompt(test_CV, postings_dataset_cv_ready):        
+    prompt_final_match = f"""
     Your are an expert headhunter with experience in the IT and IT related Jobmarket.
     
     Job postings:
     <postings>
-    {postings_dataset_clean}
+    {postings_dataset_cv_ready}
     </postings>
 
     CV to match:
@@ -90,20 +103,13 @@ def run_prompt(test_CV, postings_dataset_clean):
     Your should do the following steps as described in order:
     <steps>
     1. Scan all job postings as provided above as well as the CV provided in detail. 
-    2. Cross reference with the seniority_schema and in a first pass exclude any postings that do not match the provided CV in seniority at all and finish the remaining instructions with the rest of the postings.
-    3. For each job posting generate a short list of key_requirements based on what is described in the postings description. Also generate a "seniority" field for each posting which describes the level of seniority and experience that is asked by the posting, the only possible options that are allowed for this field are entry/junior/mid/senior. Should no specific level of seniority or job experience be described at least mid should be the level of seniority for the posting.
-    4. Exclude any and all postings that do not EXACTLY match the seniority requirements for the CV as outlined in the seniority_schema.
-    5. Compare the key_requirements list for each posting with the skills and experience described in the CV.
-    6. Based on the two steps above create a JSON array "reasoning" with the "key_requirements", detailing the key requirements you decided on for that specific posting, "cv_evidence" which details the contents of the CV that support that the CV fits the job posting, "seniority" as described in step 3, and "verdict", which contains a verdict on wheather or not this job posting fits the CV based on the previouse two values.
-    7. Output your final list with the key value pairs: "rank": starting form 1 - the last match you included in descending order based on how good of a match each posting is. "title": The title of the job posting. "link": the redirect_url of the job posting. And finally "reasoning": The second JSON array as described in step 5.
+    2. For each job posting generate a short list of key_requirements based on what is described in the postings description and title. 
+    3. Compare the key_requirements list for each posting with the skills and experience described in the CV.
+    4. Before compiling your final list, go through the complete postings list one more time, in order. For every single posting — including ones you already dismissed — note in one short line whether it is a plausible candidate or not. Do not skip any posting in this pass, even obvious non-matches.
+    5. Based on the steps above create a JSON array "reasoning" with the "key_requirements", "cv_evidence", a free-text "verdict" explaining the fit, and a "match_quality" field set to exactly one of: "excellent", "good", "moderate", "poor", "no_match".
+    6. Filter this reasoning array: discard every entry whose match_quality is "moderate", "poor", or "no_match". Only entries marked "excellent" or "good" may proceed to the final list — this applies even if it leaves very few or zero results.
+    7. Output your final list using ONLY the entries that survived step 6, with: "rank" starting from 1, "title", "link", and "reasoning" (the entry from step 5).
     </steps>
-
-    Seniority Schema for CV:
-    <seniority_schema>
-    If the CV DOES NOT show any relavant job experience yet or very little of it, ONLY recommend positions that are of the entry or junior seniority and NO OTHERS.
-    If the CV shows A FEW years of experience, you should recommend MOSTLY mid positions as well as senior positions but ONLY if the specific job experience needed for that positions match very well with what is offered in the CV.
-    If the CV shows MANY years of experience, you should recommend senior positions only that fit the provided CV the most.    
-    </seniority_schema>
 
     Example_output:
     <example_output>
@@ -111,29 +117,34 @@ def run_prompt(test_CV, postings_dataset_clean):
         "rank": number,
         "title": string,
         "link": string,
-        "reasoning": JSON array from step 4
+        "reasoning": {{
+            "key_requirements": [...],
+            "cv_evidence": [...],
+            "verdict": string,
+            "match_quality": "excellent" | "good" | "moderate" | "poor" | "no_match"
+        }}
     }}
     </example_output>
 
     IMPORTANT further instructions to keep in mind throughout the whole operation:
     <further_instructions>
     Do not just trust the title of a job posting regarding fit with a CV. Take it as an indication for a possible fit but always dig deeper in the description as well to confirm.
+    For each key_requirement, the verdict must state explicitly whether the CV shows direct, hands-on evidence of that specific requirement — not an adjacent skill, not a related but different project. A core requirement with no direct match is a disqualifying gap; unrelated soft skills or tangential experience cannot offset it.
+    A posting's match_quality must be consistent with its own verdict text — if the verdict describes a disqualifying gap, match_quality cannot be "excellent" or "good."
+    No posting with match_quality "moderate", "poor", or "no_match" may appear in the final output, regardless of rank or how few results remain.
     After completion check the output again and revalidate to make sure there are not duplicate objects or any malformed JSON.
-    The output list does not have to have a certain length if there are only 2 or 3 good or better matches then thats acceptable. The output should be quality over quantity.
-    Any matches that are not at least good exclude from the final list
+    Should you find no matches return an empty list.
     Return only valid JSON and no extra headers or explenations, except in the reasoning field described above.
     </further_instructions>
     """
 
     messages = []
-    add_user_message(messages, prompt)
+    add_user_message(messages, prompt_final_match)
     add_assistant_message(messages, "```json")
     output = chat(messages, model="claude-sonnet-4-5-20250929", stop_sequences=["```"]).content[0].text
-    with  open(f"{Path(__file__).parent}/prompt.json", "a", encoding="utf-8") as f:
-        f.write(json.dumps({"prompt_version": prompt_version, "prompt": prompt}, ensure_ascii=False) + "\n")
-    return json.loads(output), prompt
+    return json.loads(output), prompt_final_match
 
-def model_grader(test_CV, postings_dataset_clean, output, prompt):
+def model_grader(test_CV, postings_dataset_cv_ready, output, prompt):
     eval_prompt = f"""
     Your are an expert recruiter and have a lot of experience with IT and IT related recruiting. Your task is to evaluate an AI generated solution.
     Original Task:
@@ -144,7 +155,7 @@ def model_grader(test_CV, postings_dataset_clean, output, prompt):
     Original Datasets:
     <datasets>
     {test_CV}
-    {postings_dataset_clean}
+    {postings_dataset_cv_ready}
     </datasets>
 
     Solution to evaluate:
@@ -192,10 +203,76 @@ def model_grader(test_CV, postings_dataset_clean, output, prompt):
 
 
 def run_test_case(test_CV, postings_dataset_clean):
-    output, prompt = run_prompt(test_CV, postings_dataset_clean)
+    prompt_cv_seniority = f"""
+    Your are an expert headhunter with experience in the IT and IT related Jobmarket.
+    
+    CV to match:
+    <cv>
+    {test_CV}
+    </cv>
+
+    Your should do the following steps as described in order:
+    <steps>
+    1. Analyze the CV and give it a seniority rank based on the amount of professional experience described in it. Only one of the following levels should be attributed to the CV: entry/junior/mid/senior. Clear definitions when each level should be applied can be found in the seniority_schema section.
+    2. Return valid JSON in the way outlined in the example output.
+    </steps>
+
+    Seniority Schema for CV:
+    <seniority_schema>
+    When estimating total months of experience, only count professional or 
+    skilled work: internships, working-student (Werkstudent) roles, and jobs 
+    that used domain-relevant skills or qualifications.
+
+    Do NOT count part-time jobs taken primarily for income rather than skill- 
+    building — e.g. retail, cashier, food service/restaurant/café work, 
+    delivery, warehouse/logistics work, babysitting, or similar. Exclude 
+    these from the total even if they overlap in time with other experience 
+    being counted.
+    If the CV shows job experience between 0 to 6 months classify the CV as an entry level CV.
+    If the CV showes between around 6 months to 2 years of job experience gained through possible internships or student jobs, classify the CV as junior level
+    If the CV shows between 2 and 5 years of job experience, you should classify the CV as mid level.
+    If the CV shows 5+ years of job experience, you should classify it as a senior level CV. 
+    </seniority_schema>
+
+    Example_output:
+    <example_output>
+    {{
+        "cv_seniority": "mid"
+    }}
+    </example_output>
+    """
+    messages = []
+    add_user_message(messages, prompt_cv_seniority)
+    add_assistant_message(messages, "```json")
+    try:
+        cv_seniority = json.loads(chat(messages, model = "claude-haiku-4-5-20251001", stop_sequences=["```"]).content[0].text)
+    except json.decoder.JSONDecodeError:
+        return {
+            "Error": "Returned invalid JSON for this CV."
+        }
+
+    postings_dataset_cv_ready = []
+    for posting in postings_dataset_clean:
+        if cv_seniority["cv_seniority"] == "entry":
+            if posting["posting_seniority"] == "entry":
+                postings_dataset_cv_ready.append(posting)
+            continue
+        elif cv_seniority["cv_seniority"] == "junior":
+            if posting["posting_seniority"] == "entry" or posting["posting_seniority"] == "junior":
+                postings_dataset_cv_ready.append(posting)
+        elif cv_seniority["cv_seniority"] == "mid":
+            if posting["posting_seniority"] == "junior" or posting["posting_seniority"] == "mid":
+                postings_dataset_cv_ready.append(posting)
+        else:
+            if posting["posting_seniority"] == "mid" or posting["posting_seniority"] == "senior":
+                postings_dataset_cv_ready.append(posting)
+    if not postings_dataset_cv_ready:
+        return {"Error": f"No postings at an appropriate seniority level ({cv_seniority['cv_seniority']}) were found in the current dataset."}
+
+    output, prompt = run_prompt(test_CV, postings_dataset_cv_ready)
 
     postings_matching = {}
-    for posting in postings_dataset_clean:
+    for posting in postings_dataset_cv_ready:
         postings_matching[posting["link"]] = posting["title"]
     link_counts = {}
     for i in output:
@@ -203,12 +280,13 @@ def run_test_case(test_CV, postings_dataset_clean):
         if i["link"] in postings_matching.keys() and i["title"] == postings_matching[i["link"]]:
             continue
         else:
-            return f"Posting at position {i["rank"]} has a title and link that do not match, validation faild before reaching the model grader."
+            return {"Error": f"Posting at position {i["rank"]} has a title and link that do not match, validation faild before reaching the model grader."}
     for link, count in link_counts.items():
         if count > 1:
-            return f"Duplicate link found: {link}, validation failed before reaching the model grader."
+            return {"Error": f"Duplicate link found: {link}, validation failed before reaching the model grader."}
 
-    model_grade = model_grader(test_CV, postings_dataset_clean, output, prompt)
+
+    model_grade = model_grader(test_CV, postings_dataset_cv_ready, output, prompt)
     score = model_grade["score"]
     reasoning = model_grade["reasoning"]
 
@@ -218,7 +296,7 @@ def run_test_case(test_CV, postings_dataset_clean):
         "prompt_version": prompt_version,
         "score": score,
         "reasoning": reasoning
-    }
+    }, prompt
     
 
 def run_eval():
@@ -228,12 +306,75 @@ def run_eval():
         postings_dataset = json.load(f)
     postings_dataset_clean = []
     for posting in postings_dataset:
-        postings_dataset_clean.append({"title": posting["title"], "description": posting["description"], "link": posting["redirect_url"]})
+        postings_dataset_clean.append({"title": posting["title"], "description": posting["description"], "link": posting["redirect_url"], "id": posting["id"]})
+
+    prompt_dataset_cleaning = f"""
+    Your are an expert headhunter with experience in the IT and IT related Jobmarket.
+    
+    Job postings:
+    <postings>
+    {postings_dataset_clean}
+    </postings>
+
+    Your should do the following steps as described in order:
+    <steps>
+    1. Analyze each job posting and give it a seniority rank. Each posting should only have one rank attributed to it from the following: entry/junior/mid/senior. The attribution of seniority levels is outlined in more detail in the seniority_schema.
+    2. Output a valid Json array with each entry being in the format described in the example_output.
+    </steps>
+
+    Seniority Schema for Postings:
+    <seniority_schema>
+    Classify each posting based on the experience level it requires, using these signals:
+
+    - entry: explicitly states no experience required, welcomes graduates/
+    career starters, or is aimed at students (e.g. "Berufseinstieg," 
+    "für Absolvent:innen," "Praktikum").
+    - junior: explicitly requests ~0-2 years of experience, or uses "Junior" 
+    in the title/description.
+    - mid: explicitly requests ~2-5 years of experience, or describes working 
+    independently without mention of leading others.
+    - senior: explicitly requests 5+ years, uses "Senior"/"Lead" in the title, 
+    describes responsibilities like mentoring others, owning strategy, or 
+    leading a team, or uses experience-implying language without a title 
+    (e.g. "experienced," "fundierte/mehrjährige Erfahrung," "nachweisliche 
+    Erfahrung in...") even without a specific title or year count.
+
+    Should no indication of seniority be apparent in either the title or the description of each posting, attribute the "mid" seniority level to the posting.
+    </seniority_schema>
+
+    Example_output:
+    <example_output>
+    {{
+        "posting_seniority": "mid",
+        "id": "id from the respective posting"
+    }}
+    </example_output>
+    """
+
+    messages = []
+    add_user_message(messages, prompt_dataset_cleaning)
+    add_assistant_message(messages, "```json")
+    try:
+        output_dataset_cleaning = json.loads(chat(messages, model = "claude-haiku-4-5-20251001", stop_sequences=["```"]).content[0].text)
+    except json.decoder.JSONDecodeError:
+        return print("Returned Invalid JSON")
+
+    for posting in postings_dataset_clean:
+        for value in output_dataset_cleaning:
+            if value["id"] == posting["id"]:
+                posting["posting_seniority"] = value["posting_seniority"]
+
+    missing = [p for p in postings_dataset_clean if "posting_seniority" not in p]
+    for posting in missing:
+        print(f"No seniority classification returned for: {posting['title']} (id: {posting['id']}) — excluded from this run.")
+    postings_dataset_clean = [p for p in postings_dataset_clean if "posting_seniority" in p]
+
+    
 
     results = []
     for test_CV in cvs_dataset:
         try:
-            result = run_test_case(test_CV["text"], postings_dataset_clean)
+            result, prompt = run_test_case(test_CV["text"], postings_dataset_clean)
             if type(result) == str:
                 return print(result)
             results.append(result)
@@ -250,6 +391,8 @@ def run_eval():
     average_score = mean(scores)
     results.append({"average_score": average_score})
     
+    log_prompt(prompt_version, prompt)
+
     with open(f"{Path(__file__).parent}/eval_{prompt_version}.json", "w", encoding="utf-8") as f:
         json.dump(results, f, indent=4, ensure_ascii=False)
     
